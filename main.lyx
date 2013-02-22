@@ -2,7 +2,7 @@
 \lyxformat 413
 \begin_document
 \begin_header
-\textclass book
+\textclass freepius_book
 \use_default_options true
 \maintain_unincluded_children false
 \language french
@@ -93,9 +93,13 @@ Et sur le quai d'une gare, une maman qui vous embrasse de tout son soûl.
 \end_inset
 
 Voilà comment débute un long voyage.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
 
 \shape smallcaps
- 
 \begin_inset VSpace medskip
 \end_inset
 
@@ -468,7 +472,7 @@ avril
 \end_layout
 
 \begin_layout Section*
-Vivre dans de coin d'Ardèche
+Vivre dans ce coin d'Ardèche
 \end_layout
 
 \begin_layout Standard
@@ -4737,7 +4741,7 @@ Lavage nudiste interrompu par deux randonneurs
 \begin_layout Standard
 
 \emph on
-Début mai 2011 -- Marie
+09/05/2011 -- Marie
 \end_layout
 
 \begin_layout Standard
