@@ -5,3 +5,7 @@
 Format 35
 Input book.layout
 Input cul-de-lampe.inc
+
+Preamble
+    \usepackage{lscape}
+EndPreamble

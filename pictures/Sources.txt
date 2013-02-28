@@ -1,0 +1,2 @@
+radiation_symbol.svg :
+    [PD] http://commons.wikimedia.org/wiki/File:Radiation_warning_symbol2.svg

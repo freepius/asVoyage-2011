@@ -2185,6 +2185,71 @@ Le tête-à-tête dura dix secondes, un peu plus, un peu moins.
  Et hop, la voilà repartie, plongeant dans les étincelles du soleil couchant.
 \end_layout
 
+\begin_layout Chapter*
+Annexes
+\end_layout
+
+\begin_layout Section*
+Roadbook
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+newgeometry{margin=0.5cm}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{landscape}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset include
+LatexCommand include
+filename "Roadbook Loire.lyx"
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{landscape}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+restoregeometry
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Part
 Grande marche
 \end_layout

@@ -1,2 +1,2 @@
-Map_blank.svg + Map_Loire.svg :
-    http://commons.wikimedia.org/wiki/File:France_blank.svg
+Map_blank.svg and derivatives :
+    [CC-By-Sa] http://commons.wikimedia.org/wiki/File:France_blank.svg
