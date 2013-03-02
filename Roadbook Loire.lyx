@@ -65,10 +65,201 @@
 
 \begin_body
 
+\begin_layout Subsection*
+Légende
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space \hfill{}
+\end_inset
+
+
+\series bold
+DDI
+\series default
+
+\begin_inset space \enskip{}
+\end_inset
+
+ 
+\series bold
+D
+\series default
+angers, 
+\series bold
+D
+\series default
+ifficultés et autres 
+\series bold
+I
+\series default
+ndications.
+ 
+\emph on
+Voir section ci-après.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space \hfill{}
+\end_inset
+
+
+\series bold
+TV
+\series default
+
+\begin_inset space \enskip{}
+\end_inset
+
+ 
+\series bold
+T
+\series default
+aille 
+\series bold
+V
+\series default
+ille
+\begin_inset space \qquad{}
+\end_inset
+
+
+\begin_inset Formula $TP\,(très\, petite)<1\,000\, hab.\qquad P\,(petite)<5\,000\, hab.$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $M\,(moyenne)<20\,000\, hab.\qquad G\,(grande)\geqslant20\,000\, hab.$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space \hfill{}
+\end_inset
+
+
+\series bold
+AC
+\series default
+
+\begin_inset space \enskip{}
+\end_inset
+
+ 
+\series bold
+A
+\series default
+ttrait 
+\series bold
+C
+\series default
+ulturel
+\begin_inset space \quad{}
+\end_inset
+
+
+\shape italic
+\size scriptsize
+✶
+\size default
+ = à voir
+\begin_inset space \quad{}
+\end_inset
+
+
+\size scriptsize
+✶✶
+\size default
+ = à ne pas manquer
+\begin_inset space \quad{}
+\end_inset
+
+
+\shape default
+
+\begin_inset Graphics
+	filename pictures/radiation_symbol.svg
+	lyxscale 3
+	width 0.3cm
+
+\end_inset
+
+
+\shape italic
+ = ne pas s'attarder
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space \hfill{}
+\end_inset
+
+
+\series bold
+Accès
+\series default
+
+\begin_inset space \enskip{}
+\end_inset
+
+ Accès depuis le fleuve
+\begin_inset space \quad{}
+\end_inset
+
+
+\shape italic
+G = rive gauche
+\begin_inset space \quad{}
+\end_inset
+
+D = rive droite
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space \hfill{}
+\end_inset
+
+
+\series bold
+Km
+\series default
+
+\begin_inset space \enskip{}
+\end_inset
+
+ Kilomètres cumulés
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Formula $\Delta$
+\end_inset
+
+
+\begin_inset space \enskip{}
+\end_inset
+
+ Kilomètres depuis l'étape précédente
+\end_layout
+
+\begin_layout Subsection*
+Tableau des étapes
+\end_layout
+
 \begin_layout Standard
-\paragraph_spacing single
-\noindent
-\align left
 \begin_inset Tabular
 <lyxtabular version="3" rows="97" columns="9">
 <features islongtable="true" longtabularalignment="center">
@@ -88,7 +279,7 @@
 \begin_layout Plain Layout
 
 \series bold
-IC.
+DDI
 \end_layout
 
 \end_inset
@@ -121,7 +312,7 @@ VILLE
 \begin_layout Plain Layout
 
 \series bold
-T.V
+TV
 \end_layout
 
 \end_inset
@@ -132,7 +323,7 @@ T.V
 \begin_layout Plain Layout
 
 \series bold
-A.C
+AC
 \end_layout
 
 \end_inset
@@ -165,7 +356,7 @@ Accès
 \begin_layout Plain Layout
 
 \series bold
-SRC
+Km
 \end_layout
 
 \end_inset
@@ -302,7 +493,7 @@ Aubenas
 \begin_inset Text
 
 \begin_layout Plain Layout
-MG
+M
 \end_layout
 
 \end_inset
@@ -647,7 +838,7 @@ TP
 \begin_layout Plain Layout
 
 \series bold
-Sainte Eulalie
+Sainte-Eulalie
 \end_layout
 
 \end_inset
@@ -734,7 +925,7 @@ TP
 \begin_layout Plain Layout
 
 \series bold
-Gerbier des Joncs
+Mont Gerbier-de-Jonc
 \end_layout
 
 \end_inset
@@ -912,7 +1103,7 @@ Début descente de la Loire
 \begin_layout Plain Layout
 
 \series bold
-Le Lac d'Issarlès
+Lac d'Issarlès
 \end_layout
 
 \end_inset
@@ -1440,7 +1631,7 @@ TP
 \begin_layout Plain Layout
 
 \series bold
-Saint Martin de Fugères
+Saint-Martin-de-Fugères
 \end_layout
 
 \end_inset
@@ -1701,7 +1892,7 @@ P
 \begin_layout Plain Layout
 
 \series bold
-Puy en Velay
+Puy-en-Velay
 \end_layout
 
 \end_inset
@@ -1710,7 +1901,7 @@ Puy en Velay
 \begin_inset Text
 
 \begin_layout Plain Layout
-TG
+G
 \end_layout
 
 \end_inset
@@ -1790,7 +1981,7 @@ Bcp de monuments histo.
 \begin_layout Plain Layout
 
 \series bold
-Lavoûte sur Loire
+Lavoûte-sur-Loire
 \end_layout
 
 \end_inset
@@ -1879,7 +2070,7 @@ Château
 \begin_layout Plain Layout
 
 \series bold
-Vorey sur Arzon
+Vorey-sur-Arzon
 \end_layout
 
 \end_inset
@@ -1966,7 +2157,7 @@ P
 \begin_layout Plain Layout
 
 \series bold
-Chamalières sur Loire
+Chamalières-sur-Loire
 \end_layout
 
 \end_inset
@@ -2326,7 +2517,7 @@ P
 \begin_layout Plain Layout
 
 \series bold
-Bas en basset
+Bas-en-basset
 \end_layout
 
 \end_inset
@@ -2415,7 +2606,7 @@ G (1km)
 \begin_layout Plain Layout
 
 \series bold
-Aurec sur Loire
+Aurec-sur-Loire
 \end_layout
 
 \end_inset
@@ -2593,7 +2784,7 @@ Barrage de Grangent
 \begin_layout Plain Layout
 
 \series bold
-Saint Just Saint Rambert
+Saint-Just-Saint-Rambert
 \end_layout
 
 \end_inset
@@ -2773,7 +2964,7 @@ D (difficile)
 \begin_layout Plain Layout
 
 \series bold
-Montrond les Bains
+Montrond-les-Bains
 \end_layout
 
 \end_inset
@@ -3225,7 +3416,7 @@ Roanne
 \begin_inset Text
 
 \begin_layout Plain Layout
-TG
+G
 \end_layout
 
 \end_inset
@@ -3661,7 +3852,7 @@ G (un peu loin)
 \begin_layout Plain Layout
 
 \series bold
-Saint Aubin sur Loire
+Saint-Aubin-sur-Loire
 \end_layout
 
 \end_inset
@@ -3939,7 +4130,7 @@ Nevers
 \begin_inset Text
 
 \begin_layout Plain Layout
-TG
+G
 \end_layout
 
 \end_inset
@@ -4108,7 +4299,7 @@ D
 \begin_layout Plain Layout
 
 \series bold
-La Charité sur Loire
+La Charité-sur-Loire
 \end_layout
 
 \end_inset
@@ -4197,7 +4388,7 @@ D
 \begin_layout Plain Layout
 
 \series bold
-Pouilly sur Loire
+Pouilly-sur-Loire
 \end_layout
 
 \end_inset
@@ -4286,7 +4477,7 @@ D
 \begin_layout Plain Layout
 
 \series bold
-Saint Satur
+Saint-Satur
 \end_layout
 
 \end_inset
@@ -4375,7 +4566,7 @@ G
 \begin_layout Plain Layout
 
 \series bold
-Cosne sur Loire
+Cosne-sur-Loire
 \end_layout
 
 \end_inset
@@ -4462,7 +4653,7 @@ D
 \begin_layout Plain Layout
 
 \series bold
-Neuvy sur Loire
+Neuvy-sur-Loire
 \end_layout
 
 \end_inset
@@ -4558,7 +4749,7 @@ D (loin)
 
 \end_inset
 
- Belleville sur Loire
+ Belleville-sur-Loire
 \end_layout
 
 \end_inset
@@ -4941,7 +5132,7 @@ Centrale nucléaire
 \begin_layout Plain Layout
 
 \series bold
-Sully sur Loire
+Sully-sur-Loire
 \end_layout
 
 \end_inset
@@ -5030,7 +5221,7 @@ G
 \begin_layout Plain Layout
 
 \series bold
-Chateauneuf sur Loire
+Chateauneuf-sur-Loire
 \end_layout
 
 \end_inset
@@ -5208,7 +5399,7 @@ G
 \begin_layout Plain Layout
 
 \series bold
-Saint Denis de l'Hotel
+Saint Denis-de-l'Hotel
 \end_layout
 
 \end_inset
@@ -5306,7 +5497,7 @@ Orléans
 \begin_inset Text
 
 \begin_layout Plain Layout
-TG
+G
 \end_layout
 
 \end_inset
@@ -5388,7 +5579,7 @@ D et G
 \begin_layout Plain Layout
 
 \series bold
-Meung sur Loire
+Meung-sur-Loire
 \end_layout
 
 \end_inset
@@ -5577,7 +5768,7 @@ D
 
 \end_inset
 
- Saint Laurent des Eaux
+ Saint-Laurent-des-Eaux
 \end_layout
 
 \end_inset
@@ -5673,7 +5864,7 @@ Centrale nucléaire
 \begin_layout Plain Layout
 
 \series bold
-Muides sur Loire
+Muides-sur-Loire
 \end_layout
 
 \end_inset
@@ -5760,7 +5951,7 @@ G
 \begin_layout Plain Layout
 
 \series bold
-Saint Dyé sur Loire
+Saint-Dyé-sur-Loire
 \end_layout
 
 \end_inset
@@ -5860,7 +6051,7 @@ Blois
 \begin_inset Text
 
 \begin_layout Plain Layout
-TG
+G
 \end_layout
 
 \end_inset
@@ -5940,7 +6131,7 @@ D
 \begin_layout Plain Layout
 
 \series bold
-Chaumont sur Loire
+Chaumont-sur-Loire
 \end_layout
 
 \end_inset
@@ -6131,7 +6322,7 @@ Tours
 \begin_inset Text
 
 \begin_layout Plain Layout
-TG
+G
 \end_layout
 
 \end_inset
@@ -6300,7 +6491,7 @@ D
 \begin_layout Plain Layout
 
 \series bold
-La Chapelle sur Loire
+La Chapelle-sur-Loire
 \end_layout
 
 \end_inset
@@ -6387,7 +6578,7 @@ D
 \begin_layout Plain Layout
 
 \series bold
-Chouzé sur Loire
+Chouzé-sur-Loire
 \end_layout
 
 \end_inset
@@ -6476,7 +6667,7 @@ D
 \begin_layout Plain Layout
 
 \series bold
-Candes Saint Martin
+Candes-Saint-Martin
 \end_layout
 
 \end_inset
@@ -6743,7 +6934,7 @@ G
 \begin_layout Plain Layout
 
 \series bold
-Saint Martin de la Place
+Saint Martin-de-la-Place
 \end_layout
 
 \end_inset
@@ -6832,7 +7023,7 @@ D
 \begin_layout Plain Layout
 
 \series bold
-Les Rosiers sur Loire
+Les Rosiers-sur-Loire
 \end_layout
 
 \end_inset
@@ -7008,7 +7199,7 @@ G
 \begin_layout Plain Layout
 
 \series bold
-Saint Mathurin sur Loire
+Saint-Mathurin-sur-Loire
 \end_layout
 
 \end_inset
@@ -7184,7 +7375,7 @@ D
 \begin_layout Plain Layout
 
 \series bold
-Les Ponts de Cé
+Les Ponts-de-Cé
 \end_layout
 
 \end_inset
@@ -7273,7 +7464,7 @@ D
 \begin_layout Plain Layout
 
 \series bold
-Sainte Gemmes sur Loire
+Sainte-Gemmes-sur-Loire
 \end_layout
 
 \end_inset
@@ -7447,7 +7638,7 @@ D
 \begin_layout Plain Layout
 
 \series bold
-Chalonnes sur Loire
+Chalonnes-sur-Loire
 \end_layout
 
 \end_inset
@@ -7534,7 +7725,7 @@ G
 \begin_layout Plain Layout
 
 \series bold
-Montjean sur Loire
+Montjean-sur-Loire
 \end_layout
 
 \end_inset
@@ -7623,7 +7814,7 @@ G
 \begin_layout Plain Layout
 
 \series bold
-Ingrandes sur Loire
+Ingrandes-sur-Loire
 \end_layout
 
 \end_inset
@@ -7712,7 +7903,7 @@ D
 \begin_layout Plain Layout
 
 \series bold
-Saint Florent le Vieil
+Saint-Florent-le-Vieil
 \end_layout
 
 \end_inset
@@ -8070,7 +8261,7 @@ D
 \begin_layout Plain Layout
 
 \series bold
-Mauves sur Loire
+Mauves-sur-Loire
 \end_layout
 
 \end_inset
@@ -8157,7 +8348,7 @@ D
 \begin_layout Plain Layout
 
 \series bold
-Thouaré sur Loire
+Thouaré-sur-Loire
 \end_layout
 
 \end_inset
@@ -8255,7 +8446,7 @@ Nantes
 \begin_inset Text
 
 \begin_layout Plain Layout
-TG
+G
 \end_layout
 
 \end_inset
@@ -8317,7 +8508,7 @@ D et G
 \begin_layout Plain Layout
 
 \size small
-48
+47
 \end_layout
 
 \end_inset
@@ -8406,7 +8597,7 @@ D
 \begin_layout Plain Layout
 
 \size small
-48
+47
 \end_layout
 
 \end_inset
@@ -8497,7 +8688,7 @@ G
 \begin_layout Plain Layout
 
 \size small
-49
+47 ; 48
 \end_layout
 
 \end_inset
@@ -8586,7 +8777,7 @@ D
 \begin_layout Plain Layout
 
 \size small
-50
+47 ; 49
 \end_layout
 
 \end_inset
@@ -8677,7 +8868,7 @@ G
 \begin_layout Plain Layout
 
 \size small
-50
+47 ; 49
 \end_layout
 
 \end_inset
@@ -8697,7 +8888,7 @@ G
 \begin_layout Plain Layout
 
 \series bold
-Saint Brévin
+Saint-Brévin-les-Pins
 \end_layout
 
 \end_inset
@@ -8766,6 +8957,1326 @@ G
 \end_inset
 
 
+\end_layout
+
+\begin_layout Subsection*
+Dangers, difficultés et autres indications
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+1 Retournac : centrale hydro-électrique
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Passer à gauche dans une gouttière.
+ Nous avons laissé glisser le kayak.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+2 Retournac : route passant sur l'eau
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Portage sur 100
+\begin_inset space \thinspace{}
+\end_inset
+
+m par la gauche.
+ Attention : les voitures roulent vite ; pas de trottoir ; pas de visibilité.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+3 De Retournac à Vaures
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+8
+\begin_inset space \thinspace{}
+\end_inset
+
+km de classe
+\begin_inset space ~
+\end_inset
+
+I-II.
+ Navigation agréable, sans grande difficulté.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+4 Petit barrage hydroélectrique
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Portage obligatoire par la droite, chemin sur 500
+\begin_inset space \thinspace{}
+\end_inset
+
+m.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+5 De Vaures à Confolent
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+5
+\begin_inset space \thinspace{}
+\end_inset
+
+km de classe
+\begin_inset space ~
+\end_inset
+
+I-II.
+ Parcours très joli dans de belles gorges.
+ Passages à vagues par hautes eaux.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "20cm"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+6 De Confolent à Bas-en-Basset
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+10
+\begin_inset space \thinspace{}
+\end_inset
+
+km de classe
+\begin_inset space ~
+\end_inset
+
+II.
+ Parcours sportif et plus soutenu que le précédent.
+ À signaler une portion plus calme à l'arrivée.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+7 De Bas-en-Basset à Aurec-sur-Loire
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+13
+\begin_inset space \thinspace{}
+\end_inset
+
+km de classe
+\begin_inset space ~
+\end_inset
+
+I-II.
+ Nombreux obstacles : aucun portage nécessaire ; mais bien choisir ses passages
+ en fonction du niveau d'eau.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+8 Arrivée à Aurec-sur-Loire
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Difficile car beaucoup de grosses pierres qui affleurent.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+9 Barrage de Grangent
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Débarquer en rive gauche, tout près du barrage.
+ Prendre la route à gauche (sur 800
+\begin_inset space \thinspace{}
+\end_inset
+
+m), puis le chemin à droite réservé à EDF.
+ Portage sur 1,5
+\begin_inset space \thinspace{}
+\end_inset
+
+km.
+ 
+\emph on
+(voir carte ci-après)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+10 De Grangent à Saint-Just-Saint-Rambert
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Loire très caillouteuse en basses eaux.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "20cm"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+11 De Saint-Just-Saint-Rambert à un peu avant Feurs
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+En basses eaux, grandes plaques rocheuses glissantes (faisant comme des
+ marches).
+ Son franchissement peut-être long et fatiguant !
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+12 Pont de Veauche
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Gros blocs rocheux juste après les arches, 
+\emph on
+visibles au dernier moment
+\emph default
+ ! Faire un portage par la droite.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+13 Au niveau de l'ENS de Montrond-les-Bains
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Amas de blocs de béton et bouts de ferraille, formant un seuil.
+ Portage par la droite sur 200
+\begin_inset space \thinspace{}
+\end_inset
+
+m.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+14 Seuil de Feurs
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Sortir le kayak en rive droite, sous le pont.
+ Aller à droite sur 250
+\begin_inset space \thinspace{}
+\end_inset
+
+m ; puis tourner à gauche dans la rue longeant l'arrière de l'abattoir.
+ Continuer sur le chemin, jusqu'à une mise à l'eau convenable.
+ Portage sur 1
+\begin_inset space \thinspace{}
+\end_inset
+
+km.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+15 Barrage de Villerest
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Sortir le kayak en rive gauche.
+ Prendre le chemin qui descend vers la droite et longe le camping.
+ Remise à l'eau juste avant le pont.
+ Portage sur 1,5
+\begin_inset space \thinspace{}
+\end_inset
+
+km.
+
+\emph on
+ (voir carte ci-après)
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "20cm"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+16 Seuil de Roanne
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Prendre à gauche vers le canal.
+ Aller tout au bout du port de plaisance, à droite.
+ Sortir le kayak.
+ Passer derrière la capitainerie.
+ Traverser la route et remettre à l'eau au niveau du chemin de promenade.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+17 Sur 5
+\begin_inset space \thinspace{}
+\end_inset
+
+km après Roanne
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Navigation difficile car présence de beaucoup d'obstacles dus à la ville.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+18 Entre Roanne et Digoin
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Beaucoup de lacets et de gravières.
+ Peu de profondeur.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+19 Arrivée à Digoin, passage sous la pont-canal
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Passer à gauche sous la 2
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+e
+\end_layout
+
+\end_inset
+
+ arche.
+ Gros blocs rocheux : passage risqué en basses eaux.
+ Portage sur 20
+\begin_inset space \thinspace{}
+\end_inset
+
+m par la gauche.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+20 Entre Digoin et Decize
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Bancs de sable et petites gravières.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "20cm"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+21 Pont avant Diou
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Beaucoup de débris.
+ Passer à gauche sous la 1
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+ère
+\end_layout
+
+\end_inset
+
+ arche.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+22 Obstacle naturel après Diou
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Formation calcaire importante.
+ Gros remous de classe
+\begin_inset space ~
+\end_inset
+
+II.
+ Passer à droite.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+23 Petit barrage hydro-électrique de Decize
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Les indications disent de passer à gauche.
+ Portage sur 200
+\begin_inset space \thinspace{}
+\end_inset
+
+m en sortie d'agglomération, difficile car dans le sable.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+24 Seuil de Imphy
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Juste au niveau de l'usine, avant le pont.
+ Le seuil ne se voit pas facilement.
+ Passer à droite, sans problème en basses eaux.
+ Attention tout de même à quelques cailloux.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+25 Pont de Nevers
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Passer à droite.
+ Nous avons laissé filer le kayak mais nous aurions dû : soit faire un portage
+ sur 20
+\begin_inset space \thinspace{}
+\end_inset
+
+m à partir du pont ; soit être dans l'eau et accompagner le kayak.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "20cm"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+26 Pont de la Charité-sur-Loire
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Passer à droite sous la 3
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+e
+\end_layout
+
+\end_inset
+
+ arche.
+ Il y a un plan incliné prévu à cet effet.
+ Ça remue un peu mais ça passe très bien.
+ Attention : 20
+\begin_inset space \thinspace{}
+\end_inset
+
+m après, 2
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+e
+\end_layout
+
+\end_inset
+
+ rangée de cailloux qui passe bien aussi.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+27 Pont de Saint-Satur
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Pieux en bois dans le lit, avant et sous le pont.
+ Après le pont, présence d'une ouverture pour kayak, à gauche.
+ Ailleurs, présence de pierres.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+28 De Saint-Satur à Cosne-sur-Loire
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Blocs rocheux éparses.
+ Slalomer.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+29 
+\series default
+
+\begin_inset Graphics
+	filename pictures/radiation_symbol.svg
+	lyxscale 3
+	width 0.3cm
+
+\end_inset
+
+
+\series bold
+ Bellevile : barrage
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Passer à droite.
+ Portage sur 50
+\begin_inset space \thinspace{}
+\end_inset
+
+m sous le pont.
+ Facile car très bien aménagé.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+30 Sur 2
+\begin_inset space \thinspace{}
+\end_inset
+
+km après Briare
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Roches, gravières et sablières.
+ Lecture difficile en basses eaux.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "20cm"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+31 Vieux pont de Gien
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Passer à droite sous la 4
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+e
+\end_layout
+
+\end_inset
+
+ arche.
+ Facile : des remous mais pas de danger.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+32 
+\series default
+
+\begin_inset Graphics
+	filename pictures/radiation_symbol.svg
+	lyxscale 3
+	width 0.3cm
+
+\end_inset
+
+
+\series bold
+ Dampierre : barrage
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Passer à gauche dans le plan incliné pour poissons.
+ Tirer le kayak en basses eaux.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+33 Sur 2
+\begin_inset space \thinspace{}
+\end_inset
+
+km après la centrale
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Blocs rocheux provoquant beaucoup de remous.
+ Pas facile de slalomer en basses eaux.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+34 Pont de Jargeau
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Passer sous la 2
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+e
+\end_layout
+
+\end_inset
+
+ arche à droite.
+ Facile.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+35 4
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+
+\series bold
+e
+\end_layout
+
+\end_inset
+
+ pont d'Orléans (pont moderne)
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Passer à gauche où c'est plus large.
+ À droite : plein de cailloux ; il faut slalomer.
+ Sous les ponts, beaucoup de cailloux qui peuvent frotter par basses eaux.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "20cm"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+36 Restes du pont Jeanne d'Arc à Meung-sur-Loire
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Passer à droite dans la grosse vague.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+37 Vieux pont de Beaugency
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Passer à gauche sous la 6
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+e
+\end_layout
+
+\end_inset
+
+ arche.
+ Facile.
+ Mais juste après, il y a 3
+\begin_inset space ~
+\end_inset
+
+ou
+\begin_inset space ~
+\end_inset
+
+4
+\begin_inset space ~
+\end_inset
+
+bancs de cailloux isolés : il faut slalomer ou ça frotte.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+38 
+\series default
+
+\begin_inset Graphics
+	filename pictures/radiation_symbol.svg
+	lyxscale 3
+	width 0.3cm
+
+\end_inset
+
+
+\series bold
+ Saint-Laurent-des-Eaux : barrage
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Passer à droite (indiqué par de grands panneaux).
+ Portage sur 200
+\begin_inset space \thinspace{}
+\end_inset
+
+m ; facile ; chemin goudronné.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+39 Vieux pont de Blois
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Passer à droite sous la 3
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+e
+\end_layout
+
+\end_inset
+
+ arche.
+ Ça passe bien mais attention aux remous.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+40 Amboise
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Nous sommes passés dans le chenal gauche de l'île (direction Amboise).
+ Sous le vieux pont, nous sommes passés à droite sous la 2
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+e
+\end_layout
+
+\end_inset
+
+ arche.
+ Ça a été, sauf à la fin où nous avons eu un gros frottement.
+ Peut-être, faire un portage par la gauche (courant trop fort pour laisser
+ glisser).
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "20cm"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+41 Aval de Rochecorbon
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Travaux dans le bras droit menant au centre ville de Tours.
+ Passage possible quand la barge transportant les engins sur l'île est inactive
+ (en rive droite).
+ Les câbles sont alors sous la surface de l'eau.
+ Si les câbles sont tendus, portage à priori difficile.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+42 Pont Wilson de Tours (3
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+e
+\end_layout
+
+\end_inset
+
+ pont)
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+
+\emph on
+Très risqué !
+\emph default
+ Beaucoup de pierres et morceaux de ferrailles sous les arches.
+ Courant rapide et seuil important.
+ Nous avons fait un portage sur la rive droite.
+ Descendre au niveau d'une sortie d'égout (eaux stagnantes dégueulasses).
+ Porter sur 30
+\begin_inset space \thinspace{}
+\end_inset
+
+m via un chemin goudronné.
+ Remettre à l'eau juste après le pont, au niveau d'un terrain vague.
+\end_layout
+
+\begin_layout Labeling
+\paragraph_spacing other 0.5
+\labelwidthstring 00
+
+\series bold
+43 Pont Napoléon de Tours, après la ville
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Passer vers la droite.
+ Grosses vagues mais facile.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+44 À partir de Saint-Mathurin-sur-Loire
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Chenal indiqué par bouées rouges et vertes.
+ Permet d'éviter les bancs de sable.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+45 Vieux pont des Ponts-de-Cé
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Passer à gauche sous la 3
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+e
+\end_layout
+
+\end_inset
+
+ arche.
+ Ça passe très bien.
+ Petit seuil après le pont (hauteur
+\begin_inset space ~
+\end_inset
+
+40
+\begin_inset space \thinspace{}
+\end_inset
+
+cm).
+ Il se passe facilement par la gauche.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "20cm"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+46 À partir de Oudon
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Début de l'influence des marées.
+ Pagayer durant la marée montante est assez physique.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+47 À partir de Nantes
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+
+\emph on
+Être très prudent !
+\emph default
+ Estuaire : Loire très large ; de gros bateaux circulent ; grosses vagues
+ possibles ; marées ; vent d'ouest...
+ Rester en rive gauche.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+48 Centrale de Cordemais
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Nous avons rasé la centrale (rive droite).
+ Attention aux navires qui y partent ou y arrivent !
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00
+
+\series bold
+49 Jusqu'à Saint-Brévin-les-Pins
+\series default
+
+\begin_inset space \quad{}
+\end_inset
+
+→
+\begin_inset space \quad{}
+\end_inset
+
+Naviguer 
+\emph on
+impérativement
+\emph default
+ en rive gauche.
+ Rive droite : de gros navires circulent.
 \end_layout
 
 \end_body
