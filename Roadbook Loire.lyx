@@ -37,7 +37,7 @@
 \cite_engine basic
 \use_bibtopic false
 \use_indices false
-\paperorientation landscape
+\paperorientation portrait
 \suppress_date false
 \use_refstyle 0
 \index Index
@@ -64,6 +64,22 @@
 \end_header
 
 \begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{landscape}
+\end_layout
+
+\end_inset
+
+
+\end_layout
 
 \begin_layout Subsection*
 Légende
@@ -8960,6 +8976,9 @@ G
 \end_layout
 
 \begin_layout Subsection*
+\begin_inset Newpage clearpage
+\end_inset
+
 Dangers, difficultés et autres indications
 \end_layout
 
@@ -9075,18 +9094,6 @@ km de classe
 I-II.
  Parcours très joli dans de belles gorges.
  Passages à vagues par hautes eaux.
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset line
-LatexCommand rule
-offset "0.5ex"
-width "20cm"
-height "1pt"
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Labeling
@@ -9336,18 +9343,6 @@ km.
  (voir carte ci-après)
 \end_layout
 
-\begin_layout Standard
-\begin_inset CommandInset line
-LatexCommand rule
-offset "0.5ex"
-width "20cm"
-height "1pt"
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Labeling
 \labelwidthstring 00
 
@@ -9582,18 +9577,6 @@ Passer à droite.
 \end_inset
 
 m à partir du pont ; soit être dans l'eau et accompagner le kayak.
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset line
-LatexCommand rule
-offset "0.5ex"
-width "20cm"
-height "1pt"
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Labeling
@@ -9878,18 +9861,6 @@ e
 Passer à gauche où c'est plus large.
  À droite : plein de cailloux ; il faut slalomer.
  Sous les ponts, beaucoup de cailloux qui peuvent frotter par basses eaux.
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset line
-LatexCommand rule
-offset "0.5ex"
-width "20cm"
-height "1pt"
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Labeling
@@ -10186,18 +10157,6 @@ cm).
  Il se passe facilement par la gauche.
 \end_layout
 
-\begin_layout Standard
-\begin_inset CommandInset line
-LatexCommand rule
-offset "0.5ex"
-width "20cm"
-height "1pt"
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Labeling
 \labelwidthstring 00
 
@@ -10277,6 +10236,52 @@ impérativement
 \emph default
  en rive gauche.
  Rive droite : de gros navires circulent.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{landscape}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+Cartes des 2 gros portages
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename pictures/Portage_Grangent_Gris.png
+	lyxscale 50
+	width 13cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename pictures/Portage_Villerest_Gris.png
+	lyxscale 50
+	width 13cm
+
+\end_inset
+
+
 \end_layout
 
 \end_body

@@ -7,5 +7,5 @@ Input book.layout
 Input cul-de-lampe.inc
 
 Preamble
-    \usepackage{lscape}
+    \usepackage{pdflscape}
 EndPreamble

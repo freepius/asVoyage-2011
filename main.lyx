@@ -2208,7 +2208,7 @@ newgeometry{margin=0.5cm}
 
 
 \backslash
-begin{landscape}
+begin{flushleft}
 \end_layout
 
 \begin_layout Plain Layout
@@ -2235,7 +2235,7 @@ status open
 
 
 \backslash
-end{landscape}
+end{flushleft}
 \end_layout
 
 \begin_layout Plain Layout
