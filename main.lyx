@@ -2316,19 +2316,19 @@ status open
 
 
 \backslash
-newgeometry{margin=0.5cm}
-\end_layout
-
-\begin_layout Plain Layout
-
-
-\backslash
 begin{flushleft}
 \end_layout
 
 \begin_layout Plain Layout
 
+	
+\backslash
+newgeometry{margin=0.5cm, left=1.5cm}
+\end_layout
 
+\begin_layout Plain Layout
+
+	
 \backslash
 pagestyle{empty}
 \end_layout
@@ -2343,6 +2343,9 @@ filename "Roadbook Loire.lyx"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
 \begin_inset ERT
 status open
 

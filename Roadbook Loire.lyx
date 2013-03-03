@@ -26,7 +26,7 @@
 \bibtex_command default
 \index_command default
 \paperfontsize default
-\spacing single
+\spacing onehalf
 \use_hyperref false
 \papersize a5paper
 \use_geometry true
@@ -44,7 +44,7 @@
 \shortcut idx
 \color #008000
 \end_index
-\leftmargin 0.5cm
+\leftmargin 1.5cm
 \topmargin 0.5cm
 \rightmargin 0.5cm
 \bottommargin 0.5cm
@@ -272,7 +272,7 @@ Km
 \end_layout
 
 \begin_layout Subsection*
-Tableau des étapes
+Tableau des villes et autres lieux remarquables
 \end_layout
 
 \begin_layout Standard
@@ -1500,7 +1500,7 @@ TP
 \begin_inset Text
 
 \begin_layout Plain Layout
-+ beau village de Fr.
+Plus beau village de France
 \end_layout
 
 \end_inset
@@ -2569,7 +2569,11 @@ P
 \begin_inset Text
 
 \begin_layout Plain Layout
-G (1km)
+G (1
+\begin_inset space \thinspace{}
+\end_inset
+
+km)
 \end_layout
 
 \end_inset
@@ -3281,7 +3285,11 @@ Village gallo-romain
 \begin_inset Text
 
 \begin_layout Plain Layout
-G (1km)
+G (1
+\begin_inset space \thinspace{}
+\end_inset
+
+km)
 \end_layout
 
 \end_inset
@@ -6714,7 +6722,7 @@ TP
 \begin_inset Text
 
 \begin_layout Plain Layout
-+ beau village de Fr.
+Plus beau village de France
 \end_layout
 
 \end_inset
@@ -6803,7 +6811,7 @@ TP
 \begin_inset Text
 
 \begin_layout Plain Layout
-+ beau village de Fr.
+Plus beau village de France
 \end_layout
 
 \end_inset
@@ -8978,9 +8986,6 @@ G
 \end_layout
 
 \begin_layout Subsection*
-\begin_inset Newpage clearpage
-\end_inset
-
 Dangers, difficultés et autres indications
 \end_layout
 
@@ -9216,18 +9221,6 @@ km.
 Loire très caillouteuse en basses eaux.
 \end_layout
 
-\begin_layout Standard
-\begin_inset CommandInset line
-LatexCommand rule
-offset "0.5ex"
-width "20cm"
-height "1pt"
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Labeling
 \labelwidthstring 00
 
@@ -9261,7 +9254,7 @@ En basses eaux, grandes plaques rocheuses glissantes (faisant comme des
 \begin_inset space \quad{}
 \end_inset
 
-Gros blocs rocheux juste après les arches, 
+Gros blocs rocheux après les arches, 
 \emph on
 visibles au dernier moment
 \emph default
@@ -9452,18 +9445,6 @@ m par la gauche.
 \end_inset
 
 Bancs de sable et petites gravières.
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset line
-LatexCommand rule
-offset "0.5ex"
-width "20cm"
-height "1pt"
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Labeling
@@ -9715,18 +9696,6 @@ km après Briare
 
 Roches, gravières et sablières.
  Lecture difficile en basses eaux.
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset line
-LatexCommand rule
-offset "0.5ex"
-width "20cm"
-height "1pt"
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Labeling
@@ -10013,18 +9982,6 @@ e
  glisser).
 \end_layout
 
-\begin_layout Standard
-\begin_inset CommandInset line
-LatexCommand rule
-offset "0.5ex"
-width "20cm"
-height "1pt"
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Labeling
 \labelwidthstring 00
 
@@ -10044,6 +10001,10 @@ Travaux dans le bras droit menant au centre ville de Tours.
  (en rive droite).
  Les câbles sont alors sous la surface de l'eau.
  Si les câbles sont tendus, portage à priori difficile.
+\begin_inset Newpage clearpage
+\end_inset
+
+
 \end_layout
 
 \begin_layout Labeling
@@ -10086,7 +10047,6 @@ m via un chemin goudronné.
 \end_layout
 
 \begin_layout Labeling
-\paragraph_spacing other 0.5
 \labelwidthstring 00
 
 \series bold
@@ -10118,8 +10078,8 @@ Passer vers la droite.
 \begin_inset space \quad{}
 \end_inset
 
-Chenal indiqué par bouées rouges et vertes.
- Permet d'éviter les bancs de sable.
+Chenal indiqué par des bouées rouges et vertes.
+ Elles permettent d'éviter les bancs de sable.
 \end_layout
 
 \begin_layout Labeling
@@ -10266,7 +10226,7 @@ Cartes des 2 gros portages
 \begin_inset Graphics
 	filename pictures/Portage_Grangent_Gris.png
 	lyxscale 50
-	width 13cm
+	width 12.5cm
 
 \end_inset
 
@@ -10279,7 +10239,7 @@ Cartes des 2 gros portages
 \begin_inset Graphics
 	filename pictures/Portage_Villerest_Gris.png
 	lyxscale 50
-	width 13cm
+	width 12.5cm
 
 \end_inset
 
