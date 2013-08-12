@@ -78,7 +78,7 @@ récit,
  écrit presque deux ans après sa fin.
  Un court texte qui introduit les souvenirs -- ci factuels et précis, là
  vaporeux et lointains, ci cocasses et légers, là intellos et militants
- -- d'un premier voyage au long cours.
+ -- d'un premier voyage au long cours, réalisé en 2011, d'avril à octobre.
  Le nôtre.
  Celui de Mathieu et Marie, un vieux couple de jeunes (26
 \begin_inset space ~
@@ -187,11 +187,30 @@ Nous n'en disons pas plus et vous souhaitons bonne lecture.
 \end_layout
 
 \begin_layout Part
-Descente de la Loire
+Descente de Loire
 \end_layout
 
 \begin_layout Section*
 Traversée de l'Ardèche
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align right
+
+\emph on
+Récit d'Aubenas à Retournac ; 2 au 13 avril ; 120
+\begin_inset space \thinspace{}
+\end_inset
+
+km
+\shape smallcaps
+\emph default
+
+\begin_inset VSpace smallskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -210,7 +229,7 @@ Et sur le quai d'une gare, une maman qui vous embrasse de tout son soûl.
 Voilà comment débute un long voyage.
 \shape smallcaps
 
-\begin_inset VSpace bigskip
+\begin_inset VSpace smallskip
 \end_inset
 
 
@@ -239,11 +258,7 @@ semaines.
 \begin_inset space ~
 \end_inset
 
-avril
-\begin_inset space ~
-\end_inset
-
-2011 -- à la sortie d'un bus.
+avril -- à la sortie d'un bus.
  Nous attendent alors 150
 \begin_inset space ~
 \end_inset
@@ -443,6 +458,20 @@ Vivre dans ce coin d'Ardèche
 \end_layout
 
 \begin_layout Standard
+\align right
+
+\emph on
+7 avril ; Marie
+\shape smallcaps
+\emph default
+
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 En parcourant les sucs ardéchois, autour du mont Gerbier\SpecialChar \nobreakdash-
 de\SpecialChar \nobreakdash-
 Jonc, nous avons
@@ -478,6 +507,20 @@ Cette dynamique touristique contribue largement à l'augmentation du prix
 
 \begin_layout Section*
 Le mont Gerbier-de-Jonc
+\end_layout
+
+\begin_layout Standard
+\align right
+
+\emph on
+7 avril ; Marie
+\shape smallcaps
+\emph default
+
+\begin_inset VSpace smallskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -545,6 +588,24 @@ Gerbier
 
 \begin_layout Section*
 Baptême ligérien
+\end_layout
+
+\begin_layout Standard
+\align right
+
+\emph on
+Récit de Retournac à Digoin ; 13 au 27 avril ; 215
+\begin_inset space \thinspace{}
+\end_inset
+
+km
+\shape smallcaps
+\emph default
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -937,6 +998,20 @@ Deux mondes
 \end_layout
 
 \begin_layout Standard
+\align right
+
+\emph on
+16 avril ; Marie
+\shape smallcaps
+\emph default
+
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 Cela fait deux semaines que nous bivouaquons; nous dormons sous une tente
  ; et nos repas sont certes équilibrés, mais manquent de diversité.
  Toutefois, nous nous sentons bien à vivre dans ce petit confort, nous y
@@ -947,7 +1022,7 @@ Cela fait deux semaines que nous bivouaquons; nous dormons sous une tente
 Ce midi, un homme généreux, rencontré le matin même, nous a invités au restauran
 t ; un chic, où les petits plats sont mis dans les grands.
  Le contraste, entre ce repas et nos vies de voyageurs, a été fort.
- Passer de la plâtrée de riz avec saucisson, à la farandole de hors-d’œuvres,
+ Passer de la platée de riz avec saucisson, à la farandole de hors-d’œuvres,
  paraît hallucinant ! Nos tenues, aussi, étaient surprenantes dans un tel
  établissement, où les serveurs et serveuses sont vêtus d'ensembles noirs
  et blancs immaculés.
@@ -985,6 +1060,24 @@ Qu'il est dommage, alors, de devoir partir en pleine nature pour retrouver
 
 \begin_layout Section*
 Contrastes de Loire
+\end_layout
+
+\begin_layout Standard
+\align right
+
+\emph on
+Récit de Digoin à Amboise ; 27 avril au 12 mai ; 400
+\begin_inset space \thinspace{}
+\end_inset
+
+km
+\shape smallcaps
+\emph default
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1111,11 +1204,7 @@ De Retournac à Digoin ; du mercredi
 \begin_inset space ~
 \end_inset
 
-avril
-\begin_inset space ~
-\end_inset
-
-2011.
+avril.
 \end_layout
 
 \end_inset
@@ -1127,7 +1216,7 @@ avril
 
 suivants ont été avalés, eux, en une petite semaine
 \begin_inset Foot
-status collapsed
+status open
 
 \begin_layout Plain Layout
 De Digoin à 5
@@ -1152,11 +1241,7 @@ avril au mercredi
 \begin_inset space ~
 \end_inset
 
-mai
-\begin_inset space ~
-\end_inset
-
-2011.
+mai.
 \end_layout
 
 \end_inset
@@ -1365,11 +1450,7 @@ Et nous ? Après Roanne, nous nous sommes apaisés, s'essayant à être un peu
 \begin_inset space ~
 \end_inset
 
-mai
-\begin_inset space ~
-\end_inset
-
-2011 ; un jeudi.
+mai ; un jeudi.
  Demain, vendredi
 \begin_inset space ~
 \end_inset
@@ -1379,6 +1460,20 @@ mai
 
 \begin_layout Section*
 Filent l'eau, le sable, la vie
+\end_layout
+
+\begin_layout Standard
+\align right
+
+\emph on
+3 mai ; Marie
+\shape smallcaps
+\emph default
+
+\begin_inset VSpace smallskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1448,7 +1543,222 @@ diem
 \end_layout
 
 \begin_layout Section*
+Le phoque et le pont
+\end_layout
+
+\begin_layout Standard
+\align right
+
+\emph on
+14 mai ; Mathieu
+\shape smallcaps
+\emph default
+
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Tout ça, c'est une histoire de tracas, en fin de compte.
+ Les tracas que nous causent les vieux ponts de Loire.
+ Il y a eu ceux de Veauche, Digoin, Nevers, Orléans, Beaugency, Blois et
+ Amboise.
+ Leurs attraits : la beauté de leur vieillesse et, parfois, quelques chouettes
+ remous sportifs.
+ Leurs constantes de malheur : de grosses pierres pas commodes, sous leurs
+ piliers et leurs arches ; des bouts de bois et de ferrailles ; des plaques
+ dentées métalliques ; etc.
+ La plaie des kayakistes et canoéistes.
+\end_layout
+
+\begin_layout Standard
+Hier, nous fûmes, de nouveau, face à l'un de ces vieux ponts.
+ Le plus redouté, le plus sale, le plus dangereux probablement.
+ Le pont Wilson de Tours.
+ Nous le toisâmes longtemps, timidement, peureux des histoires que nous
+ avions lues à son sujet.
+ Le parcourant de long en large, nous y cherchâmes une issue : la moins
+ crispante pour nous, la moins douloureuse pour notre embarcation.
+ Nous avions convenu -- tout de même -- que, en toute sérénité, nous ferions
+ un portage à cet endroit, à ce Wilson trop dangereux pour notre coque de
+ bois.
+ Mais moi, mué par un vilain orgueil, j'imaginai tout de même la passer,
+ cette terreur.
+\end_layout
+
+\begin_layout Quotation
+\begin_inset Quotes fld
+\end_inset
+
+Marie, dis-je, là-bas sous la quatrième arche, il y a des gros blocs, des
+ gros remous, ça a l'air dur et sportif, mais ça passe ! Non ?
+\end_layout
+
+\begin_layout Quotation
+--- Non, qu'elle trancha.
+\end_layout
+
+\begin_layout Quotation
+--- Hum.
+ D'accord.
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Finalement, la raison l'emporta.
+ Au lieu de franchir cet emmerdement en 10
+\begin_inset space ~
+\end_inset
+
+secondes et en prenant tous les risques, nous le franchîmes en 30
+\begin_inset space ~
+\end_inset
+
+minutes de pleine sécurité ; moi, un peu piqué dans mon orgueil de 
+\begin_inset Quotes fld
+\end_inset
+
+guerrier
+\begin_inset Quotes frd
+\end_inset
+
+.
+ Ce genre de vieux pont est générateur de stress.
+ Le Wilson nous stressa sacrément, le fumier !
+\end_layout
+
+\begin_layout Standard
+Le pont passé, nous continuâmes notre chemin, cahin-caha, entre eaux et
+ bancs de sable.
+ Puis apparut -- comme prévu sur notre carnet de route -- un second vieux
+ pont, doublé d'un autre (récent).
+ À priori, pas d'ennui ici.
+ Mais l'autre Wilson, là-bas, nous avait ramollis.
+ Et nous voici, encore une fois, longeant un foutu pont sur toute sa longueur,
+ cherchant une issue tranquille.
+ Bof.
+ Dans la mollesse d'esprit du moment, rien de convenable.
+\end_layout
+
+\begin_layout Standard
+C'est alors qu'une famille de canards colvert passa sous une arche proche,
+ nous montrant le chemin.
+ Usant d'un vif esprit d'analyse, je dis : 
+\begin_inset Quotes fld
+\end_inset
+
+Si la famille canard passe, on passe !
+\begin_inset Quotes frd
+\end_inset
+
+ Hardis, nous nous jetâmes dans le courant de l'arche à anatidés, pagayant
+ fort.
+ Les premiers remous arrivèrent.
+ Les premières vagues s'engouffrèrent sous la jupe de notre kayak (les coquines).
+ Pagayer, pagayer le cœur battant, à chaque fois dans ces obstacles.
+ 
+\begin_inset Quotes fld
+\end_inset
+
+Ça passe, que c'était bon !
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+À la sortie de l'arche, entre les deux ponts quasiment collés, l'embarcation
+ freina et nos esprits se bloquèrent nets.
+ À bâbord, à un mètre seulement, une tête sortait à demi de l'eau.
+ Une tête grosse ; grise ; sans poil apparent, sauf trois petits sur le
+ dessus du crâne, comme sur un dessin d'enfant ; une jolie moustache de
+ chat ; et puis, fixés sur nous, deux très grands yeux noirs, presque tristes,
+ implorants.
+ Un phoque ? Oui, un phoque !
+\end_layout
+
+\begin_layout Standard
+Aussi fou que cela paraisse, il y a bel et bien un(des) jeune(s) phoque(s)
+ s'aventurant dans les terres, loin de l'estuaire.
+ L'an passé, un de ces phoques 
+\begin_inset Quotes fld
+\end_inset
+
+veau de mer
+\begin_inset Quotes frd
+\end_inset
+
+ aurait été aperçu à la Charité\SpecialChar \nobreakdash-
+sur\SpecialChar \nobreakdash-
+Loire.
+ Ça fait loin ! Cette année, il s'est montré à Bouchemaine, près d'Angers.
+ Le voilà, une semaine plus tard, aux portes de Tours, sous nos yeux hagards
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Un grand merci à ma maman, Monique : pour ses recherches 
+\begin_inset Quotes fld
+\end_inset
+
+internet
+\begin_inset Quotes frd
+\end_inset
+
+ à distance ; et pour avoir découvert, dans 
+\emph on
+Ouest-France
+\emph default
+, un article sur cette apparition.
+ Sans cela, elle nous aurait pris pour deux fous ; et nous serions persuadés,
+ alors, d'avoir vu une loutre.
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Le tête-à-tête dura dix secondes, un peu plus, un peu moins.
+ Un premier petit mouvement de pagaie : la bête remua.
+ Un second : elle passa sous l'eau.
+ La voilà partie.
+ Quel choc ! Nous restâmes alors hébétés de longues minutes, avançant à
+ faibles coups de rames, nous retournant sans cesse, priant pour revoir
+ cette merveille.
+ Puis nous repartîmes, lentement.
+ Mais alors, à vingt ou cinquante mètres devant nous, la demi-tête émergea
+ quelques secondes, comme un adieu.
+ Et hop, la voilà repartie, plongeant dans les étincelles du soleil couchant.
+\end_layout
+
+\begin_layout Section*
 Sable, digue, océan et plénitude
+\end_layout
+
+\begin_layout Standard
+\align right
+
+\emph on
+Récit d'Amboise à Lavau-sur-Loire ; 12 au 28 mai ; 250
+\begin_inset space \thinspace{}
+\end_inset
+
+km
+\shape smallcaps
+\emph default
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1460,11 +1770,7 @@ Bien le bonjour, chères lectrices et chers lecteurs.
 \begin_inset space ~
 \end_inset
 
-mai
-\begin_inset space ~
-\end_inset
-
-2011 -- l'oreille tendue, écoutant le bourdonnement d'un train.
+mai -- l'oreille tendue, écoutant le bourdonnement d'un train.
  Que la ligne Angers-Nantes est passante ; nos bivouacs et nos siestes en
  sont témoins.
  M'enfin, ces bruits de métaux se frottant à vive allure sont plutôt paisibles,
@@ -1569,11 +1875,7 @@ Nous voilà, désormais, le 28
 \begin_inset space ~
 \end_inset
 
-mai
-\begin_inset space ~
-\end_inset
-
-2011 à Savenay, petite bourgade entre Nantes et Saint\SpecialChar \nobreakdash-
+mai à Savenay, petite bourgade entre Nantes et Saint\SpecialChar \nobreakdash-
 Nazaire, où habitent
  mes chers parents.
  Encore une fois, je ne vous épargne pas, avec ce bond dans le temps et
@@ -1858,195 +2160,34 @@ Finalement, c'est au ras des roseaux et les jambes dans la vase, que nous
 Ainsi se termina notre descente de Loire du printemps 2011.
 \end_layout
 
-\begin_layout Section*
-Le phoque et le pont
-\end_layout
-
-\begin_layout Standard
-Tout ça, c'est une histoire de tracas, en fin de compte.
- Les tracas que nous causent les vieux ponts de Loire.
- Il y a eu ceux de Veauche, Digoin, Nevers, Orléans, Beaugency, Blois et
- Amboise.
- Leurs attraits : la beauté de leur vieillesse et, parfois, quelques chouettes
- remous sportifs.
- Leurs constantes de malheur : de grosses pierres pas commodes, sous leurs
- piliers et leurs arches ; des bouts de bois et de ferrailles ; des plaques
- dentées métalliques ; etc.
- La plaie des kayakistes et canoéistes.
-\end_layout
-
-\begin_layout Standard
-Hier, nous fûmes, de nouveau, face à l'un de ces vieux ponts.
- Le plus redouté, le plus sale, le plus dangereux probablement.
- Le pont Wilson de Tours.
- Nous le toisâmes longtemps, timidement, peureux des histoires que nous
- avions lues à son sujet.
- Le parcourant de long en large, nous y cherchâmes une issue : la moins
- crispante pour nous, la moins douloureuse pour notre embarcation.
- Nous avions convenu -- tout de même -- que, en toute sérénité, nous ferions
- un portage à cet endroit, à ce Wilson trop dangereux pour notre coque de
- bois.
- Mais moi, mué par un vilain orgueil, j'imaginai tout de même la passer,
- cette terreur.
-\end_layout
-
-\begin_layout Quotation
-\begin_inset Quotes fld
-\end_inset
-
-Marie, dis-je, là-bas sous la quatrième arche, il y a des gros blocs, des
- gros remous, ça a l'air dur et sportif, mais ça passe ! Non ?
-\end_layout
-
-\begin_layout Quotation
---- Non, qu'elle trancha.
-\end_layout
-
-\begin_layout Quotation
---- Hum.
- D'accord.
-\begin_inset Quotes frd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Finalement, la raison l'emporta.
- Au lieu de franchir cet emmerdement en 10
-\begin_inset space ~
-\end_inset
-
-secondes et en prenant tous les risques, nous le franchîmes en 30
-\begin_inset space ~
-\end_inset
-
-minutes de pleine sécurité ; moi, un peu piqué dans mon orgueil de 
-\begin_inset Quotes fld
-\end_inset
-
-guerrier
-\begin_inset Quotes frd
-\end_inset
-
-.
- Ce genre de vieux pont est générateur de stress.
- Le Wilson nous stressa sacrément, le fumier !
-\end_layout
-
-\begin_layout Standard
-Le pont passé, nous continuâmes notre chemin, cahin-caha, entre eaux et
- bancs de sable.
- Puis apparut -- comme prévu sur notre carnet de route -- un second vieux
- pont, doublé d'un autre (récent).
- À priori, pas d'ennui ici.
- Mais l'autre Wilson, là-bas, nous avait ramollis.
- Et nous voici, encore une fois, longeant un foutu pont sur toute sa longueur,
- cherchant une issue tranquille.
- Bof.
- Dans la mollesse d'esprit du moment, rien de convenable.
-\end_layout
-
-\begin_layout Standard
-C'est alors qu'une famille de canards colvert passa sous une arche proche,
- nous montrant le chemin.
- Usant d'un vif esprit d'analyse, je dis : 
-\begin_inset Quotes fld
-\end_inset
-
-Si la famille canard passe, on passe !
-\begin_inset Quotes frd
-\end_inset
-
- Hardis, nous nous jetâmes dans le courant de l'arche à anatidés, pagayant
- fort.
- Les premiers remous arrivèrent.
- Les premières vagues s'engouffrèrent sous la jupe de notre kayak (les coquines).
- Pagayer, pagayer le cœur battant, à chaque fois dans ces obstacles.
- 
-\begin_inset Quotes fld
-\end_inset
-
-Ça passe, que c'était bon !
-\begin_inset Quotes frd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-À la sortie de l'arche, entre les deux ponts quasiment collés, l'embarcation
- freina et nos esprits se bloquèrent nets.
- À bâbord, à un mètre seulement, une tête sortait à demi de l'eau.
- Une tête grosse ; grise ; sans poil apparent, sauf trois petits sur le
- dessus du crâne, comme sur un dessin d'enfant ; une jolie moustache de
- chat ; et puis, fixés sur nous, deux très grands yeux noirs, presque tristes,
- implorants.
- Un phoque ? Oui, un phoque !
-\end_layout
-
-\begin_layout Standard
-Aussi fou que cela paraisse, il y a bel et bien un(des) jeune(s) phoque(s)
- s'aventurant dans les terres, loin de l'estuaire.
- L'an passé, un de ces phoques 
-\begin_inset Quotes fld
-\end_inset
-
-veau de mer
-\begin_inset Quotes frd
-\end_inset
-
- aurait été aperçu à la Charité\SpecialChar \nobreakdash-
-sur\SpecialChar \nobreakdash-
-Loire.
- Ça fait loin ! Cette année, il s'est montré à Bouchemaine, près d'Angers.
- Le voilà, une semaine plus tard, aux portes de Tours, sous nos yeux hagards
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-Un grand merci à ma maman, Monique : pour ses recherches 
-\begin_inset Quotes fld
-\end_inset
-
-internet
-\begin_inset Quotes frd
-\end_inset
-
- à distance ; et pour avoir découvert, dans 
-\emph on
-Ouest-France
-\emph default
-, un article sur cette apparition.
- Sans cela, elle nous aurait pris pour deux fous ; et nous serions persuadés,
- alors, d'avoir vu une loutre.
-\end_layout
-
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Standard
-Le tête-à-tête dura dix secondes, un peu plus, un peu moins.
- Un premier petit mouvement de pagaie : la bête remua.
- Un second : elle passa sous l'eau.
- La voilà partie.
- Quel choc ! Nous restâmes alors hébétés de longues minutes, avançant à
- faibles coups de rames, nous retournant sans cesse, priant pour revoir
- cette merveille.
- Puis nous repartîmes, lentement.
- Mais alors, à vingt ou cinquante mètres devant nous, la demi-tête émergea
- quelques secondes, comme un adieu.
- Et hop, la voilà repartie, plongeant dans les étincelles du soleil couchant.
-\end_layout
-
 \begin_layout Part
 Grande marche
 \end_layout
 
 \begin_layout Section*
 Cap à l'est !
+\end_layout
+
+\begin_layout Standard
+\align right
+
+\emph on
+Récit de l'entre-deux puis de Pontchateau à Mézières-en-Brenne
+\begin_inset Newline newline
+\end_inset
+
+6 juin au 5 juillet ; 550
+\begin_inset space \thinspace{}
+\end_inset
+
+km
+\shape smallcaps
+\emph default
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2481,6 +2622,20 @@ Rêveries à Grand-Lieu
 \end_layout
 
 \begin_layout Standard
+\align right
+
+\emph on
+10 juin ; Marie
+\shape smallcaps
+\emph default
+
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 En traçant notre itinéraire, je décidais d'un détour par le lac de Grand\SpecialChar \nobreakdash-
 Lieu.
  Ce lac, pourtant dans notre département originel, nous le connaissions
@@ -2650,11 +2805,25 @@ Dès son début, une véritable hystérie culinaire -- envers les légumes crus
  largement attisée et amplifiée par l'alarmisme des autorités sanitaires
  et le sensationnalisme des médias de masses.
  En fin de compte, l'épidémie a certainement été causée par des graines
- germées.
+ germées
+\shape smallcaps
+\size default
+
+\begin_inset VSpace smallskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace bigskip
+\align right
+
+\emph on
+14 juin ; Mathieu
+\shape smallcaps
+\emph default
+
+\begin_inset VSpace smallskip
 \end_inset
 
 
@@ -2744,6 +2913,20 @@ miramap.org
 
 \begin_layout Section*
 Le lièvre et l'orage
+\end_layout
+
+\begin_layout Standard
+\align right
+
+\emph on
+28 juin ; Mathieu
+\shape smallcaps
+\emph default
+
+\begin_inset VSpace smallskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2915,6 +3098,20 @@ Rencontres sauvages
 \end_layout
 
 \begin_layout Standard
+\align right
+
+\emph on
+10 juillet ; Marie
+\shape smallcaps
+\emph default
+
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 Voyager sous le statut de 
 \begin_inset Quotes fld
 \end_inset
@@ -3005,6 +3202,21 @@ Tous font partie de cette faune sauvage que nous essayons d'observer, en
 
 \begin_layout Section*
 Nos chemins de liberté
+\end_layout
+
+\begin_layout Standard
+\align right
+
+\emph on
+Ce texte impressionniste, écrit en juillet et août 2011, évoque notre changement
+ de cap, moment capital de ce voyage
+\shape smallcaps
+\emph default
+.
+\begin_inset VSpace bigskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3253,160 +3465,26 @@ ce là
 \end_layout
 
 \begin_layout Section*
-Désapproprions nous !
-\end_layout
-
-\begin_layout Standard
-Si, pour vos vacances, vous n'avez ni camping-car, ni maison secondaire
- (à la campagne, à la mer, à la montagne ; ou les 3 à la fois ; ou une dans
- chaque), ni terrain privé, ni quoi que ce soit sur lequel poser vos fesses
- et bronzer, alors peut-être pourrez-vous profiter des espaces communs,
- libres, collectifs qui composent -- sans nul doute -- la belle république
- de France, pour vous y poser et vous y promener.
- En somme : ses terres, ses villes, ses fleuves, ses forêts...
- Car, après tout, comme habitant de ce pays, vous désirez jouir -- tout
- naturellement -- de ses grands et beaux espaces, dont vous êtes -- un peu
- -- le propriétaire (vous contribuez à la société qui s'y trouve, vous en
- êtes citoyen).
-\end_layout
-
-\begin_layout Standard
-Voilà mes conseils de bourlingueur.
-\begin_inset Newline newline
-\end_inset
-
-N'allez pas sur les bords de fleuves et rivières : c'est privé.
-\begin_inset Newline newline
-\end_inset
-
-N'allez pas en forêts, grandes ou petites : c'est privé.
-\begin_inset Newline newline
-\end_inset
-
-Ne traversez surtout pas les campagnes ou les zones de marais : c'est privé.
-\begin_inset Newline newline
-\end_inset
-
-Rasez les falaises de granit rose ou les bords de plages : car un peu plus
- haut, c'est privé.
-\begin_inset Newline newline
-\end_inset
-
-Du reste, je ne saurais vous dire ; je n'y suis pas allé et je n'ose, de
- peur que cela soit privé.
- Une partie de ce reste -- en tout cas -- est 
-\begin_inset Quotes fld
-\end_inset
-
-protégé
-\begin_inset Quotes frd
-\end_inset
-
- ; mieux vaut alors ne pas y aller.
-\end_layout
-
-\begin_layout Standard
-Si, pour vos vacances, vous auriez voulu déambuler -- sans préparation,
- ni carte, ni guide touristique -- dans quelques beaux espaces, à vous et
- à tous à la fois, mieux vaut vous abstenir, emprunter quelques films et
- livres à la médiathèque, et rester à l'aise dans votre cocon douillet.
- Car, de ces beaux espaces, vous ne verrez que leurs panneaux rouges d'interdict
-ion, leurs grillages et leurs barbelés.
- Et vous finirez, probablement, par vous garer sur les bords d'une route
- communale, sortir vos sièges pliants et regarder les voitures qui passent
- (et avec un peu de chance, le Tour de France).
- Ça, vous le pourrez.
- Car, après tout, cette route communale est un peu la vôtre...
-\end_layout
-
-\begin_layout Standard
-Pensez-vous que j'abuse ? À peine, je vous l'affirme ! Et je puis vous l'illustr
-er de quelques souvenirs encore révoltés.
-\end_layout
-
-\begin_layout Standard
-À certains moments de sa course, la rivière Creuse coule au fond de très
- jolies gorges, sortes de mignardises de celles de la Loire.
- On peut alors longer cette rivière d'en haut, la dominant tel un rapace,
- ou d'en bas, par un très joli et fin sentier.
- Celui-ci zigue et zague entre une eau calme et une pente abrupte, où foisonnent
- ronces, fougères et arbustes.
- Croyez le jeune sportif que je suis, personne n'irait foutre les guibolles
- sur de telles pentes (ni pour la cueillette des champignons, ni pour couper
- du bois, ni pour quoi que ce soit de -- disons -- sensé).
- Pourtant, sur des kilomètres, on peut les voir grillagées, clôturées :
- certaines fois de manière légère, honnête ; d'autres fois de manière insensée,
- comme ce grillage à maillage fin soutenu par des poteaux en béton ; à chaque
- fois, le panneau rouge 
-\begin_inset Quotes fld
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-mbox{Propriété privée}
-\end_layout
-
-\end_inset
-
-
-\begin_inset Quotes frd
-\end_inset
-
- s'affiche sans aucun complexe.
- Mais que croient-ils rendre privé, ces misérables propriétaires, sinon
- une nature anarchique, dont assurément ils ne profitent pas et qu'ils enlèvent
- au monde ?
-\end_layout
-
-\begin_layout Standard
-Sur ces mêmes bords de Creuse, en vis-à-vis de ces pentes unanimement privées,
- un nombre significatif de barques sont à pourrir.
- Ces mortes embarcations -- oubliées par leur maître depuis des années sûrement
- -- affichent fièrement le signe de leur allégeance : une chaîne solide
- et imputrescible, cadenassée fermement ! L'objet du loisir, lui, a fini
- par couler, sans pouvoir nourrir le bonheur d'autres, devenant ainsi la
- ridicule épave d'un égoïsme absurde.
-\end_layout
-
-\begin_layout Standard
-Voilà deux petits exemples où l'on s’approprie du fugace, du néant.
- En France, il y en des milliers d'autres, tous aussi absurdes : en bords
- de Loire, de Vienne, d'Indre et de toutes rivières ; de l'orée au cœur
- des bois ; à flan de montagne ; partout ! À chaque fois, ces démonstrations
- me sonnent, m'ahurissent.
- Tant de personnes -- à commencer par moi qui n'ai qu'un kayak, un sac à
- dos, l'amour de Marie et quelques euros en poche -- aimeraient pourtant
- y déambuler -- égoïstement mais partageur -- sans se sentir gêneur, squatteur,
- violeur d'un sanctuaire, étranger.
- Elles aimeraient le faire en liberté de corps et d'âme.
-\end_layout
-
-\begin_layout Standard
-Que l'on ouvre tous ces endroits à la multitude ! Que l'on partage, que
- l'on coopère, que l'on gère ensemble !
-\end_layout
-
-\begin_layout Standard
-Peut-être, alors, que ce couple du 
-\begin_inset Quotes fld
-\end_inset
-
-93
-\begin_inset Quotes frd
-\end_inset
-
- pourra déplier ses chaises longues en de plus beaux et vastes endroits
- qu'au bord d'une route communale de Creuse.
-\end_layout
-
-\begin_layout Section*
 La Brenne
+\end_layout
+
+\begin_layout Standard
+\align right
+
+\emph on
+Découverte de la Brenne, de Mézières-en-Brenne à Saint-Gaultier ; 5 au 10
+ juillet ; 40
+\begin_inset space \thinspace{}
+\end_inset
+
+km
+\shape smallcaps
+\emph default
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3545,6 +3623,25 @@ Si, comme nous, vous aimez le tourisme tranquille et observer la nature,
 
 \begin_layout Section*
 Photographies de Creuse
+\end_layout
+
+\begin_layout Standard
+\align right
+
+\emph on
+Découverte de la Creuse, d'Argenton-sur-Creuse à Saint-Ours ; 11 au 31 juillet
+ ; 318
+\begin_inset space \thinspace{}
+\end_inset
+
+km
+\shape smallcaps
+\emph default
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3810,15 +3907,193 @@ L'ambiance, donc, est aux embrassades.
 \end_layout
 
 \begin_layout Section*
+Désapproprions nous !
+\end_layout
+
+\begin_layout Standard
+\align right
+
+\emph on
+En Creuse ; Mathieu
+\shape smallcaps
+\emph default
+
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Si, pour vos vacances, vous n'avez ni camping-car, ni maison secondaire
+ (à la campagne, à la mer, à la montagne ; ou les 3 à la fois ; ou une dans
+ chaque), ni terrain privé, ni quoi que ce soit sur lequel poser vos fesses
+ et bronzer, alors peut-être pourrez-vous profiter des espaces communs,
+ libres, collectifs qui composent -- sans nul doute -- la belle république
+ de France, pour vous y poser et vous y promener.
+ En somme : ses terres, ses villes, ses fleuves, ses forêts...
+ Car, après tout, comme habitant de ce pays, vous désirez jouir -- tout
+ naturellement -- de ses grands et beaux espaces, dont vous êtes -- un peu
+ -- le propriétaire (vous contribuez à la société qui s'y trouve, vous en
+ êtes citoyen).
+\end_layout
+
+\begin_layout Standard
+Voilà mes conseils de bourlingueur.
+\begin_inset Newline newline
+\end_inset
+
+N'allez pas sur les bords de fleuves et rivières : c'est privé.
+\begin_inset Newline newline
+\end_inset
+
+N'allez pas en forêts, grandes ou petites : c'est privé.
+\begin_inset Newline newline
+\end_inset
+
+Ne traversez surtout pas les campagnes ou les zones de marais : c'est privé.
+\begin_inset Newline newline
+\end_inset
+
+Rasez les falaises de granit rose ou les bords de plages : car un peu plus
+ haut, c'est privé.
+\begin_inset Newline newline
+\end_inset
+
+Du reste, je ne saurais vous dire ; je n'y suis pas allé et je n'ose, de
+ peur que cela soit privé.
+ Une partie de ce reste -- en tout cas -- est 
+\begin_inset Quotes fld
+\end_inset
+
+protégé
+\begin_inset Quotes frd
+\end_inset
+
+ ; mieux vaut alors ne pas y aller.
+\end_layout
+
+\begin_layout Standard
+Si, pour vos vacances, vous auriez voulu déambuler -- sans préparation,
+ ni carte, ni guide touristique -- dans quelques beaux espaces, à vous et
+ à tous à la fois, mieux vaut vous abstenir, emprunter quelques films et
+ livres à la médiathèque, et rester à l'aise dans votre cocon douillet.
+ Car, de ces beaux espaces, vous ne verrez que leurs panneaux rouges d'interdict
+ion, leurs grillages et leurs barbelés.
+ Et vous finirez, probablement, par vous garer sur les bords d'une route
+ communale, sortir vos sièges pliants et regarder les voitures qui passent
+ (et avec un peu de chance, le Tour de France).
+ Ça, vous le pourrez.
+ Car, après tout, cette route communale est un peu la vôtre...
+\end_layout
+
+\begin_layout Standard
+Pensez-vous que j'abuse ? À peine, je vous l'affirme ! Et je puis vous l'illustr
+er de quelques souvenirs encore révoltés.
+\end_layout
+
+\begin_layout Standard
+À certains moments de sa course, la rivière Creuse coule au fond de très
+ jolies gorges, sortes de mignardises de celles de la Loire.
+ On peut alors longer cette rivière d'en haut, la dominant tel un rapace,
+ ou d'en bas, par un très joli et fin sentier.
+ Celui-ci zigue et zague entre une eau calme et une pente abrupte, où foisonnent
+ ronces, fougères et arbustes.
+ Croyez le jeune sportif que je suis, personne n'irait foutre les guibolles
+ sur de telles pentes (ni pour la cueillette des champignons, ni pour couper
+ du bois, ni pour quoi que ce soit de -- disons -- sensé).
+ Pourtant, sur des kilomètres, on peut les voir grillagées, clôturées :
+ certaines fois de manière légère, honnête ; d'autres fois de manière insensée,
+ comme ce grillage à maillage fin soutenu par des poteaux en béton ; à chaque
+ fois, le panneau rouge 
+\begin_inset Quotes fld
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+mbox{Propriété privée}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes frd
+\end_inset
+
+ s'affiche sans aucun complexe.
+ Mais que croient-ils rendre privé, ces misérables propriétaires, sinon
+ une nature anarchique, dont assurément ils ne profitent pas et qu'ils enlèvent
+ au monde ?
+\end_layout
+
+\begin_layout Standard
+Sur ces mêmes bords de Creuse, en vis-à-vis de ces pentes unanimement privées,
+ un nombre significatif de barques sont à pourrir.
+ Ces mortes embarcations -- oubliées par leur maître depuis des années sûrement
+ -- affichent fièrement le signe de leur allégeance : une chaîne solide
+ et imputrescible, cadenassée fermement ! L'objet du loisir, lui, a fini
+ par couler, sans pouvoir nourrir le bonheur d'autres, devenant ainsi la
+ ridicule épave d'un égoïsme absurde.
+\end_layout
+
+\begin_layout Standard
+Voilà deux petits exemples où l'on s’approprie du fugace, du néant.
+ En France, il y en des milliers d'autres, tous aussi absurdes : en bords
+ de Loire, de Vienne, d'Indre et de toutes rivières ; de l'orée au cœur
+ des bois ; à flan de montagne ; partout ! À chaque fois, ces démonstrations
+ me sonnent, m'ahurissent.
+ Tant de personnes -- à commencer par moi qui n'ai qu'un kayak, un sac à
+ dos, l'amour de Marie et quelques euros en poche -- aimeraient pourtant
+ y déambuler -- égoïstement mais partageur -- sans se sentir gêneur, squatteur,
+ violeur d'un sanctuaire, étranger.
+ Elles aimeraient le faire en liberté de corps et d'âme.
+\end_layout
+
+\begin_layout Standard
+Que l'on ouvre tous ces endroits à la multitude ! Que l'on partage, que
+ l'on coopère, que l'on gère ensemble !
+\end_layout
+
+\begin_layout Standard
+Peut-être, alors, que ce couple du 
+\begin_inset Quotes fld
+\end_inset
+
+93
+\begin_inset Quotes frd
+\end_inset
+
+ pourra déplier ses chaises longues en de plus beaux et vastes endroits
+ qu'au bord d'une route communale de Creuse.
+\end_layout
+
+\begin_layout Section*
 De riches clochards
 \end_layout
 
 \begin_layout Standard
-Ce trentième week-end de l'année
-\begin_inset space ~
+\align right
+
+\emph on
+24 juillet ; Mathieu
+\shape smallcaps
+\emph default
+
+\begin_inset VSpace smallskip
 \end_inset
 
-2011, nous faisons pâle figure à côté de nos deux voisins de plage.
+
+\end_layout
+
+\begin_layout Standard
+Ce trentième week-end de l'année, nous faisons pâle figure à côté de nos
+ deux voisins de plage.
 \end_layout
 
 \begin_layout Standard
@@ -3881,6 +4156,24 @@ maman, repass'moi l'saucisson !
 
 \begin_layout Section*
 Anniversaire auvergnat
+\end_layout
+
+\begin_layout Standard
+\align right
+
+\emph on
+Découverte de l'Auvergne, de Saint-Ours à Saint-Flour ; 1 au 15 août ; 212
+\begin_inset space \thinspace{}
+\end_inset
+
+km
+\shape smallcaps
+\emph default
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -4047,9 +4340,17 @@ Les chamois
 \end_layout
 
 \begin_layout Standard
+\align right
 
 \emph on
-04/08/2011 -- Mathieu
+4 août ; Mathieu
+\shape smallcaps
+\emph default
+
+\begin_inset VSpace smallskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -4144,9 +4445,17 @@ La montée d'Albepierre
 \end_layout
 
 \begin_layout Standard
+\align right
 
 \emph on
-12/08/2011 -- Marie
+12 août ; Marie
+\shape smallcaps
+\emph default
+
+\begin_inset VSpace smallskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -4208,6 +4517,29 @@ Me voilà assise à vous écrire ces quelques mots, alors que Mathieu, en caleç
 
 \begin_layout Section*
 Lointaine Lozère
+\end_layout
+
+\begin_layout Standard
+\align right
+
+\emph on
+Récit de Saint-Flour à Valleraugue ; 16 au 28 août ; 191
+\begin_inset space \thinspace{}
+\end_inset
+
+km
+\begin_inset Newline newline
+\end_inset
+
+Texte écrit à Villeurbanne, un an et demi après les faits, pour combler
+ un vide du récit.
+\shape smallcaps
+\emph default
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -4543,11 +4875,7 @@ Ce 19
 \begin_inset space ~
 \end_inset
 
-août
-\begin_inset space ~
-\end_inset
-
-2011, nous marchions en Lozère, où coulent de nombreux ruisseaux.
+août, nous marchions en Lozère, où coulent de nombreux ruisseaux.
  Précisément, nous étions ici à l'extrême est de l'Aubrac, entre la Truyère
  (au nord) et l'avant-bras du Lot (au sud).
  L'avant veille, nous terminions la digestion de l'Auvergne à Saint\SpecialChar \nobreakdash-
@@ -4614,6 +4942,25 @@ Elles finirent pourtant pas se lasser de nous et s'en allèrent paître plus
 
 \begin_layout Section*
 Portrait d'un Sud
+\end_layout
+
+\begin_layout Standard
+\align right
+
+\emph on
+Récit de Valleraugue aux Saintes-Marie-de-la-Mer ; 28 août au 5 septembre
+ ; 112
+\begin_inset space \thinspace{}
+\end_inset
+
+km
+\shape smallcaps
+\emph default
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -4836,6 +5183,20 @@ es sur la plage (lisant et écrivant) et nous baignâmes dans la chaude eau
 
 \begin_layout Section*
 En état de guerre
+\end_layout
+
+\begin_layout Standard
+\align right
+
+\emph on
+11 septembre ; Mathieu
+\shape smallcaps
+\emph default
+
+\begin_inset VSpace smallskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -5171,6 +5532,24 @@ Quant à nous, dans notre marche qui perdurera jusqu'au début de l'automne,
 
 \begin_layout Section*
 Trois arrières-pays
+\end_layout
+
+\begin_layout Standard
+\align right
+
+\emph on
+Récit d'Arles à Entreveaux ; 6 au 23 septembre ; 294
+\begin_inset space \thinspace{}
+\end_inset
+
+km
+\shape smallcaps
+\emph default
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -5897,9 +6276,17 @@ Lavage nudiste interrompu par deux randonneurs
 \end_layout
 
 \begin_layout Standard
+\align right
 
 \emph on
-09/05/2011 -- Marie
+9 mai ; Marie
+\shape smallcaps
+\emph default
+
+\begin_inset VSpace smallskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -5948,9 +6335,17 @@ Toilette champêtre
 \end_layout
 
 \begin_layout Standard
+\align right
 
 \emph on
-03/08/2011 -- Marie
+3 août ; Marie
+\shape smallcaps
+\emph default
+
+\begin_inset VSpace smallskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -5991,6 +6386,12 @@ Gastronomie de grands chemins
 
 \shape italic
 Six mois d'un beau voyage : ça nourrit la tête mais guère l'estomac.
+\shape smallcaps
+
+\begin_inset VSpace smallskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -6491,7 +6892,7 @@ La France est belle ; d'avantage en marchant.
  Vous découvrez enfin votre pays, sa population, sa diversité, son caractère,
  son rythme, son histoire, son patrimoine.
  Quelle chance de pouvoir la parcourir sans jamais quitter ses chemins terreux.
- Rares, en effet, sont les fois où vous devez piétiner l'asphalte.
+ Rares, en effet, sont les fois où vous devez piétiner le macadam.
 \end_layout
 
 \begin_layout Standard
@@ -6558,6 +6959,27 @@ km)...
 
 \begin_layout Section*
 Perdue en forêt
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align right
+
+\emph on
+Conte pour enfants, écrit par Mathieu.
+ Inspiré par les forêts de Creuse,
+\begin_inset Newline newline
+\end_inset
+
+ce texte prit forme sur les bords du lac de Vassivière.
+ 
+\shape smallcaps
+\emph default
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection*
@@ -6635,63 +7057,40 @@ Sans plus attendre, elle se met sur ses deux gambettes, nettoie d’un revers
 Ses sandales raclent le tapis d’aiguilles de pin qui, par dizaines, viennent
  piquer ses petits pieds à l’air.
  
-\begin_inset Quotes fld
-\end_inset
-
+\emph on
 Ouï Ouï
-\begin_inset Quotes frd
-\end_inset
-
+\emph default
  ; elle court.
  
-\begin_inset Quotes fld
-\end_inset
-
+\emph on
 Ouï Ouï
-\begin_inset Quotes frd
-\end_inset
-
+\emph default
  ; elle s’arrête, exténuée.
 \end_layout
 
 \begin_layout Standard
 Kim s’écroule à genoux, renifle, voudrait pleurer mais éternue à la place.
  
-\begin_inset Quotes fld
-\end_inset
-
+\emph on
 Tchioum Tchioum
-\begin_inset Quotes frd
-\end_inset
-
+\emph default
  qu’elle fait, postillonnant de tous côtés.
  
-\begin_inset Quotes fld
-\end_inset
-
+\emph on
 Tchioum Tchioum
-\begin_inset Quotes frd
-\end_inset
-
+\emph default
  encore ! 
-\begin_inset Quotes fld
-\end_inset
-
+\emph on
 Pîiik Pîiik...
  Pîiik Pîiik...
-\begin_inset Quotes frd
-\end_inset
 
+\emph default
  Au cœur de cette large et longue forêt de pins odorants, quelqu’un lui
  répond.
  
-\begin_inset Quotes fld
-\end_inset
-
+\emph on
 Pîiik Pîiik
-\begin_inset Quotes frd
-\end_inset
-
+\emph default
  encore !
 \end_layout
 
@@ -6700,13 +7099,9 @@ Deuxième indice : au bout du chemin, il devrait y avoir son papa qu’elle
  verra de très très loin ; un chemin qu’un inconnu, siffleur des bois, semble
  lui indiquer.
  
-\begin_inset Quotes fld
-\end_inset
-
+\emph on
 Pîiik Pîiik
-\begin_inset Quotes frd
-\end_inset
-
+\emph default
 , ça recommence.
 \end_layout
 
@@ -6720,21 +7115,13 @@ Ni une ni deux, Kim se relève, époussetant sa jolie robe-tablier d’un revers
  Maintenant, sans courir et avec les deux mains collées en forme de chips
  derrière les oreilles, elle écoute attentivement les bruits alentours.
  Et elle fait 
-\begin_inset Quotes fld
-\end_inset
-
+\emph on
 Tchioum Tchioum
-\begin_inset Quotes frd
-\end_inset
-
+\emph default
  pour appeler, tandis que l’inconnu, siffleur des bois, lui répond 
-\begin_inset Quotes fld
-\end_inset
-
+\emph on
 Pîiik Pîiik
-\begin_inset Quotes frd
-\end_inset
-
+\emph default
 .
 \end_layout
 
@@ -6750,33 +7137,22 @@ Ses deux oreilles rougissent de l’effort d’attention et ses tempes battent
 \end_layout
 
 \begin_layout Standard
-\begin_inset Quotes fld
-\end_inset
 
+\emph on
 Pok
-\begin_inset Quotes frd
-\end_inset
-
+\emph default
  ; voilà qu’elle se cogne.
  
-\begin_inset Quotes fld
-\end_inset
-
+\emph on
 Ouï
-\begin_inset Quotes frd
-\end_inset
-
+\emph default
  ; elle rouvre les yeux avec fureur, retire précipitamment ses mains-chips
  de ses oreilles, et gifle l’écorce de l’arbre sur lequel son front vient
  de taper.
  
-\begin_inset Quotes fld
-\end_inset
-
+\emph on
 Ouï
-\begin_inset Quotes frd
-\end_inset
-
+\emph default
  encore !
 \end_layout
 
@@ -6859,13 +7235,9 @@ Le siffleur fuyard
 
 \begin_layout Standard
 Mais voilà que, 
-\begin_inset Quotes fld
-\end_inset
-
+\emph on
 pok, pok et pok
-\begin_inset Quotes frd
-\end_inset
-
+\emph default
 , trois pommes de pin tombent sur sa tête, la sortant de sa fatigue, lui
  coupant toutes larmes et la laissant muette.
  Kim, plus étonnée que furieuse, bondit loin en arrière et lève des yeux
@@ -6929,27 +7301,17 @@ Mais pendant qu’elle trépigne, qu’elle bafouille en pleurant, une petite
  Cette petite plume gambade, court dans les airs, puis retombe sur le nez
  en trompette de Kim, lui chatouillant les joues et les paupières.
  Alors, 
-\begin_inset Quotes fld
-\end_inset
-
+\emph on
 Tchioum Tchioum
-\begin_inset Quotes frd
-\end_inset
-
+\emph default
 , Kim éternue une dernière fois, expulsant la plume à ses pieds.
 \end_layout
 
 \begin_layout Standard
 Tandis qu’elle se baisse pour la ramasser, un sifflement appelle à l’orée
  de la forêt : 
-\begin_inset Quotes fld
-\end_inset
-
+\emph on
 Kim Pîiik ? Pîiik Kim ?
-\begin_inset Quotes frd
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
