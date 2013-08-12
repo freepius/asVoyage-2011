@@ -67,11 +67,130 @@
 
 \begin_body
 
+\begin_layout Section*
+Introduction
+\end_layout
+
+\begin_layout Standard
+Voici voilà le tout premier texte d'un livre de voyage, mi\SpecialChar \nobreakdash-
+carnet mi\SpecialChar \nobreakdash-
+récit,
+ écrit presque deux ans après sa fin.
+ Un court texte qui introduit les souvenirs -- ci factuels et précis, là
+ vaporeux et lointains, ci cocasses et légers, là intellos et militants
+ -- d'un premier voyage au long cours.
+ Le nôtre.
+ Celui de Mathieu et Marie, un vieux couple de jeunes (26
+\begin_inset space ~
+\end_inset
+
+et
+\begin_inset space ~
+\end_inset
+
+25
+\begin_inset space ~
+\end_inset
+
+ans) qui s'aiment, se suivent et se cherchent dans le monde depuis neuf
+ ans.
+\end_layout
+
+\begin_layout Standard
+Cet ouvrage, tout comme le fut ce premier grand périple, est un essai, un
+ entretien d'embauche au poste d'écrivain-voyageur.
+ Il est à la fois foutraque et poétique, mordant et naïf, réaliste et impression
+niste.
+\end_layout
+
+\begin_layout Standard
+Suivant une ligne spatiale et temporelle parfois décousue, vous y trouverez
+ 36
+\begin_inset space ~
+\end_inset
+
+textes 
+\begin_inset Quotes fld
+\end_inset
+
+autonomes
+\begin_inset Quotes frd
+\end_inset
+
+.
+ La plupart sont des billets de blog écrits en voyage, à quatre mains, postés
+ sur notre site web 
+\emph on
+anarchos\SpecialChar \nobreakdash-
+semitas.net
+\emph default
+ et peu retouchés par la suite.
+ Ils sont dispatchés en trois parties.
+\end_layout
+
+\begin_layout Standard
+La première c'est 
+\begin_inset Quotes fld
+\end_inset
+
+Descente de Loire
+\begin_inset Quotes frd
+\end_inset
+
+, ou comment descendre le plus long fleuve de France, de la source à l'estuaire,
+ à pieds et en kayak, pendant 2
+\begin_inset space ~
+\end_inset
+
+mois et 1000
+\begin_inset space ~
+\end_inset
+
+kilomètres.
+\end_layout
+
+\begin_layout Standard
+La seconde c'est 
+\begin_inset Quotes fld
+\end_inset
+
+Grande marche
+\begin_inset Quotes frd
+\end_inset
+
+, ou pourquoi marcher et improviser d'un bout à l'autre de la France, de
+ Nantes à Nice, pour 4
+\begin_inset space ~
+\end_inset
+
+mois et 1700
+\begin_inset space ~
+\end_inset
+
+kilomètres.
+\end_layout
+
+\begin_layout Standard
+La troisième et dernière c'est 
+\begin_inset Quotes fld
+\end_inset
+
+Au-delà du voyage
+\begin_inset Quotes frd
+\end_inset
+
+, c'est le bilan, l'intemporelle, l'après et l'ailleurs.
+\end_layout
+
+\begin_layout Standard
+Nous n'en disons pas plus et vous souhaitons bonne lecture.
+\end_layout
+
 \begin_layout Part
 Descente de la Loire
 \end_layout
 
-\begin_layout Chapter*
+\begin_layout Section*
 Traversée de l'Ardèche
 \end_layout
 
@@ -162,7 +281,7 @@ kilomètres -- des sacs de, respectivement, 14
 \begin_inset space ~
 \end_inset
 
-kilos pour Marie et 21 pour moi.
+kilos pour Marie et 22 pour moi.
  Hum ! ça se porte, ça s'endure, mais ça n'est pas malin, puisque cette
  lourdeur provoque des maux bien réels (et dangereux) : fragilisation accrue
  des chevilles, des genoux et du dos.
@@ -319,7 +438,7 @@ Laissant cette blessure au loin, nous rallions Retournac en train, le mercredi
 avril, et rangeons nos godillots au fond du kayak, prêts à pagayer.
 \end_layout
 
-\begin_layout Chapter*
+\begin_layout Section*
 Vivre dans ce coin d'Ardèche
 \end_layout
 
@@ -357,7 +476,7 @@ Cette dynamique touristique contribue largement à l'augmentation du prix
  par les vaches des départements voisins.
 \end_layout
 
-\begin_layout Chapter*
+\begin_layout Section*
 Le mont Gerbier-de-Jonc
 \end_layout
 
@@ -424,7 +543,7 @@ Gerbier
  Et même si je n'y retournerais probablement jamais, c'est sans regret !
 \end_layout
 
-\begin_layout Chapter*
+\begin_layout Section*
 Baptême ligérien
 \end_layout
 
@@ -813,7 +932,7 @@ avril, puis de la ville de Roanne le lendemain, à des étendues infinies,
  Maintenant, la suite.
 \end_layout
 
-\begin_layout Chapter*
+\begin_layout Section*
 Deux mondes
 \end_layout
 
@@ -864,7 +983,7 @@ Qu'il est dommage, alors, de devoir partir en pleine nature pour retrouver
  ce naturel perdu.
 \end_layout
 
-\begin_layout Chapter*
+\begin_layout Section*
 Contrastes de Loire
 \end_layout
 
@@ -1012,7 +1131,7 @@ status collapsed
 
 \begin_layout Plain Layout
 De Digoin à 5
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 km après Cosnes\SpecialChar \nobreakdash-
@@ -1258,7 +1377,7 @@ mai
 13 : rien à espérer, nous sommes heureux et maîtres de nos destins.
 \end_layout
 
-\begin_layout Chapter*
+\begin_layout Section*
 Filent l'eau, le sable, la vie
 \end_layout
 
@@ -1328,7 +1447,7 @@ diem
 .
 \end_layout
 
-\begin_layout Chapter*
+\begin_layout Section*
 Sable, digue, océan et plénitude
 \end_layout
 
@@ -1688,7 +1807,7 @@ h
 \end_layout
 
 \begin_layout Standard
-Un paysage bouleversant s'anima alors tous azimus.
+Un paysage bouleversant s'anima alors tous azimuts.
  Et sur nos joues glissait de l'eau salée : celle des vagues de l'estuaire
  et sûrement deux ou trois larmes de bonheur.
  Nous avions, cent et cent fois, parcouru les marais de Loire, contemplé
@@ -1739,7 +1858,7 @@ Finalement, c'est au ras des roseaux et les jambes dans la vase, que nous
 Ainsi se termina notre descente de Loire du printemps 2011.
 \end_layout
 
-\begin_layout Chapter*
+\begin_layout Section*
 Le phoque et le pont
 \end_layout
 
@@ -1926,14 +2045,14 @@ Le tête-à-tête dura dix secondes, un peu plus, un peu moins.
 Grande marche
 \end_layout
 
-\begin_layout Chapter*
+\begin_layout Section*
 Cap à l'est !
 \end_layout
 
 \begin_layout Standard
 Et voilà.
  Les pagaies sont posées, le kayak est plié et rangé au fond du grenier
- parental, et nos corps et nos têtes se laissent aller à un peu de repos.
+ parental, nos corps et nos têtes se laissent aller à un peu de repos.
  Une aventure se termine ; une autre se prépare.
  Cet entre-deux dure deux semaines : une qui clôture un beau mois de mai
  ; une autre qui grappille le début juin, annonçant l'été à venir.
@@ -1995,10 +2114,10 @@ rando
 \begin_inset space ~
 \end_inset
 
-kilos, tandis que le mien en pesait 23.
- Trop lourds, pas agréables et avec les dénivelés ardéchois, dangereux pour
- nos articulations ! Nous nous étions alors promis, crachant dans nos mains,
- que 
+kilos, tandis que le mien en pesait 22.
+ Trop lourds, pas agréables et, avec les dénivelés ardéchois, dangereux
+ pour nos articulations ! Nous nous étions alors promis, crachant dans nos
+ mains, que 
 \begin_inset Quotes fld
 \end_inset
 
@@ -2045,7 +2164,7 @@ En voilà une religion qui nous convient : barouder léger ; en ayant une
  certaine autonomie et une plus grande mobilité ; en bricolant et bidouillant
  son matériel ; en identifiant ses besoins essentiels ; et en apprenant
  à se passer du reste (ou à trouver ce reste sur place, si besoin est).
- De quoi rendre nos pérégrinations encore plus libertaires.
+ De quoi rendre nos pérégrinations encore plus libérées.
 \end_layout
 
 \begin_layout Standard
@@ -2057,7 +2176,7 @@ triturages
 \begin_inset Quotes frd
 \end_inset
 
- d'esprit, coups de ciseaux et délestages tout azimut, et grâce à l'aide
+ d'esprit, coups de ciseaux et délestages tous azimuts, et grâce à l'aide
  précieuse de notre couturière-équipementière (Monique, ma bonne mère) et
  d'une balance de cuisine, nous voici fin prêts au départ.
  Marie et sa protubérance dorsale perdent, dans la bataille, 6
@@ -2139,8 +2258,8 @@ Vieil, récupérant le sentier de grande randonnée n°3.
  Ces milliers de foulées sont arrivées à Mézières\SpecialChar \nobreakdash-
 en\SpecialChar \nobreakdash-
 Brenne, au pied de deux
- mille étangs, rejointes par les traces des pneus de deux mamans, pour trois
- petits jours de vacances bien méritées.
+ mille étangs, rejointes par les pneus de deux mamans, pour trois petits
+ jours de vacances bien méritées.
 \end_layout
 
 \begin_layout Standard
@@ -2357,7 +2476,7 @@ sentier jacquaire officiel
  C'est tout de même un comble, pour deux apprentis libertaires !
 \end_layout
 
-\begin_layout Chapter*
+\begin_layout Section*
 Rêveries à Grand-Lieu
 \end_layout
 
@@ -2479,7 +2598,7 @@ Il y aurait eu tant d'autres observations à faire en ce lieu.
  écosystème, son lot de nouveaux occupants.
 \end_layout
 
-\begin_layout Chapter*
+\begin_layout Section*
 Le concombre nous maudit
 \end_layout
 
@@ -2623,7 +2742,7 @@ miramap.org
  potager ou un potager collectif.
 \end_layout
 
-\begin_layout Chapter*
+\begin_layout Section*
 Le lièvre et l'orage
 \end_layout
 
@@ -2791,7 +2910,7 @@ h
  Et la légende dit que même les lièvres ne s'en sont pas remis.
 \end_layout
 
-\begin_layout Chapter*
+\begin_layout Section*
 Rencontres sauvages
 \end_layout
 
@@ -2884,7 +3003,7 @@ Tous font partie de cette faune sauvage que nous essayons d'observer, en
  comme fond une glace au soleil.
 \end_layout
 
-\begin_layout Chapter*
+\begin_layout Section*
 Nos chemins de liberté
 \end_layout
 
@@ -2912,17 +3031,8 @@ Jacques
 \end_layout
 
 \begin_layout Standard
-Pourtant, en passant les gorges de la Creuse
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-Les 12 et 13 juillet 2011.
-\end_layout
-
-\end_inset
-
-, entre Gargilesse et Crozant, le doute n'était plus de mise.
+Pourtant, en passant les gorges de la Creuse, les 12 et 13 juillet, entre
+ Gargilesse et Crozant, le doute n'était plus de mise.
  Nous étions, bel et bien, deux pèlerins sur un 
 \begin_inset Quotes fld
 \end_inset
@@ -3024,18 +3134,9 @@ Parfois, au gré des kilomètres et de quelques rencontres, émergent -- pouf,
 \end_layout
 
 \begin_layout Standard
-Trois semaines auparavant
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-Le 22 juin 2011.
-\end_layout
-
-\end_inset
-
-, sur les bords de Loire, dans les faubourgs de Saumur -- ville de bulles
- et de chevaux --, un joyeux trublion nous offrit cette folie.
+Trois semaines auparavant, le 22 juin, sur les bords de Loire, dans les
+ faubourgs de Saumur -- ville de bulles et de chevaux --, un joyeux trublion
+ nous offrit cette folie.
 \end_layout
 
 \begin_layout Standard
@@ -3151,7 +3252,7 @@ ce là
  tandis que les chamois cabriolent.
 \end_layout
 
-\begin_layout Chapter*
+\begin_layout Section*
 Désapproprions nous !
 \end_layout
 
@@ -3304,7 +3405,7 @@ Peut-être, alors, que ce couple du
  qu'au bord d'une route communale de Creuse.
 \end_layout
 
-\begin_layout Chapter*
+\begin_layout Section*
 La Brenne
 \end_layout
 
@@ -3442,7 +3543,7 @@ Si, comme nous, vous aimez le tourisme tranquille et observer la nature,
  belle.
 \end_layout
 
-\begin_layout Chapter*
+\begin_layout Section*
 Photographies de Creuse
 \end_layout
 
@@ -3708,7 +3809,77 @@ L'ambiance, donc, est aux embrassades.
  éclaircies creusoises, qui vont nous gâcher la vie.
 \end_layout
 
-\begin_layout Chapter*
+\begin_layout Section*
+De riches clochards
+\end_layout
+
+\begin_layout Standard
+Ce trentième week-end de l'année
+\begin_inset space ~
+\end_inset
+
+2011, nous faisons pâle figure à côté de nos deux voisins de plage.
+\end_layout
+
+\begin_layout Standard
+Après une semaine à crapahuter mouillés sur les collines creusoises, nous
+ nous accordons une pause ensoleillée de nuages, au bord du grand lac de
+ Vassivière, entre Creuse et Corrèze.
+ Au programme : se détendre ; se régénérer le moral et les bourrelets ;
+ laver du linge, des fesses et des pieds ; dorloter sa mie ; dormir ton
+ son saoul ; préparer le trajet des jours à venir ; et beaucoup écrire sur
+ ceux qui viennent de s'écouler.
+ Un week-end simple et pépère.
+\end_layout
+
+\begin_layout Standard
+Nous nous installons, solitaires, au bord d'une petite plage, sous un grand
+ pin protecteur.
+ Que la vie est belle, malgré le vent, la multitude de gros nuages et une
+ petite pluie ponctuelle.
+ Voilà qu'arrive un couple de trentenaires, rompant notre solitude, mais
+ pas dérangeants pour un sou.
+ Leur week-end s'annonce bien plus actif que le nôtre : skysurfing, furtives
+ baignades, vélo, bateau, etc.
+\end_layout
+
+\begin_layout Standard
+À un moment, nous nous regardons, nous les regardons.
+\end_layout
+
+\begin_layout Standard
+Nos culs sont posés sur une bâche, sur laquelle nous pique-niquons rudimentairem
+ent.
+ Marie a le pantalon rentré dans des chaussettes roses, elles mêmes enfoncées
+ dans deux sandales blanches.
+\end_layout
+
+\begin_layout Standard
+Leurs derrières sont posés sur deux petites chaises ; ils grignotent quelques
+ mets disposés ci et là, sur une petite table.
+ Le tout est à l'abri sous le frêle auvent d'un joli petit chalet en libre
+ service.
+\end_layout
+
+\begin_layout Standard
+Qu'ils sont mignons ; que nous sommes ploucs !
+\end_layout
+
+\begin_layout Standard
+Cependant, tout ploucs et clochards que nous sommes, nous nous sentons riches
+ des libertés que nous cueillons chaque jour.
+ Alors pas de honte ; 
+\begin_inset Quotes fld
+\end_inset
+
+maman, repass'moi l'saucisson !
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
 Anniversaire auvergnat
 \end_layout
 
@@ -3871,7 +4042,7 @@ Nous voici à Saint-Flour, en limite de Cantal, pour y découvrir nos prochains
  itinéraires.
 \end_layout
 
-\begin_layout Chapter*
+\begin_layout Section*
 Les chamois
 \end_layout
 
@@ -3968,7 +4139,7 @@ mètres en l'air, sur le sommet tout proche, quatre chamois broutaient l'herbe
 Quel heureux moment.
 \end_layout
 
-\begin_layout Chapter*
+\begin_layout Section*
 La montée d'Albepierre
 \end_layout
 
@@ -4035,7 +4206,335 @@ Me voilà assise à vous écrire ces quelques mots, alors que Mathieu, en caleç
  notre fastueux dîner.
 \end_layout
 
-\begin_layout Chapter*
+\begin_layout Section*
+Lointaine Lozère
+\end_layout
+
+\begin_layout Standard
+Le temps a passé ; et les dix jours de notre route en Lozère semblent posés
+ sur nos neurones en un voile brumeux, 
+\begin_inset Quotes fld
+\end_inset
+
+sûr de rien
+\begin_inset Quotes frd
+\end_inset
+
+, mais bienheureux, voluptueux.
+ Tout n'est que souvenir lointain, imprécis.
+ À croire que chaque kilomètre ne fût qu'une seconde.
+ Nous n'y serions alors restés que trois minutes ? Cette Lozère nous a comme
+ aspiré violemment, pour nous recracher aussi sec, injectant au passage,
+ par les interstices de nos quatre oreilles, toute la brume de ses frais
+ matins.
+ Elle nous laisse, pourtant, un doux souvenir aux lèvres.
+\end_layout
+
+\begin_layout Cul-de-lampe
+
+\end_layout
+
+\begin_layout Standard
+La Creuse et l'Auvergne furent un chapelet de petites montagnes, grand comme
+ 450
+\begin_inset space ~
+\end_inset
+
+kilomètres ; et chaque récitation soufflait un moment intense dans nos pattes
+ et sur nos gueules, comme des clics et déclics dans les mécanismes bruts
+ du voyage, et nous bouleversait.
+\end_layout
+
+\begin_layout Standard
+Saint\SpecialChar \nobreakdash-
+Flour, jolie vieille ville posée sur des orgues basaltiques, à l'est
+ du Cantal, a clôturé ce fou et fort moment de marche.
+ Nous avons passé trois jours à y taper sur le clavier d'un centre culturel,
+ nos souvenirs et nos histoires.
+\end_layout
+
+\begin_layout Standard
+Puis, la Lozère ; nous y reviendrons.
+ Nous l'avons finie au mont Aigual, à sa station météo, trempés et penauds.
+ Tout en bas, en bas de ses 
+\begin_inset Quotes fld
+\end_inset
+
+4000
+\begin_inset space ~
+\end_inset
+
+marches
+\begin_inset Quotes frd
+\end_inset
+
+, a commencé notre Sud, au creux d'un vallon, à la petite Valleraugue, ville
+ tout de long.
+\end_layout
+
+\begin_layout Standard
+Oui, notre Sud a commencé là, pour un petit mois, mystique et quasi-nouveau
+ pour les gens-jeunes du Nord-Ouest que nous sommes.
+ Un bout dans l'industrie, un dans les marais et un, plus long et plus grand,
+ dans des montagnes encore.
+ Sud poussiéreux, généreux en humanité et en raisin, étouffant d'hommes
+ et de chaleur, bouleversant et orageux.
+\end_layout
+
+\begin_layout Standard
+Le voyage tout entier nous a rendu moins faibles, moins peureux, plus entiers,
+ plus distants aussi.
+ Et c'est dans le Sud, dans son intensité, qu'il a fini par s'amalgamer
+ à notre matière grise, que ses rameaux se sont accouplés à nos synapses,
+ qu'il nous a pris pour de bon.
+\end_layout
+
+\begin_layout Cul-de-lampe
+
+\end_layout
+
+\begin_layout Standard
+Notre Lozère, ainsi, s'est retrouvée boudinée entre deux pavés bouleversants
+ de voyage, ne lui laissant guère plus de place qu'une fine tranche de jambon
+ fumé surmontée d'un cornichon.
+ Cependant, elle s'est trouvée, sans aucun mal, une place de choix dans
+ le réseau de nos souvenirs.
+\end_layout
+
+\begin_layout Standard
+Nous l'avons franchie, une dizaine de kilomètres au sud de Saint\SpecialChar \nobreakdash-
+Flour, après
+ avoir surplombés les ruines du château d'Alleuze (XIV
+\begin_inset script superscript
+
+\begin_layout Plain Layout
+e
+\end_layout
+
+\end_inset
+
+ siècle) et enjambés les gorges d'une Truyère très basse, au barrage de
+ Grandval.
+ Nous étions, là, au chevauchement de deux vieilleries géologiques -- l'Aubrac
+ à l'ouest (haut plateau volcanique et granitique ; 6
+\begin_inset space ~
+\end_inset
+
+à
+\begin_inset space ~
+\end_inset
+
+9
+\begin_inset space ~
+\end_inset
+
+millions d'années) et la Margeride à l'est (région montagneuse à l'histoire
+ géologique complexe) -- et passions, au gré de zigs et de zags, de l'une
+ à l'autre et vice-versa.
+\end_layout
+
+\begin_layout Standard
+Sur près de 185
+\begin_inset space ~
+\end_inset
+
+kilomètres, de Sain\SpecialChar \nobreakdash-
+Flour jusqu'à sa capitale, Mende, puis de Mende jusqu'au
+ second de ses points culminants, l'Aigual, la Lozère nous aura rincés de
+ soleil, de chaleur, d'averses drues et de sentiers de poussière transperçant
+ cent petites montagnes et quelques plateaux.
+ Elle aura été, aussi, moelleuse d'herbe verte, vivifiante d'eau pure et
+ fraîche, orageuse, culturelle et bien des choses encore.
+\end_layout
+
+\begin_layout Standard
+Et, pour bien nous montrer l'étendue de son accueil, elle a distillé, à
+ chacun de nos pas, sa panoplie de bonheurs et d'emmerdes.
+ Sous sa férule ou sous ses caresses, nous avons ainsi vécu de bons instants
+ communs et quelques singularités aussi.
+ Ce fut fort et fou, beau et doux, poétique et apaisant, parfois déchirant.
+\end_layout
+
+\begin_layout Standard
+En vrac pour les petits instants, les courts moments et les jolis endroits,
+ il y eut : d'agréables baignades dans des ruisseaux bucoliques ; des ruines
+ gallos-romaines ; des restes paléolithiques ; des vaches aubrac, mignonnes
+ comme des peluches ; Flora, une adorable petite chienne qui fut, cinq kilomètre
+s durant, une parfaite compagnonne de chemins ; Florac, une jolie ville
+ médiévale et alternative, où les écolos et les dreadeux ont remplacé les
+ palefreniers et les troubadours ; la traversée de longues forêts de résineux
+ ; un dîner caché de la pluie dans une bergerie puante et crottée ; etc.
+\end_layout
+
+\begin_layout Standard
+À Aumont\SpecialChar \nobreakdash-
+Aubrac, à la croisée d'une veine verticale autoroutière (A
+\begin_inset space \thinspace{}
+\end_inset
+
+75) et d'une artère horizontale jacquaire (GR
+\begin_inset space \thinspace{}
+\end_inset
+
+65), la Lozère a largement conforté notre rupture pèlerine, la confrontant
+ -- en pleine période de pointe -- au principal chemin français pour Saint-Jacqu
+es-de-Compostelle, à ses longues processions, à ses pubs et affichettes,
+ et aux persiflages de ses riverains.
+\end_layout
+
+\begin_layout Standard
+À Mende, la Lozère nous offrit un imposant cornet de chichis, nous posa
+ sur une hauteur de la ville -- de sorte que nous surplombions sa cathédrale,
+ ses ruelles pavées, sa bibliothèque lumineuse et ses 15
+\begin_inset space \thinspace{}
+\end_inset
+
+000
+\begin_inset space ~
+\end_inset
+
+habitants -- et, alors, fit exploser longuement dans le ciel des feux follets
+ crépitants.
+\end_layout
+
+\begin_layout Standard
+Le lendemain, nous sommes montés par une ancienne voie romaine pavée sur
+ le causse de Mende, l'avons traversé d'ouest en est, puis du nord au sud,
+ pour finir par nous engouffrer dans les Cévennes, nous faufilant entre
+ le mont Lauzère -- à l'est -- et les causses de Sauveterre et Méjean --
+ à l'ouest.
+ Nous avons aperçu, de près et de loin, les sculptures excentriques de ces
+ plateaux karstiques, façonnés patiemment par la force et la chimie des
+ eaux.
+\end_layout
+
+\begin_layout Standard
+Notre route n'aura, cette fois-ci, que peu embrassé celles de ces causses,
+ préférant les reliefs pelés et déchirés cévenols.
+ Un jour, pourtant, nous y retournerons en ermites.
+ Car, dans cette région des Grandes Causses, semblent rôder quelques magies
+ et poésies plus puissantes qu'ailleurs.
+\end_layout
+
+\begin_layout Standard
+Les jours suivants, nous continuâmes dans tous ces paysages enchanteurs,
+ jusqu'en fin de Lozère, jusqu'au début du Sud.
+ Dorénavant, cette Lozère ne resterait dans nos têtes que comme un patchwork
+ diffus de tous ces petits instants, ces courts moments et ces jolis endroits,
+ que seul un travail méticuleux pourrait reconstituer.
+\end_layout
+
+\begin_layout Standard
+Quatre soirées, cependant, squattent avec zèle les coins perdus de nos encéphale
+s, formant l'essence la plus pure de nos souvenirs lozériens.
+ Les trois premières furent : angoissante et féérique ; apaisante et philosophiq
+ue ; inquiétante et poétique.
+ La quatrième dégomma tout.
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Le premier soir, au creux d'un champ quelconque, la météo se prit à vouloir
+ nous faire le spectacle.
+ Et, ma foi, elle ne se trompa guère dans les artifices employés.
+ Tandis que nous étions sous le couvert d'un cerisier, les culs collés à
+ son écorce, la grande metteuse en scène faisait claquer son armée d'éclairs
+ stridents, au travers d'un drap de pluie drue.
+ Nous regardions tout ceci avec fascination, un peu apeurés bien sûr, gobant
+ les quelques cerises qui se mettaient sous nos doigts.
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Le deuxième soir, les cœurs totalement pris à la solitude lozérienne, nous
+ contemplions quelques milliards d'étoiles, dans un ciel qu'aucun excrément
+ lumineux humain ne venait polluer.
+ Nous voyageâmes, ce soir là, bien au delà des frontières que jamais nos
+ corps ne pourraient franchir.
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Le troisième soir, nous étions assis sur un monticule de blocs de pierres,
+ sur une petite colline, et nous surplombions un panorama de montagnes et
+ de solitude.
+ Le soleil s'était endormi et la nuit finissait de grignoter le bleu pur
+ du ciel.
+ Alors, devant l'horizon bleu, violet et noir, des spectres sortirent des
+ arbres, absolument partout tout autour, de toutes les tailles, de toutes
+ les formes, tous absolument noirs, puis se murent chaotiquement ou bercés
+ par le vent.
+ Et nous les regardions au loin, terrifiés.
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Tous ces soirs, cependant, furent surpassés par le quatrième, qui les balaya
+ d'un revers de vent.
+ D'ailleurs, ce n'était pas seulement un soir, mais une après-midi, un soir
+ et une nuit.
+ Quand l'intensité des grandeurs vous emboîte le pas, qu'elle a décidé de
+ vous apprendre la vie, elle aime y mettre du zèle.
+ Garce !
+\end_layout
+
+\begin_layout Standard
+Nous venions tout juste de dépasser le lieu-dit de l'Hospitalet, et d'arriver
+ sur la Barre des Cévennes.
+ Depuis l'Auvergne, nous avions une assurance folle, nos physiques allaient
+ au mieux et nos morales tenaient fermes.
+ Nous foulions la terre de ce cœur cévenol avec réel plaisir.
+ Son relief semblait un chaos de griffes et de déchirures qu'un jeune dieu
+ un peu foufou aurait semé.
+\end_layout
+
+\begin_layout Standard
+Et ce jour là, il ne nous laissa aucun répit.
+ Depuis la mi matinée, nous entendions gronder l'orage, au loin.
+ Mais, grisés par les joies du voyage, trop confiants, nous n'y portions
+ aucun intérêt.
+ Grosse erreur ! Car, à l'heure du déjeuner, une pluie monumentale s'abattit
+ sur nous.
+ À proximité, pour nous abriter, il n'y avait qu'un affût de « chasse au
+ gros », aussi imperméable à l'eau qu'un tipi en bois fabriqué en une heure
+ par des enfants.
+ Concrètement, tout fut trempé !
+\end_layout
+
+\begin_layout Standard
+Ce fut très long...
+ D'autant que la pluie, mauvaise solitaire, invita deux grands amis : l'orage
+ et le vent.
+ Le vent surtout fut violent ce soir là, soufflant en rafales de tous côtés,
+ dansant la gigue, tournant encore et encore.
+ Persévérant dans la désorganisation d'alors, nous plantâmes la tente en
+ plein centre de cette lande hyperexposée.
+\end_layout
+
+\begin_layout Standard
+La nuit fut longue et le sommeil rare, malgré le départ de la pluie.
+ Car le vent, lui, ne se coucha pas.
+ Il soufflait si fort que la tente tanguait, pliait, crissait.
+ Et il hurlait si haut que nous nous réveillions apeurés à chacune de ses
+ rafales.
+ Le lendemain, nous émergeâmes encore sonnés.
+ Rapidement, pourtant, la marche au cœur de ces paysages cévenols et l'ascension
+ du mont Aigual (bouleversante et épuisante) nous purgèrent de ces maux.
+\end_layout
+
+\begin_layout Section*
 Lozère, ruisseau et langues de bœuf
 \end_layout
 
@@ -4113,7 +4612,7 @@ Elles finirent pourtant pas se lasser de nous et s'en allèrent paître plus
  Ah ! que notre ruisseau frémissant semblait loin.
 \end_layout
 
-\begin_layout Chapter*
+\begin_layout Section*
 Portrait d'un Sud
 \end_layout
 
@@ -4159,11 +4658,11 @@ marches
 \end_inset
 
  : très belle randonnée, entre Valleraugues et le mont Aigoual, de 1200
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 m de dénivelé sur 11
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 km.
@@ -4171,17 +4670,11 @@ km.
 
 \end_inset
 
-, la cité de Valleraugue, un dimanche matin
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-28 août 2011.
-\end_layout
-
+, la cité de Valleraugue, un dimanche matin (celui du 28
+\begin_inset space ~
 \end_inset
 
-, était grouillante de vie.
+août), était grouillante de vie.
  Quelques personnes âgées, toutes pimpantes, papotaient devant l'église
  réformée, avant la messe.
  D'autres emplissaient des paniers de fruits, légumes, viandes et pains
@@ -4240,17 +4733,8 @@ dortoir
 \end_layout
 
 \begin_layout Standard
-Le mercredi soir
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-31 août.
-\end_layout
-
-\end_inset
-
-, au milieu de ces vignes là, nous dûmes planter notre tente, faute de mieux.
+Le mercredi soir 31 août, au milieu de ces vignes là, nous dûmes planter
+ notre tente, faute de mieux.
  À 21
 \begin_inset space ~
 \end_inset
@@ -4283,17 +4767,7 @@ ante périphérie de Nîmes.
 \end_layout
 
 \begin_layout Standard
-Le samedi
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-3 septembre.
-\end_layout
-
-\end_inset
-
-, nous dûmes forcer les portes de la Camargue.
+Le samedi 3 septembre, nous dûmes forcer les portes de la Camargue.
  Passant outre l'interdiction de pénétrer sur un long chemin bordé de hauts
  roseaux, nous découvrîmes l'étang de Scamandre et sa bordure marécageuse.
  Nous gambadions -- les yeux et les oreilles grands ouverts -- dans un écosystèm
@@ -4360,258 +4834,7 @@ es sur la plage (lisant et écrivant) et nous baignâmes dans la chaude eau
  l'eau et dans les airs -- un joli spectacle au coucher du soleil.
 \end_layout
 
-\begin_layout Chapter*
-Trois arrières-pays
-\end_layout
-
-\begin_layout Standard
-Alpilles, Lubéron, Verdon.
- Trois massifs montagneux -- parcs naturels régionaux -- qui seront nos
- dernières difficultés du voyage ; de sacrément belles difficultés ! Nous
- les parcourrons le temps d'un beau mois de septembre.
-\end_layout
-
-\begin_layout Standard
-Mais, avant de nous y atteler, il faut sortir de Camargue.
- L'affaire n'est pas aisée, car quelques longs canaux facétieux aux portes
- d'Arles et un maudit milliardaire -- propriétaire zélé -- compliquent notre
- avancée, nous jetant sous les pieds huit gros kilomètres en rab.
- Nous marchons, à cause d'eux, sans conviction sur une départementale trop
- empruntée.
- Mais les reliefs, au loin, attisent notre volonté et gonflent nos forces
- pour y parvenir.
- Un seul mot d'ordre : retrouver au plus vite les sensations de grandiose
- que seuls les paysages montagneux nous ont offertes.
-\begin_inset VSpace bigskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Le mercredi
-\begin_inset space ~
-\end_inset
-
-7, après une nuit passée aux portes d'une chapelle cerclée d'oliviers, le
- petit massif des Alpilles nous engouffre et nous libère.
- Ce massif -- plissements lointains des Alpes, fait de roches calcaires
- -- est peu élevé.
- Il est entouré de larges plaines, nous laissant le loisir d'observer :
- au nord, les fameux pont d'Avignon et mont Ventoux ; au sud, une côte méditerra
-néenne ravagée par l'industrie et devancée par la réserve naturelle des
- Coussouls de Crau ; et à l'est, des montagnes et des montagnes encore,
- se perdant dans la brume.
- Ici, la végétation, odorante et vivifiante, est un méli-mélo de montagne
- et de méditerranée, de pins et de buissons rampants.
- D'ouest en est, nous gambadons, alors, sur des montées délicieusement terreuses
- et caillouteuses, dans une nature belle et poétique.
-\end_layout
-
-\begin_layout Standard
-Le soir même, nous sommes accueillis par l'espace naturel sensible de la
- Caume, abrités du vent par des pins, mais piqués aux fesses par un tapis
- de jeunes houx.
- Et le lendemain, de cette Caume à un petit aérodrome quelques kilomètres
- après, nous jouons aux équilibristes sur une crête magnifique et sportive,
- luttant contre une tramontane décoiffante.
- Cela ravive nos réflexes et envies de grimpeurs.
- La descente se fait de glissades et de bougonnements, au travers d'une
- très dense garrigue, sous le sifflement de deux planeurs virevoltant dans
- le souffle des airs.
- Nous terminons cette pleine journée, assouvis de paysages, dans le coin
- tranquille d'un cimetière.
- Derrière le clocher sombre d'une petite église, l'horizon orangé s'aplatit
- et s'endort.
-\begin_inset VSpace bigskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Après une dernière journée, d'une marche tranquille passée en rêverie, nous
- quittons les Alpilles.
- Et déjà, le Lubéron pointe le bout de son nez.
- Mais, malgré l'énergie de petits-déjeuners gargantuesques (faits de muesli,
- fromage blanc, charcuterie, fruits, chocolat...), la marche a bien du mal
- à nous entrainer.
- La lecture, l'écriture et la sieste semblent, au contraire, plus attrayantes.
- Pourtant, il nous faut avancer : Nice est encore loin ! Un peu de courage
- pour démarrer, puis le corps -- mécaniquement -- avance, grimpe, crapahute.
-\end_layout
-
-\begin_layout Standard
-Les deux premiers jours (10
-\begin_inset space ~
-\end_inset
-
-et
-\begin_inset space ~
-\end_inset
-
-11
-\begin_inset space ~
-\end_inset
-
-septembre), les hauteurs du Lubéron nous imposent le piétinement ; les garces
- ! Leurs chemins, dans la garrigue, sont étroits, caillouteux, poussiéreux,
- abrupts et souvent dénués d'ombre.
- Les descentes succèdent aux montées, sans arrêt.
- Nous évoluons sur une suite de mamelons, aux branches griffantes et à la
- vue peu ouverte.
- Le second jour, c'est assoiffés et affamés (les dernières gouttes d'eau
- ingurgitées provenaient d'un concombre) que nous arrivons à Lourmarin,
- un joli village bourgeois de l'arrière-pays.
- 
-\end_layout
-
-\begin_layout Standard
-Ce début de Lubéron, qui promettait pourtant d'être fort plaisant, nous
- laisse un goût amer.
- Nous décidons, alors, de rester en contrebas de ces montagnes, profitant
- ainsi de charmants petits villages, vidés de touristes en cette saison.
- Voilà ce que sera, désormais, notre pain quotidien luberonnais : des chemins
- bordés de murets en pierre, des monts qui nous narguent, du raison bien
- mûr, de grands champs d'oliviers, des dédales de ruelles.
- Cette marche tranquille donne dans le simple et le poétique, et nous comble
- de bonheur.
- Nous n'avons pas cédé à l'orgueil des hauteurs.
-\begin_inset VSpace bigskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Le jeudi
-\begin_inset space ~
-\end_inset
-
-15, la ville de Manosque, sa large zone commerciale et ses routes bondées
- de voitures marquent la fin de ce second massif.
- Mais déjà, les montagnes visibles au loin (les Préalpes et le Verdon) nous
- attirent inexorablement et excitent la rêverie des montagnards novices
- que nous sommes.
- La dernière ligne droite commence ; il ne faut pas faillir.
- Le Verdon -- encensé par tant de nos rencontres de voyage -- nous attend
- ! Les montées et les descentes recommencent, balaises et sportives.
- Et la promesse renouvelée de paysages grandioses, telle une grosse carotte,
- nous fait avancer comme deux ânes.
-\end_layout
-
-\begin_layout Standard
-Après deux jours passés en insolations et en essoufflements, entre poussière
- et pierraille, petites villes touristiques et chasseurs, le plateau de
- Valensole nous ouvre ses chemins, ses chênaies aux cœurs d'abeilles, ses
- vergers de pommes sucrées, ses lavandins fraîchement coupés.
- Pourtant, comme le soleil, le beau temps décline ; et un puissant orage
- gronde au loin.
-\end_layout
-
-\begin_layout Standard
-Notre journée s'arrête au-dessus du lac de Sainte\SpecialChar \nobreakdash-
-Croix, au bord de quelques
- ravins de terre ocre, alors qu'en haut, de nombreux éclairs claquent dans
- un silence profond.
- Nous nous éveillons tôt, au son des craquements voisins et d'une pluie
- si battante qu'elle passe au travers de notre petite tente.
- Tout proche, les pierres roulent sur les pentes abruptes.
- Tout proche, le sol tremble à chaque flash lumineux dans les airs.
- Pendant une heure, nous patientons avec calme, malgré quelques craintes,
- sous cet orage impressionnant.
- Puis il s'arrête ; et nous nous préparons, alors, au rythme des averses.
-\end_layout
-
-\begin_layout Standard
-C'est au rythme des averses, aussi, que nous marchons aujourd'hui -- dimanche
- 18
-\begin_inset space ~
-\end_inset
-
-septembre -- nous engouffrant toujours plus dans ce qui est -- peut-être
- -- l'un des plus beaux territoire français.
- D'abord, une descente : à travers une forêt de pins ; les godillots collés
- à une boue rouge ; les yeux rivés sur quelques troncs calcinés et explosés,
- ou sur de jolies ravines.
- Spectacle du ciel et de la terre.
- Puis, un repos -- léger mais salutaire -- entouré des piaillements touristiques
- de la jolie Moustiers\SpecialChar \nobreakdash-
-Sainte\SpecialChar \nobreakdash-
-Marie.
- Enfin, une grimpe -- belle et sportive -- de la bourgade jusqu'aux hauteurs
- de rocs et de pierres.
- 
-\end_layout
-
-\begin_layout Standard
-Nous surplombons alors ce petit monde : l'immense lac, le vaste plateau
- et des moyennes montagnes, partout.
- Le Superbe est tout entier ici.
- Il nous explose à la tête, au rythme de notre ascension, au rythme de nos
- enjambées, au rythme des expirations de nos souffles courts.
- Et, tout en haut, nos yeux grands ouverts l'embrassent à 360
-\begin_inset space ~
-\end_inset
-
-degrés.
- Nous descendons, un peu sonnés.
- Les jours raccourcissent et les températures dégringolent.
- Ce soir-là -- dans une prairie crottée par les moutons, entourée par les
- pins, ensemencée par les pierre, bucolique -- nous nous couchons tôt, calmes,
- ravis et au frais.
-\end_layout
-
-\begin_layout Standard
-Le temps s'accélère.
-\end_layout
-
-\begin_layout Standard
-Le joyau du Verdon est enfin à nos pieds : ses gorges.
- Mais le sentier 
-\begin_inset Quotes fld
-\end_inset
-
-Blanc\SpecialChar \nobreakdash-
-Martel
-\begin_inset Quotes frd
-\end_inset
-
-, qui les parcourt depuis tant d'années, est en cours de rénovation et de
- sécurisation.
- La frustration est la première sensation qui nous traverse ; puis nous
- relativisons.
- Sachons prendre autre chose que les joyaux.
- Un minuscule désert d'herbe et de pierres, le plateau de Suech, donnerait
- envie au plus anxieux des hommes de s'apaiser.
- Des roches millénaires, où ruisselle de l'eau tout aussi vieille, bordent
- nos chemins de méditation.
- Puis -- le jeudi
-\begin_inset space ~
-\end_inset
-
-22 -- une oasis nous accueille, reposante et relaxante : Saint\SpecialChar \nobreakdash-
-Jean du Désert.
-\end_layout
-
-\begin_layout Standard
-Le temps s'arrête.
-\end_layout
-
-\begin_layout Standard
-Mais la course folle des aiguilles, elle, continue.
- Nous reprenons la marche une matinée, une seule.
- Nous n'irons pas plus loin, à pieds, que la ville d'Entreveaux.
- Le chemin que nous voulions emprunter jusqu'à Nice n'étant pas adapté à
- notre marche.
-\end_layout
-
-\begin_layout Standard
-Mais le voyage va au-delà des kilomètres ; il est aussi et surtout dans
- nos têtes.
-\end_layout
-
-\begin_layout Chapter*
+\begin_layout Section*
 En état de guerre
 \end_layout
 
@@ -4946,7 +5169,462 @@ Quant à nous, dans notre marche qui perdurera jusqu'au début de l'automne,
  nous sommes désormais plus alertes que jamais.
 \end_layout
 
-\begin_layout Chapter*
+\begin_layout Section*
+Trois arrières-pays
+\end_layout
+
+\begin_layout Standard
+Alpilles, Lubéron, Verdon.
+ Trois massifs montagneux -- parcs naturels régionaux -- qui seront nos
+ dernières difficultés du voyage ; de sacrément belles difficultés ! Nous
+ les parcourrons le temps d'un beau mois de septembre.
+\end_layout
+
+\begin_layout Standard
+Mais, avant de nous y atteler, il faut sortir de Camargue.
+ L'affaire n'est pas aisée, car quelques longs canaux facétieux aux portes
+ d'Arles et un maudit milliardaire -- propriétaire zélé -- compliquent notre
+ avancée, nous jetant sous les pieds huit gros kilomètres en rab.
+ Nous marchons, à cause d'eux, sans conviction sur une départementale trop
+ empruntée.
+ Mais les reliefs, au loin, attisent notre volonté et gonflent nos forces
+ pour y parvenir.
+ Un seul mot d'ordre : retrouver au plus vite les sensations de grandiose
+ que seuls les paysages montagneux nous ont offertes.
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Le mercredi
+\begin_inset space ~
+\end_inset
+
+7, après une nuit passée aux portes d'une chapelle cerclée d'oliviers, le
+ petit massif des Alpilles nous engouffre et nous libère.
+ Ce massif -- plissements lointains des Alpes, fait de roches calcaires
+ -- est peu élevé.
+ Il est entouré de larges plaines, nous laissant le loisir d'observer :
+ au nord, les fameux pont d'Avignon et mont Ventoux ; au sud, une côte méditerra
+néenne ravagée par l'industrie et devancée par la réserve naturelle des
+ Coussouls de Crau ; et à l'est, des montagnes et des montagnes encore,
+ se perdant dans la brume.
+ Ici, la végétation, odorante et vivifiante, est un méli-mélo de montagne
+ et de méditerranée, de pins et de buissons rampants.
+ D'ouest en est, nous gambadons, alors, sur des montées délicieusement terreuses
+ et caillouteuses, dans une nature belle et poétique.
+\end_layout
+
+\begin_layout Standard
+Le soir même, nous sommes accueillis par l'espace naturel sensible de la
+ Caume, abrités du vent par des pins, mais piqués aux fesses par un tapis
+ de jeunes houx.
+ Et le lendemain, de cette Caume à un petit aérodrome quelques kilomètres
+ après, nous jouons aux équilibristes sur une crête magnifique et sportive,
+ luttant contre une tramontane décoiffante.
+ Cela ravive nos réflexes et envies de grimpeurs.
+ La descente se fait de glissades et de bougonnements, au travers d'une
+ très dense garrigue, sous le sifflement de deux planeurs virevoltant dans
+ le souffle des airs.
+ Nous terminons cette pleine journée, assouvis de paysages, dans le coin
+ tranquille d'un cimetière.
+ Derrière le clocher sombre d'une petite église, l'horizon orangé s'aplatit
+ et s'endort.
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Après une dernière journée, d'une marche tranquille passée en rêverie, nous
+ quittons les Alpilles.
+ Et déjà, le Lubéron pointe le bout de son nez.
+ Mais, malgré l'énergie de petits-déjeuners gargantuesques (faits de muesli,
+ fromage blanc, charcuterie, fruits, chocolat...), la marche a bien du mal
+ à nous entrainer.
+ La lecture, l'écriture et la sieste semblent, au contraire, plus attrayantes.
+ Pourtant, il nous faut avancer : Nice est encore loin ! Un peu de courage
+ pour démarrer, puis le corps -- mécaniquement -- avance, grimpe, crapahute.
+\end_layout
+
+\begin_layout Standard
+Les deux premiers jours (10
+\begin_inset space ~
+\end_inset
+
+et
+\begin_inset space ~
+\end_inset
+
+11
+\begin_inset space ~
+\end_inset
+
+septembre), les hauteurs du Lubéron nous imposent le piétinement ; les garces
+ ! Leurs chemins, dans la garrigue, sont étroits, caillouteux, poussiéreux,
+ abrupts et souvent dénués d'ombre.
+ Les descentes succèdent aux montées, sans arrêt.
+ Nous évoluons sur une suite de mamelons, aux branches griffantes et à la
+ vue peu ouverte.
+ Le second jour, c'est assoiffés et affamés (les dernières gouttes d'eau
+ ingurgitées provenaient d'un concombre) que nous arrivons à Lourmarin,
+ un joli village bourgeois de l'arrière-pays.
+ 
+\end_layout
+
+\begin_layout Standard
+Ce début de Lubéron, qui promettait pourtant d'être fort plaisant, nous
+ laisse un goût amer.
+ Nous décidons, alors, de rester en contrebas de ces montagnes, profitant
+ ainsi de charmants petits villages, vidés de touristes en cette saison.
+ Voilà ce que sera, désormais, notre pain quotidien luberonnais : des chemins
+ bordés de murets en pierre, des monts qui nous narguent, du raison bien
+ mûr, de grands champs d'oliviers, des dédales de ruelles.
+ Cette marche tranquille donne dans le simple et le poétique, et nous comble
+ de bonheur.
+ Nous n'avons pas cédé à l'orgueil des hauteurs.
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Le jeudi
+\begin_inset space ~
+\end_inset
+
+15, la ville de Manosque, sa large zone commerciale et ses routes bondées
+ de voitures marquent la fin de ce second massif.
+ Mais déjà, les montagnes visibles au loin (les Préalpes et le Verdon) nous
+ attirent inexorablement et excitent la rêverie des montagnards novices
+ que nous sommes.
+ La dernière ligne droite commence ; il ne faut pas faillir.
+ Le Verdon -- encensé par tant de nos rencontres de voyage -- nous attend
+ ! Les montées et les descentes recommencent, balaises et sportives.
+ Et la promesse renouvelée de paysages grandioses, telle une grosse carotte,
+ nous fait avancer comme deux ânes.
+\end_layout
+
+\begin_layout Standard
+Après deux jours passés en insolations et en essoufflements, entre poussière
+ et pierraille, petites villes touristiques et chasseurs, le plateau de
+ Valensole nous ouvre ses chemins, ses chênaies aux cœurs d'abeilles, ses
+ vergers de pommes sucrées, ses lavandins fraîchement coupés.
+ Pourtant, comme le soleil, le beau temps décline ; et un puissant orage
+ gronde au loin.
+\end_layout
+
+\begin_layout Standard
+Notre journée s'arrête au-dessus du lac de Sainte\SpecialChar \nobreakdash-
+Croix, au bord de quelques
+ ravins de terre ocre, alors qu'en haut, de nombreux éclairs claquent dans
+ un silence profond.
+ Nous nous éveillons tôt, au son des craquements voisins et d'une pluie
+ si battante qu'elle passe au travers de notre petite tente.
+ Tout proche, les pierres roulent sur les pentes abruptes.
+ Tout proche, le sol tremble à chaque flash lumineux dans les airs.
+ Pendant une heure, nous patientons avec calme, malgré quelques craintes,
+ sous cet orage impressionnant.
+ Puis il s'arrête ; et nous nous préparons, alors, au rythme des averses.
+\end_layout
+
+\begin_layout Standard
+C'est au rythme des averses, aussi, que nous marchons aujourd'hui -- dimanche
+ 18
+\begin_inset space ~
+\end_inset
+
+septembre -- nous engouffrant toujours plus dans ce qui est -- peut-être
+ -- l'un des plus beaux territoire français.
+ D'abord, une descente : à travers une forêt de pins ; les godillots collés
+ à une boue rouge ; les yeux rivés sur quelques troncs calcinés et explosés,
+ ou sur de jolies ravines.
+ Spectacle du ciel et de la terre.
+ Puis, un repos -- léger mais salutaire -- entouré des piaillements touristiques
+ de la jolie Moustiers\SpecialChar \nobreakdash-
+Sainte\SpecialChar \nobreakdash-
+Marie.
+ Enfin, une grimpe -- belle et sportive -- de la bourgade jusqu'aux hauteurs
+ de rocs et de pierres.
+ 
+\end_layout
+
+\begin_layout Standard
+Nous surplombons alors ce petit monde : l'immense lac, le vaste plateau
+ et des moyennes montagnes, partout.
+ Le Superbe est tout entier ici.
+ Il nous explose à la tête, au rythme de notre ascension, au rythme de nos
+ enjambées, au rythme des expirations de nos souffles courts.
+ Et, tout en haut, nos yeux grands ouverts l'embrassent à 360
+\begin_inset space ~
+\end_inset
+
+degrés.
+ Nous descendons, un peu sonnés.
+ Les jours raccourcissent et les températures dégringolent.
+ Ce soir-là -- dans une prairie crottée par les moutons, entourée par les
+ pins, ensemencée par les pierre, bucolique -- nous nous couchons tôt, calmes,
+ ravis et au frais.
+\end_layout
+
+\begin_layout Standard
+Le temps s'accélère.
+\end_layout
+
+\begin_layout Standard
+Le joyau du Verdon est enfin à nos pieds : ses gorges.
+ Mais le sentier 
+\begin_inset Quotes fld
+\end_inset
+
+Blanc\SpecialChar \nobreakdash-
+Martel
+\begin_inset Quotes frd
+\end_inset
+
+, qui les parcourt depuis tant d'années, est en cours de rénovation et de
+ sécurisation.
+ La frustration est la première sensation qui nous traverse ; puis nous
+ relativisons.
+ Sachons prendre autre chose que les joyaux.
+ Un minuscule désert d'herbe et de pierres, le plateau de Suech, donnerait
+ envie au plus anxieux des hommes de s'apaiser.
+ Des roches millénaires, où ruisselle de l'eau tout aussi vieille, bordent
+ nos chemins de méditation.
+ Puis -- le jeudi
+\begin_inset space ~
+\end_inset
+
+22 -- une oasis nous accueille, reposante et relaxante : Saint\SpecialChar \nobreakdash-
+Jean du Désert.
+\end_layout
+
+\begin_layout Standard
+Le temps s'arrête.
+\end_layout
+
+\begin_layout Standard
+Mais la course folle des aiguilles, elle, continue.
+ Nous reprenons la marche une matinée, une seule.
+ Nous n'irons pas plus loin, à pieds, que la ville d'Entreveaux.
+ Le chemin que nous voulions emprunter jusqu'à Nice n'était pas adapté à
+ notre marche.
+\end_layout
+
+\begin_layout Standard
+Mais le voyage va au-delà des kilomètres ; il est aussi et surtout dans
+ nos têtes.
+\end_layout
+
+\begin_layout Section*
+Les débuts d'un long voyage
+\end_layout
+
+\begin_layout Standard
+En descendant de la montagne, nous arrivons à Entreveaux, une vieille cité
+ fortifiée.
+ Durant trois beaux jours, du 23
+\begin_inset space ~
+\end_inset
+
+au
+\begin_inset space ~
+\end_inset
+
+26
+\begin_inset space ~
+\end_inset
+
+septembre, nous foulons ses pavés.
+ Pourquoi si longtemps ? Parce que le hasard des rencontres crée aisément
+ de mini bouleversements.
+\end_layout
+
+\begin_layout Standard
+Un grand parc ensoleillé, arboré, surmonté d'une citadelle : le décor est
+ planté pour une rencontre insolite.
+ Un vieux monsieur, Pierre, amoureux du voyage, curieux des gens, nous aborde
+ le plus naturellement du monde.
+ La conversation dure le temps d'un pique-nique au parc, puis d'un dîner
+ chez lui, où vivent également sa fille et sa petite-fille, deux vagabondes.
+ Après six mois de voyage, nous acceptons pour la première fois l'hébergement
+ spontané.
+\end_layout
+
+\begin_layout Standard
+Les échanges avec cette famille durent encore deux jours.
+ Deux jours de questionnements, de ressentis et d'envies partagés.
+ Ils confortent notre soif de découvrir le monde et nous encouragent à casser
+ nos peurs.
+ Deux jours, également, durant lesquels nous profitons des paysages -- grandiose
+s et apaisants -- offerts par cette belle cité bordant le Var.
+\end_layout
+
+\begin_layout Standard
+Sereins, le cœur léger, nous prenons un bus pour Nice.
+ Nous savons que ce voyage touche à sa fin ; et aussi que nous repartirons.
+ Nice, sa plage de galets, sa promenade des Anglais et sa place Masséna
+ nous accueillent le jour de mon anniversaire.
+ Nous flânons dans des rues inconnues, découvrons un parc sur les hauteurs,
+ y lisons agréablement à l'ombre de pins parasols et sommes absorbés par
+ la Méditerranée.
+\end_layout
+
+\begin_layout Standard
+Le bon Francis -- notre rencontre saumuroise devenue objectif de voyage
+ -- ne nous attend que le lendemain.
+ Nous décidons, cependant, de gagner son village posé sur les hauteurs,
+ pour y bivouaquer.
+ Mais la Côte d'Azur n'est pas la Creuse.
+ L'urbanisation y est très forte ; le moindre lopin de terre est un trésor.
+\end_layout
+
+\begin_layout Standard
+Après un tour de tramway et de bus, puis une marche à l'affût d'une terre
+ vierge, nous nous résignons à planter sur un terrain douteux, bossu et
+ pentu, entouré de roseaux et de maisons à la niçoise.
+ À seulement 50 mètres de l'ami Francis, nous installons notre dernier bivouac
+ ; c'est mon anniversaire ; Mathieu est d'une humeur exécrable ; le moment
+ restera dans nos mémoires !
+\end_layout
+
+\begin_layout Standard
+Le lendemain, Francis nous retrouve à quatre pas de chez lui, à la fois
+ sidéré, grognon et joyeux.
+ Durant quatre jours, il nous reçoit comme des princes.
+\end_layout
+
+\begin_layout Standard
+La dernière journée à Nice, en haut du parc aux pins parasols, nous observons
+ une dernière fois la Méditerranée.
+ Là, en scrutant le va-et-vient des ferries, nos corps et nos âmes se séparent.
+ Nos corps, eux, retournent en pays nantais par un long train de nuit, dans
+ l'incertitude du lendemain.
+ Nos âmes, elles, se plongent dans l'horizon bleu de la mer, vers le large
+ et les côtes africaines, rêvant à un nouveau long voyage...
+\end_layout
+
+\begin_layout Part
+Au-delà du voyage
+\end_layout
+
+\begin_layout Section*
+Je voyage dans les nuages
+\end_layout
+
+\begin_layout Verse
+Lorsque je suis au ras du sol,
+\begin_inset Newline newline
+\end_inset
+
+Au cœur d'une ville, d'un champ ou d'un marais,
+\begin_inset Newline newline
+\end_inset
+
+Sans horizon, au fond duquel mon esprit pourrait gambader,
+\begin_inset Newline newline
+\end_inset
+
+Je lève les yeux, qu'ils embrassent le ciel.
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Verse
+Alors, si quelques nuages voguent au dessus,
+\begin_inset Newline newline
+\end_inset
+
+Cotonneux ou ondulés, filandreux ou déchirés,
+\begin_inset Newline newline
+\end_inset
+
+Je lâche la bride de mon esprit, qu'il galope vers eux
+\begin_inset Newline newline
+\end_inset
+
+Et qu'il voyage où mes yeux ne peuvent aller.
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Verse
+Mâchant leur cul et leur bout de nez,
+\begin_inset Newline newline
+\end_inset
+
+Plongeant dedans et longeant leurs frontières,
+\begin_inset Newline newline
+\end_inset
+
+Gambadant de l'un à l'autre, puis passant au suivant,
+\begin_inset Newline newline
+\end_inset
+
+Mon esprit parcourt alors la Terre entière,
+\begin_inset Newline newline
+\end_inset
+
+Les montagnes et les océans,
+\begin_inset Newline newline
+\end_inset
+
+Sans que jamais mon corps n'ait à quitter son ici.
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Verse
+Lorsque mes yeux se lèvent de terre,
+\begin_inset Newline newline
+\end_inset
+
+Vers un ciel :
+\begin_inset Newline newline
+\end_inset
+
+Ni trop vide, où je me sentirais prisonnier,
+\begin_inset Newline newline
+\end_inset
+
+Ni trop plein, où je me sentirais perdu,
+\begin_inset Newline newline
+\end_inset
+
+Et qu'ils croisent les habitants,
+\begin_inset Newline newline
+\end_inset
+
+Blancs ou gris, du monde d'au dessus,
+\begin_inset Newline newline
+\end_inset
+
+Par jeu de miroir, celui du bas se dessine
+\begin_inset Newline newline
+\end_inset
+
+Pour exister au delà de mon horizon nu.
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Verse
+En somme, je voyage dans les nuages.
+\end_layout
+
+\begin_layout Section*
 Vagabondages hygiéniques
 \end_layout
 
@@ -5303,123 +5981,7 @@ aglagla
  L'eau froide, vous savez...
 \end_layout
 
-\begin_layout Part
-Non encore classés
-\end_layout
-
-\begin_layout Chapter*
-Je voyage dans les nuages
-\end_layout
-
-\begin_layout Verse
-Lorsque je suis au ras du sol,
-\begin_inset Newline newline
-\end_inset
-
-Au cœur d'une ville, d'un champ ou d'un marais,
-\begin_inset Newline newline
-\end_inset
-
-Sans horizon, au fond duquel mon esprit pourrait gambader,
-\begin_inset Newline newline
-\end_inset
-
-Je lève les yeux, qu'ils embrassent le ciel.
-\begin_inset VSpace medskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Verse
-Alors, si quelques nuages voguent au dessus,
-\begin_inset Newline newline
-\end_inset
-
-Cotonneux ou ondulés, filandreux ou déchirés,
-\begin_inset Newline newline
-\end_inset
-
-Je lâche la bride de mon esprit, qu'il galope vers eux
-\begin_inset Newline newline
-\end_inset
-
-Et qu'il voyage où mes yeux ne peuvent aller.
-\begin_inset VSpace medskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Verse
-Mâchant leur cul et leur bout de nez,
-\begin_inset Newline newline
-\end_inset
-
-Plongeant dedans et longeant leurs frontières,
-\begin_inset Newline newline
-\end_inset
-
-Gambadant de l'un à l'autre, puis passant au suivant,
-\begin_inset Newline newline
-\end_inset
-
-Mon esprit parcourt alors la Terre entière,
-\begin_inset Newline newline
-\end_inset
-
-Les montagnes et les océans,
-\begin_inset Newline newline
-\end_inset
-
-Sans que jamais mon corps n'ait à quitter son ici.
-\begin_inset VSpace medskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Verse
-Lorsque mes yeux se lèvent de terre,
-\begin_inset Newline newline
-\end_inset
-
-Vers un ciel :
-\begin_inset Newline newline
-\end_inset
-
-Ni trop vide, où je me sentirais prisonnier,
-\begin_inset Newline newline
-\end_inset
-
-Ni trop plein, où je me sentirais perdu,
-\begin_inset Newline newline
-\end_inset
-
-Et qu'ils croisent les habitants,
-\begin_inset Newline newline
-\end_inset
-
-Blancs ou gris, du monde d'au dessus,
-\begin_inset Newline newline
-\end_inset
-
-Par jeu de miroir, celui du bas se dessine
-\begin_inset Newline newline
-\end_inset
-
-Pour exister au delà de mon horizon nu.
-\begin_inset VSpace medskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Verse
-En somme, je voyage dans les nuages.
-\end_layout
-
-\begin_layout Chapter*
+\begin_layout Section*
 Gastronomie de grands chemins
 \end_layout
 
@@ -5845,11 +6407,595 @@ Et un gros dodo, le ventre plein, emmitouflés dans nos duvets d'amoureux.
 
 \end_layout
 
+\begin_layout Section*
+Ça s'randonne la France !
+\end_layout
+
+\begin_layout Standard
+Vous êtes chez vous, assis à un bureau, dans votre lit, votre salon...
+ peu importe ; vous êtes devant votre ordinateur.
+ Vous avez ouvert une page web de la carte de France.
+ Vous zoomer sur votre région, votre ville, puis votre rue.
+\end_layout
+
+\begin_layout Standard
+Vous apercevez alors un trait rose, tout proche, quittant la route principale
+ et passant au travers d'un bois, puis d'un champ.
+ Quel est donc ce trait ? Vous décidez de le suivre, sans réfléchir.
+ Vous faites glisser la carte vers la droite, vers le bas.
+ Ce trait n'est pas du tout rectiligne.
+ Il zigue et zague, passe dans la commune voisine et traverse la rivière
+ où vous vous baigniez enfant.
+ Enfin, au milieu d'une forêt, un indice : 
+\begin_inset Quotes fld
+\end_inset
+
+GR
+\begin_inset space \thinspace{}
+\end_inset
+
+36
+\begin_inset Quotes frd
+\end_inset
+
+.
+ De la grande randonnée ici ? Quelle surprise !
+\end_layout
+
+\begin_layout Standard
+Vos rêves enfouis d'aventure vous font poursuivre.
+ Jusqu'où pouvez-vous aller, en partant du pas de votre porte et en allant
+ à pieds ? Le chemin continue.
+ Il borde un fleuve, traverse des vignes, plonge dans des forêts et des
+ marais.
+ Dans votre imaginaire, des images affluent, des sons et odeurs s'éveillent.
+\end_layout
+
+\begin_layout Standard
+Dans un petit village, le trait rose se divise : une direction vers l'est,
+ une autre vers le sud.
+ Comment choisir ? 
+\begin_inset Quotes fld
+\end_inset
+
+Pif paf pouf
+\begin_inset Quotes frd
+\end_inset
+
+, un coup de hasard et en route vers le sud.
+ Un sentiment de liberté vous envahit intensément.
+ Que vous êtes heureux d'aller où bon vous semble ! Votre seule devoir est
+ de marcher.
+\end_layout
+
+\begin_layout Standard
+Vous dézoomez un peu, vous dézoomez encore.
+ Vous êtes déjà au centre de la France ! Mais pourquoi s'arrêter en si bon
+ chemin alors que le trait, lui, continue vers le sud.
+\end_layout
+
+\begin_layout Standard
+Localement, des GRP (Grandes Randonnées de Pays) et d'autres GR viennent
+ se superposer à votre sentier.
+ Vos possibilités se multiplient.
+ Parfois, vous traversez une grande ville.
+ Parfois encore, vous êtes seul sur plusieurs dizaines de kilomètres.
+ Une diversité immense de territoires défilent devant vous : moyennes montagnes,
+ larges plaines cultivées, zones urbaines, coteaux aux mille vignes, collines
+ aux cent rivières, grandes forêts, champs éclatants de tournesols, zones
+ d'étangs, de tourbières et de marais, etc.
+\end_layout
+
+\begin_layout Standard
+La France est belle ; d'avantage en marchant.
+ Vous découvrez enfin votre pays, sa population, sa diversité, son caractère,
+ son rythme, son histoire, son patrimoine.
+ Quelle chance de pouvoir la parcourir sans jamais quitter ses chemins terreux.
+ Rares, en effet, sont les fois où vous devez piétiner l'asphalte.
+\end_layout
+
+\begin_layout Standard
+Après des centaines de kilomètres, enfin, la mer.
+ Le voyage touche-t-il à sa fin ? Non.
+ Car un nouveau trait rose reprend le nord, et vous êtes trop heureux de
+ marcher.
+\end_layout
+
+\begin_layout Standard
+Les années ont passé.
+ Vous revenez dans votre rue ; rien n'y a changé.
+ Vous, vous avez changé.
+ Votre corps a vieilli, votre esprit s'est ouvert et assagit.
+ Le voyage se termine.
+ Vous avez parcouru la France entière ! Du Nord au Sud, d'Est en Ouest,
+ en diagonale, en y faisant le tour, en tous sens, car des milliers de possibili
+tés s'étaient offertes à vous.
+\end_layout
+
+\begin_layout Standard
+Ce fut le sentier des douaniers en Bretagne (GR
+\begin_inset space \thinspace{}
+\end_inset
+
+34 ; 1700
+\begin_inset space \thinspace{}
+\end_inset
+
+km), la descente de la Loire (GR
+\begin_inset space \thinspace{}
+\end_inset
+
+3 ; 1243
+\begin_inset space \thinspace{}
+\end_inset
+
+km), le sentier de l'Ardenne (GR
+\begin_inset space \thinspace{}
+\end_inset
+
+14 ; 660
+\begin_inset space \thinspace{}
+\end_inset
+
+km), la traversée de l'Auvergne (GR
+\begin_inset space \thinspace{}
+\end_inset
+
+30 ; 200
+\begin_inset space \thinspace{}
+\end_inset
+
+km), celle des Pyrénées (GR
+\begin_inset space \thinspace{}
+\end_inset
+
+10 ; 870
+\begin_inset space \thinspace{}
+\end_inset
+
+km)...
+\end_layout
+
+\begin_layout Section*
+Perdue en forêt
+\end_layout
+
+\begin_layout Subsection*
+Kim est perdue
+\end_layout
+
+\begin_layout Standard
+Kim tourne en rond plusieurs fois autour du même arbre.
+ Elle s’arrête.
+ Puis, considérant la forêt qui s’étend devant ses deux grands yeux ronds,
+ elle fronce les sourcils et dit : 
+\begin_inset Quotes fld
+\end_inset
+
+Je suis perdue
+\begin_inset Quotes frd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Et perdue, elle l’est bien ! Tout au milieu d’une large et longue forêt.
+ Mais Kim ne sombre dans aucune peur.
+ Elle est perdue et elle le sait.
+ Les deux premiers points sont réglés.
+ Il ne lui reste plus que le troisième : retrouver son chemin.
+\end_layout
+
+\begin_layout Subsection*
+Son papa
+\end_layout
+
+\begin_layout Standard
+Elle inspecte longuement le sol, puis s’agenouille sur un tapis d’aiguilles,
+ évitant soigneusement les pommes de pin.
+ Elle se penche et, collant son petit nez en trompette à même les aiguilles,
+ elle inspire doucement.
+ Ses yeux se ferment et un sourire s’éveille sur ses deux joues rouges.
+ Elle inspire encore.
+ Une odeur tendre et fruitée lui arrive au cœur de la gorge.
+ Cette odeur lui est familière.
+ Alors elle la murmure : 
+\begin_inset Quotes fld
+\end_inset
+
+Papa
+\begin_inset Quotes frd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Premier indice : au bout du chemin qu’elle doit retrouver, il devrait y
+ avoir son papa.
+ Il n’est pas gros, mais il est très grand.
+ Alors, Kim pense qu’elle le verra de très très loin.
+ Et elle s’en réjouit.
+\end_layout
+
+\begin_layout Subsection*
+Le siffleur des bois
+\end_layout
+
+\begin_layout Standard
+Sans plus attendre, elle se met sur ses deux gambettes, nettoie d’un revers
+ de main sa jolie robe-tablier et court, à une folle allure, dans la direction
+ que pointait son beau regard bleu.
+ Ses deux petites jambes s’ouvrent en de grandes foulées.
+ Kim court et transpire ; elle court et halète.
+\end_layout
+
+\begin_layout Standard
+Ses sandales raclent le tapis d’aiguilles de pin qui, par dizaines, viennent
+ piquer ses petits pieds à l’air.
+ 
+\begin_inset Quotes fld
+\end_inset
+
+Ouï Ouï
+\begin_inset Quotes frd
+\end_inset
+
+ ; elle court.
+ 
+\begin_inset Quotes fld
+\end_inset
+
+Ouï Ouï
+\begin_inset Quotes frd
+\end_inset
+
+ ; elle s’arrête, exténuée.
+\end_layout
+
+\begin_layout Standard
+Kim s’écroule à genoux, renifle, voudrait pleurer mais éternue à la place.
+ 
+\begin_inset Quotes fld
+\end_inset
+
+Tchioum Tchioum
+\begin_inset Quotes frd
+\end_inset
+
+ qu’elle fait, postillonnant de tous côtés.
+ 
+\begin_inset Quotes fld
+\end_inset
+
+Tchioum Tchioum
+\begin_inset Quotes frd
+\end_inset
+
+ encore ! 
+\begin_inset Quotes fld
+\end_inset
+
+Pîiik Pîiik...
+ Pîiik Pîiik...
+\begin_inset Quotes frd
+\end_inset
+
+ Au cœur de cette large et longue forêt de pins odorants, quelqu’un lui
+ répond.
+ 
+\begin_inset Quotes fld
+\end_inset
+
+Pîiik Pîiik
+\begin_inset Quotes frd
+\end_inset
+
+ encore !
+\end_layout
+
+\begin_layout Standard
+Deuxième indice : au bout du chemin, il devrait y avoir son papa qu’elle
+ verra de très très loin ; un chemin qu’un inconnu, siffleur des bois, semble
+ lui indiquer.
+ 
+\begin_inset Quotes fld
+\end_inset
+
+Pîiik Pîiik
+\begin_inset Quotes frd
+\end_inset
+
+, ça recommence.
+\end_layout
+
+\begin_layout Subsection*
+L’océan tout proche
+\end_layout
+
+\begin_layout Standard
+Ni une ni deux, Kim se relève, époussetant sa jolie robe-tablier d’un revers
+ de bras.
+ Maintenant, sans courir et avec les deux mains collées en forme de chips
+ derrière les oreilles, elle écoute attentivement les bruits alentours.
+ Et elle fait 
+\begin_inset Quotes fld
+\end_inset
+
+Tchioum Tchioum
+\begin_inset Quotes frd
+\end_inset
+
+ pour appeler, tandis que l’inconnu, siffleur des bois, lui répond 
+\begin_inset Quotes fld
+\end_inset
+
+Pîiik Pîiik
+\begin_inset Quotes frd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Ses deux oreilles rougissent de l’effort d’attention et ses tempes battent
+ la chamade.
+ Kim a maintenant fermé les yeux, pour mieux entendre les sons.
+ Elle écoute et attend.
+ Elle écoute et espère.
+ Ses sandales se lèvent l’une après l’autre avec délicatesse, puis retombent
+ en un petit crissement sur le tapis d’aiguilles et sur quelques pommes
+ de pin.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes fld
+\end_inset
+
+Pok
+\begin_inset Quotes frd
+\end_inset
+
+ ; voilà qu’elle se cogne.
+ 
+\begin_inset Quotes fld
+\end_inset
+
+Ouï
+\begin_inset Quotes frd
+\end_inset
+
+ ; elle rouvre les yeux avec fureur, retire précipitamment ses mains-chips
+ de ses oreilles, et gifle l’écorce de l’arbre sur lequel son front vient
+ de taper.
+ 
+\begin_inset Quotes fld
+\end_inset
+
+Ouï
+\begin_inset Quotes frd
+\end_inset
+
+ encore !
+\end_layout
+
+\begin_layout Standard
+Désormais calmée, Kim frotte de ses mains endolories, son front écorché.
+ Elle renifle, voudrait pleurer mais éternue à la place.
+ Entre la multitude des troncs d’arbre, un vent vif, frais et salé vient
+ chatouiller les oreilles et les joues chaudes de Kim, qui s’enrhume.
+\end_layout
+
+\begin_layout Standard
+Troisième indice : au bout du chemin, il devrait y avoir son papa qu’elle
+ verra de très très loin ; un chemin qu’un inconnu, siffleur des bois, semble
+ lui indiquer ; et le vent vif, frais et salé signale à Kim l’océan tout
+ proche.
+\end_layout
+
+\begin_layout Subsection*
+Au bout du chemin
+\end_layout
+
+\begin_layout Standard
+Kim réfléchit fort et à haute voix : 
+\begin_inset Quotes fld
+\end_inset
+
+Puisque l’océan est là, tout près.
+ Et comme mon papa n’est ni un poisson, ni un crustacé.
+ Alors, le chemin que m’indique le siffleur des bois est bientôt terminé !
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Heureuse à l’idée de sortir de cette forêt de pins odorants, de déboucher
+ sur l’océan et de voir, au bord de l’eau, son papa avec un siffleur des
+ bois sur la tête, Kim se remet en route, marchant lentement, le dos courbé
+ de fatigue.
+\end_layout
+
+\begin_layout Standard
+Elle avance ainsi longtemps, traînant des sandales.
+ Tout son corps est en éveil, écoutant le siffleur et ressentant, toujours
+ plus vif, le vent frais sur ses joues chaudes.
+\end_layout
+
+\begin_layout Subsection*
+Le grand pin et l’océan
+\end_layout
+
+\begin_layout Standard
+Kim arrive finalement sur une toute petite plage, au bord de l’océan, entourée
+ par la forêt.
+ Un peu avancé sur le sable se dresse un immense pin, plus grand que tous
+ les autres.
+\end_layout
+
+\begin_layout Standard
+Kim en fait le tour, une fois, puis deux, puis trois.
+ Elle se tourne, se retourne, lève la tête et observe.
+ Mais nulle part où porte son regard, ni vers la forêt ni vers l’océan,
+ elle n’aperçoit son papa.
+ Et l’inconnu, siffleur des bois, ne siffle plus.
+ Kim se retrouve encore seule.
+ Elle se retrouve encore perdue.
+\end_layout
+
+\begin_layout Standard
+Des larmes finissent alors par couler, le long de ses joues, jusqu’à ses
+ pieds.
+ Kim se blottit contre l’immense pin et son écorce rugueuse.
+ Elle pleure, elle pleure.
+\end_layout
+
+\begin_layout Subsection*
+Le siffleur fuyard
+\end_layout
+
+\begin_layout Standard
+Mais voilà que, 
+\begin_inset Quotes fld
+\end_inset
+
+pok, pok et pok
+\begin_inset Quotes frd
+\end_inset
+
+, trois pommes de pin tombent sur sa tête, la sortant de sa fatigue, lui
+ coupant toutes larmes et la laissant muette.
+ Kim, plus étonnée que furieuse, bondit loin en arrière et lève des yeux
+ tout ronds.
+\end_layout
+
+\begin_layout Standard
+Une chose, en haut, secoue les branches avec rage.
+ Cinq, dix, puis une multitude de pommes de pin tombent, se fichant dans
+ le sable.
+ La chose se met alors à siffler, siffler, siffler de plus en plus fort.
+ 
+\begin_inset Quotes fld
+\end_inset
+
+C’est lui le siffleur des bois !
+\begin_inset Quotes frd
+\end_inset
+
+ s’écrie Kim.
+\end_layout
+
+\begin_layout Standard
+Elle balaye son regard, à travers les pics de pin, cherchant à le voir.
+ Mais tout, en haut, voltige.
+ Les sifflements sont de plus en plus aigus.
+ Les branches bougent de plus en plus rageusement.
+ Et de manière ininterrompue, les pommes de pin tombent, maintenant.
+\end_layout
+
+\begin_layout Standard
+Encore quelques secondes puis, dans un grand mouvement, le siffleur disparaît
+ en direction de l’océan.
+ Kim le chasse des yeux, le poursuit du regard.
+ Au loin, toujours plus au loin.
+ Jusqu’à se perdre dans les flots vifs du soleil couchant.
+\end_layout
+
+\begin_layout Subsection*
+Un nouvel inconnu
+\end_layout
+
+\begin_layout Standard
+Elle ne l’a presque pas vu ce maudit inconnu, qui l’a laissé loin du cœur
+ de sa forêt, face à un grand océan.
+ Kim bouillonne et enrage : 
+\begin_inset Quotes fld
+\end_inset
+
+À quoi peut-il servir ce fichu siffleur des bois, lui qui m’a perdue, lui
+ qui s’est joué de moi ?
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Mais pendant qu’elle trépigne, qu’elle bafouille en pleurant, une petite
+ plume bleue virevolte, portée par le vent.
+ Cette petite plume gambade, court dans les airs, puis retombe sur le nez
+ en trompette de Kim, lui chatouillant les joues et les paupières.
+ Alors, 
+\begin_inset Quotes fld
+\end_inset
+
+Tchioum Tchioum
+\begin_inset Quotes frd
+\end_inset
+
+, Kim éternue une dernière fois, expulsant la plume à ses pieds.
+\end_layout
+
+\begin_layout Standard
+Tandis qu’elle se baisse pour la ramasser, un sifflement appelle à l’orée
+ de la forêt : 
+\begin_inset Quotes fld
+\end_inset
+
+Kim Pîiik ? Pîiik Kim ?
+\begin_inset Quotes frd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ça ne peut être le siffleur des bois ! Il a détalé au large, comme un fuyard
+ apeuré.
+\end_layout
+
+\begin_layout Subsection*
+Les retrouvailles
+\end_layout
+
+\begin_layout Standard
+Pour surprendre ce nouvel inconnu, Kim passe la tête entre ses deux petites
+ jambes, en direction du sifflement.
+ Et là, stupéfaite par ce qu’elle voit à l’envers, Kim tombe étourdie dans
+ une superbe galipette avant.
+\end_layout
+
+\begin_layout Standard
+À la lisière des pins, se tient ce qu’elle cherche depuis si longtemps,
+ depuis le cœur de la forêt.
+ Son papa !
+\end_layout
+
+\begin_layout Standard
+Sans gamberger, Kim se relève, fait trois tours sur elle-même, puis s’élance
+ vers lui les bras grands ouverts.
+ Au bout de sa course, elle enlace avec force les jambes de ce papa, qui
+ se baisse, la soulève et la fait tournoyer.
+ La robe-tablier de Kim virevolte et de petites larmes coulent le long de
+ ses joues rougies.
+\end_layout
+
+\begin_layout Standard
+Après mille câlins, ils s’en vont, main dans la main.
+ Kim suit son papa, sans voir où elle va.
+ Elle parle et elle parle, racontant chaque détail de sa folle aventure.
+ Lui la regarde tendrement et sourit, se disant que sa petite Kim a bien
+ grandit.
+\end_layout
+
 \begin_layout Part
 Annexes
 \end_layout
 
-\begin_layout Chapter*
+\begin_layout Section*
 Carnet de route
 \end_layout
 
