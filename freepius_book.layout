@@ -7,6 +7,21 @@ Input book.layout
 Input cul-de-lampe.inc
 
 Preamble
+
     \usepackage{pdflscape}
     \usepackage{titlesec}
+
+
+    %%% Styling of \part %%%
+
+    % No page number
+    \assignpagestyle{\part}{empty}
+
+    % Need "titlesec" package
+    \titleformat{\part}[display]
+        {}
+        {\filcenter\partname}
+        {1ex}
+        {\titlerule\vspace{1ex}\filcenter\Huge\bfseries}
+
 EndPreamble

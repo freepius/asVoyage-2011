@@ -4,21 +4,19 @@
 \begin_header
 \textclass freepius_book
 \begin_preamble
-%% titlesec package :
-
-% each section on a new page
+% Each section on a new page
 \newcommand{\sectionbreak}{\clearpage}
 
-% \part style
-\titleformat{\part}
-  [display]
-  {\newgeometry{margin=1.4cm}\pagestyle{empty}}
-  {\filcenter\partname}
-  {1ex}
-  {\titlerule\vspace{1ex}\filcenter\Huge\bfseries}
-  [\restoregeometry]
-
-\titlespacing*{\part}{0pt}{0pt}{0pt}
+% Styling of \part
+\let\Oldpart\part
+\renewcommand{\part}[1]
+{
+    {
+        \newgeometry{margin=1.4cm}
+        \Oldpart{#1}
+    }
+    \restoregeometry
+}
 \end_preamble
 \use_default_options true
 \maintain_unincluded_children false
