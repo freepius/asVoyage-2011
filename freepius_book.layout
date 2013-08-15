@@ -11,6 +11,8 @@ Preamble
     \usepackage{pdflscape}
     \usepackage{titlesec}
 
+    % For a better hyphenation
+    \usepackage[kerning=french, protrusion=true, expansion=auto, spacing, tracking]{microtype}
 
     %%% Styling of \part %%%
 

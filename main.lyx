@@ -141,9 +141,14 @@ semitas.net
 \emph default
  et peu retouchés par la suite.
  Ils sont dispatchés en trois parties.
+\begin_inset VSpace medskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
+\noindent
 La première c'est 
 \begin_inset Quotes fld
 \end_inset
@@ -165,6 +170,7 @@ kilomètres.
 \end_layout
 
 \begin_layout Standard
+\noindent
 La seconde c'est 
 \begin_inset Quotes fld
 \end_inset
@@ -186,6 +192,7 @@ kilomètres.
 \end_layout
 
 \begin_layout Standard
+\noindent
 La troisième et dernière c'est 
 \begin_inset Quotes fld
 \end_inset
@@ -195,9 +202,31 @@ Au-delà du voyage
 \end_inset
 
 , c'est le bilan, l'intemporelle, l'après et l'ailleurs.
+\begin_inset VSpace bigskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
+Vous y trouverez également : en milieu d'ouvrage, un cahier de photos ;
+ en annexe, le carnet de route de notre 
+\begin_inset Quotes fld
+\end_inset
+
+descente de Loire
+\begin_inset Quotes frd
+\end_inset
+
+.
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
 Nous n'en disons pas plus et vous souhaitons bonne lecture.
 \end_layout
 
@@ -240,32 +269,16 @@ km
 \shape smallcaps
 \emph default
 
-\begin_inset VSpace smallskip
+\begin_inset VSpace bigskip
 \end_inset
 
 
 \end_layout
 
 \begin_layout Standard
-\noindent
-\align center
-
-\shape italic
 Sur le pas d'une porte, une maman qui pleure dans vos bras.
-\begin_inset Newline newline
-\end_inset
-
-Et sur le quai d'une gare, une maman qui vous embrasse tout son soûl.
-\begin_inset Newline newline
-\end_inset
-
-Voilà comment débute un long voyage.
-\shape smallcaps
-
-\begin_inset VSpace smallskip
-\end_inset
-
-
+ Et sur le quai d'une gare, une maman qui vous embrasse tout son soûl.
+ Voilà comment débute un long voyage.
 \end_layout
 
 \begin_layout Standard
@@ -666,10 +679,8 @@ avril
 
 \shape default
 Premiers coups de pagaies ; premières sensations.
- Et second départ qui devrait nous mener de Retournac à Lavau\SpecialChar \nobreakdash-
-sur\SpecialChar \nobreakdash-
-Loire, petite
- ville de l'estuaire ligérien.
+ Et second départ qui devrait nous mener de Retournac à Lavau-sur-Loire,
+ petite ville de l'estuaire ligérien.
  Nous kayakerons pour 900
 \begin_inset space ~
 \end_inset
@@ -735,7 +746,8 @@ Amazon II Expedition
 \begin_inset Quotes frd
 \end_inset
 
- du constructeur Wayland).
+ du con\SpecialChar \-
+structeur Wayland).
  
 \begin_inset Quotes fld
 \end_inset
@@ -756,7 +768,7 @@ On peut lui adjoindre une voile ; et même un (petit) moteur.
 \end_inset
 
 , assez plate, dans laquelle on se tient à fleur d'eau et que l'on manie
- -- généralement -- à la pagaie double
+ généralement à la pagaie double
 \begin_inset Foot
 status collapsed
 
@@ -880,8 +892,8 @@ Loire -- notre pied !
 \end_layout
 
 \begin_layout Standard
-Les jours suivants continuèrent largement notre formation -- d'aventuriers
- -- et balayèrent amplement deux croyances : une populaire et une personnelle.
+Les jours suivants continuèrent largement notre formation d'aventuriers
+ et balayèrent amplement deux croyances : une populaire et une personnelle.
 \end_layout
 
 \begin_layout Standard
@@ -1180,11 +1192,7 @@ mai
 \end_inset
 
 Réveil un peu frais, mais pas trop.
- Effectivement, il est 9
-\begin_inset space ~
-\end_inset
-
-heures.
+ Effectivement, il est neuf heures.
  L'astre jaune ne nous a pas attendus pour se lever, réchauffant les cœurs
  et le paysage.
  Cela fait 33
@@ -1375,10 +1383,9 @@ Nous filons, désormais, à coups de pagaies lents et puissants, au travers
  aller à la poésie...
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 
 \shape italic
-\size small
 Trois fois 
 \begin_inset Quotes fld
 \end_inset
@@ -1391,13 +1398,15 @@ glou
  mont Gerbier\SpecialChar \nobreakdash-
 de\SpecialChar \nobreakdash-
 Jonc, banal tas de cailloux.
- En Ardèche, les montagnes suintent et les rivières naissent.
+\begin_inset Newline newline
+\end_inset
+
+En Ardèche, les montagnes suintent et les rivières naissent.
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 
 \shape italic
-\size small
 La voilà qu'elle cavale, entre les rochers et à travers champs, vite rejointe
  par son premier affluent, l'Aigue\SpecialChar \nobreakdash-
 Nègre.
@@ -1407,10 +1416,9 @@ Nègre.
  Joli ballet.
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 
 \shape italic
-\size small
 Dévale, dévale, Loire...
  Passe le Puy\SpecialChar \nobreakdash-
 en\SpecialChar \nobreakdash-
@@ -1420,10 +1428,9 @@ Velay, prends tes chemins et descends les contreforts de
  Passe Roanne et nourris son fade canal.
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 
 \shape italic
-\size small
 Enfin, repose toi, Loire, sur ces immensités de sable et de cailloux fins.
  Et va à la rêverie, chatouillée par mille oiseaux.
  
@@ -1431,10 +1438,10 @@ Enfin, repose toi, Loire, sur ces immensités de sable et de cailloux fins.
 
 \begin_layout Standard
 Tous les contrastes de la Loire se trouvent là, en fin de compte : des hauteurs
- aux plaines ; des gorges aux champs de sable ; du bouillonnement à la sérénité
- ; de la rivière au fleuve.
+ aux plaines, des gorges aux champs de sable, du bouillonnement à la sérénité,
+ de la rivière au fleuve.
  Avec quelques constantes cependant : le héron cendré, le canard colvert
- et une anthropisation débordante, écœurante.
+ et une anthropisation débordante.
 \end_layout
 
 \begin_layout Standard
@@ -1520,15 +1527,7 @@ ent ! Nous voilà, maintenant, sur une partie aisément navigable, à l'exceptio
 
 \begin_layout Standard
 Je regarde, sur la carte, le trait du chemin parcouru et deux sentiments
- s'affrontent en moi (qui a dit 
-\begin_inset Quotes fld
-\end_inset
-
-schizophrène
-\begin_inset Quotes frd
-\end_inset
-
- ?).
+ s'affrontent en moi.
  Le premier est la volonté d'avancer : pour voir ce trait grandir encore
  ; découvrir ces villes au nom familier, puisque longuement étudiées pendant
  la préparation ; enfin, arriver dans notre région et nous dire 
@@ -1614,14 +1613,14 @@ Hier, nous fûmes, de nouveau, face à l'un de ces vieux ponts.
  avions lues à son sujet.
  Le parcourant de long en large, nous y cherchâmes une issue : la moins
  crispante pour nous, la moins douloureuse pour notre embarcation.
- Nous avions convenu -- tout de même -- que, en toute sérénité, nous ferions
- un portage à cet endroit, à ce Wilson trop dangereux pour notre coque de
- bois.
+ Nous avions convenu -- tout de même -- qu'en toute sérénité nous ferions
+ un portage à cet endroit, à ce Wilson, trop dangereux pour notre coque
+ de bois.
  Mais moi, mué par un vilain orgueil, j'imaginai tout de même la passer,
  cette terreur.
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 \begin_inset Quotes fld
 \end_inset
 
@@ -1629,11 +1628,11 @@ Marie, dis-je, là-bas sous la quatrième arche, il y a des gros blocs, des
  gros remous, ça a l'air dur et sportif, mais ça passe ! Non ?
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 --- Non, qu'elle trancha.
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 --- Hum.
  D'accord.
 \begin_inset Quotes frd
@@ -1767,8 +1766,8 @@ Le tête-à-tête dura dix secondes, un peu plus, un peu moins.
  faibles coups de rames, nous retournant sans cesse, priant pour revoir
  cette merveille.
  Puis nous repartîmes, lentement.
- Mais alors, à vingt ou cinquante mètres devant nous, la demi-tête émergea
- quelques secondes, comme un adieu.
+ Mais alors, à cinquante mètres devant nous, la demi-tête émergea quelques
+ secondes, comme un adieu.
  Et hop, la voilà repartie, plongeant dans les étincelles du soleil couchant.
 \end_layout
 
@@ -2360,17 +2359,9 @@ En voilà une religion qui nous convient : barouder léger ; en ayant une
 \end_layout
 
 \begin_layout Standard
-Après moult prises de tête et 
-\begin_inset Quotes fld
-\end_inset
-
-triturages
-\begin_inset Quotes frd
-\end_inset
-
- d'esprit, coups de ciseaux et délestages tous azimuts, et grâce à l'aide
- précieuse de notre couturière-équipementière (Monique, ma bonne mère) et
- d'une balance de cuisine, nous voici fin prêts au départ.
+Après moult prises de tête, coups de ciseaux et délestages tous azimuts,
+ et grâce à l'aide précieuse de notre couturière équipementière (Monique
+ ma bonne mère) et d'une balance de cuisine, nous voici fin prêts au départ.
  Marie et sa protubérance dorsale perdent, dans la bataille, 6
 \begin_inset space ~
 \end_inset
@@ -2407,10 +2398,8 @@ Un mois déjà.
 \end_layout
 
 \begin_layout Standard
-De Pontchâteau en Loire\SpecialChar \nobreakdash-
-Atlantique à Mézières\SpecialChar \nobreakdash-
-en\SpecialChar \nobreakdash-
-Brenne en Indre, ces godillots
+De Pontchâteau en Loire-Atlantique à Mézières-en-Bren\SpecialChar \-
+ne en Indre, ces godillots
  ont tapé la poussière et l'asphalte de 550
 \begin_inset space ~
 \end_inset
@@ -2479,18 +2468,18 @@ Nature
 
 \begin_layout Standard
 Ainsi, nous avons pu : admirer les hérons cendrés, pourprés et garde-bœufs
- en marais et en étangs ; bougonner contre les élevages intensifs de poulets,
- de pommes et d'humains (dans leurs lotissements maussades) ; accompagner
- -- à contre courant -- la Loire et nombre de ses veines, nous y plongeant
- parfois ; nous étonner du nombre de demeures bourgeoises angevines, admirant
- quelques unes majestueuses ; et subir les caprices d'une météo ci-douce,
- là-lourde, ci-pluvieuse et là-torride.
+ en étangs et marais ; bougonner contre les élevages intensifs de poulets,
+ de pommes et d'humains (dans leurs lotissements maussades) ; accompagner,
+ à contre courant, la Loire et nombre de ses veines, nous y plongeant parfois
+ ; nous étonner du nombre de demeures bourgeoises angevines, admirant quelques
+ unes majestueuses ; et subir les caprices d'une météo ci-douce, là-lourde,
+ ci-pluvieuse et là-torride.
  Nous avons pu aussi : découvrir un petit pays gris d'ardoise et une vaste
  contrée blanche de tuffeau ; envier la fraîcheur d'extravagantes caves
  et maisons troglodytes ; et nous émouvoir des regards de quelques biches,
  cerfs, chevreuils, sangliers et blaireaux.
- Enfin, nous avons entendu l'éveil d'un été aux grondements des moissonneuses-ba
-tteuses, coupant les blés à la faveur des fins de jours ; et avons calmé
+ Enfin, nous avons entendu l'éveil d'un été aux grondements des moissonneuses
+ batteuses, coupant les blés à la faveur des fins de jours ; et avons calmé
  ses premières chaleurs à l'ombre de grandes forêts exploitées.
  Nous avons contemplé autant de couchers de soleil qu'il y eu de jours,
  quelques aurores aussi et quelques nuits étoilées.
@@ -2821,14 +2810,14 @@ Le concombre nous maudit
 \end_layout
 
 \begin_layout Standard
-\paragraph_spacing single
+\noindent
 
 \size small
 Rappel des faits.
 \end_layout
 
 \begin_layout Standard
-\paragraph_spacing single
+\noindent
 
 \size small
 Souvenez-vous : en mai\SpecialChar \nobreakdash-
@@ -2860,7 +2849,7 @@ crise du concombre
 \end_layout
 
 \begin_layout Standard
-\paragraph_spacing single
+\noindent
 
 \size small
 Dès son début, une véritable hystérie culinaire -- envers les légumes crus
@@ -2872,7 +2861,7 @@ Dès son début, une véritable hystérie culinaire -- envers les légumes crus
 \shape smallcaps
 \size default
 
-\begin_inset VSpace smallskip
+\begin_inset VSpace bigskip
 \end_inset
 
 
@@ -2883,9 +2872,13 @@ Le concombre nous maudit ! Que dis-je ? Ce sont les concombres, par tonnes,
  qui nous maudissent.
  Nous autres, couillons d'hommes, qui nous gavons des produits (souvent
  dégueulasses) de supermarchés et qui sommes promptes, tout d'un coup, à
- en dédaigner certains ! Comme le concombre -- qu'il soit d'Espagne, de
- France et même du producteur du coin -- parce que le couillon d'homme aura
- pris le JT pour une messe, et aura confondu 
+ en dédaigner certains !
+\end_layout
+
+\begin_layout Standard
+Comme le concombre -- qu'il soit d'Espagne, de France et même du producteur
+ du coin -- parce que le couillon d'homme aura pris le JT pour une messe,
+ et aura confondu 
 \begin_inset Quotes fld
 \end_inset
 
@@ -2903,18 +2896,17 @@ oracle
 
 .
  Nous avons abandonné un légume -- produit simple et non transformé -- alors
- que la plupart d'entre nous malbouffons des mets hyper transformés, gras,
+ que la plupart d'entre nous malbouffons des mets hypertransformés, gras,
  saturés en sel...
  faisant confiance à l'industrie agroalimentaire, où se créent et se conditionne
 nt de vastes supercheries.
 \end_layout
 
 \begin_layout Standard
-Au détour d'un chemin terreux, au sud de la Loire\SpecialChar \nobreakdash-
-Atlantique, nous sommes
+Au sud de la Loire-Atlantique, au détour d'un chemin terreux, nous sommes
  tombés sur un charnier de concombres.
- Des centaines et des centaines écrasés, fracassés par leurs propres pères
- producteurs, parce qu'une peur hystérique s'était emparée des consommateurs.
+ Des centaines et des centaines, écrasés par leurs propres pères producteurs,
+ parce qu'une peur hystérique s'était emparée des consommateurs.
  Ont-ils eu l'effroi, tout d'un coup, de mourir d'un concombre ? Qu'ils
  se rassurent ; ils s'empoisonnent bien assez, chaque jour ! Nous qui en
  mangions très peu, nous en avons ramassé deux, encore vivants.
@@ -3020,7 +3012,7 @@ h
 \end_inset
 
 30 -- nous nous arrêtâmes sur le sol dur d'un champ de blé, fraîchement
- coupé et emballé, à cinq kilomètres environ d'Azay\SpecialChar \nobreakdash-
+ coupé et emballé, aux environs d'Azay\SpecialChar \nobreakdash-
 le\SpecialChar \nobreakdash-
 Rideau.
  Comme voisins de pension campagnarde, nous avions, ce soir là, un couple
@@ -3135,8 +3127,8 @@ h
 \end_inset
 
 30, le ciel était bleu, ouest-nord-ouest.
- Et, est-nord-est, une grande nappe de nuages -- grise et orangée -- filait,
- nous montrant son cul avec dédain.
+ Et, est-nord-est, une grande nappe de nuages grise et orangée filait, nous
+ montrant son cul avec dédain.
  L'orage était passé, restant au nord du fleuve et de toute la zone de rivières.
  Il nous avait posé un lapin.
  Et la légende dit que même les lièvres ne s'en sont pas remis.
@@ -3179,9 +3171,12 @@ Depuis un mois, nous parcourons la campagne française et sa mosaïque de
  ; massifs forestiers et leurs lisières.
  Cette campagne est le lieu de vie de nombreuses espèces sauvages, qui ne
  se laissent pas facilement observées, même de loin.
- Nos sites de bivouac, bien souvent à l'écart de l'homme (par exemple, des
- champs proches de bosquets ou sous-bois), sont des postes avancés pour
- l'observation de ces 
+\end_layout
+
+\begin_layout Standard
+Nos sites de bivouac, souvent à l'écart de l'homme (par exemple, des champs
+ proches de bosquets ou sous-bois), sont des postes avancés pour l'observation
+ de ces 
 \begin_inset Quotes fld
 \end_inset
 
@@ -3329,10 +3324,10 @@ Ultreïa
 \emph default
 
 \begin_inset Foot
-status collapsed
+status open
 
 \begin_layout Plain Layout
-Salut de ralliement des pèlerins de Saint-Jacques-de-Compostelle.
+Salut de ralliement des pèlerins de Compostelle.
 \end_layout
 
 \end_inset
@@ -3422,8 +3417,7 @@ Je crois que mon tableau est clair : ce petit homme nous a fait rire et
 
 \begin_layout Standard
 Sur les routes de Creuse, la morosité gangrenait nos cœurs et quelques coquilles
- nous cassaient les noix de Saint\SpecialChar \nobreakdash-
-Jacques.
+ nous cassaient les noix de Saint-Jacques.
  D'un côté, il y avait ce foutu jugement : que ces chemins là n'étaient
  pas pour nous.
  De l'autre, il y avait notre programme, préparé longuement et consciencieusemen
@@ -3565,16 +3559,8 @@ demat
 
 \begin_layout Standard
 Le rythme de nos pas nous a fait découvrir ce parc deux fois.
- La première, d'une façon touristique 
-\begin_inset Quotes fld
-\end_inset
-
-classique
-\begin_inset Quotes frd
-\end_inset
-
-, puisque nous avons couché trois nuits en chambre d'hôte et que nous nous
- déplacions en voiture.
+ La première, comme des touristes classiques, puisque nous avons couché
+ trois nuits en chambre d'hôte et que nous nous déplacions en voiture.
  Pourquoi ? Parce que nos mamans nous ont rejoints pour trois jours de vacances.
  Nous n'allions pas les obliger à bivouaquer et à 
 \begin_inset Quotes fld
@@ -3744,9 +3730,9 @@ juillet
 
 \begin_layout Standard
 Voyez la luminosité globale du cliché : elle est blafarde, presque fantomatique.
- C'est qu'en ce jour -- le premier de notre cinquième département -- le
- ciel est chargé d'une couche nuageuse épaisse : un brouillard froid qui
- crache ses fines gouttes depuis le matin.
+ C'est qu'en ce jour, le premier de notre cinquième département, le ciel
+ est chargé d'une couche nuageuse épaisse : un brouillard froid qui crache
+ ses fines gouttes depuis le matin.
 \end_layout
 
 \begin_layout Standard
@@ -3875,10 +3861,10 @@ Il y a 50
 \begin_inset space ~
 \end_inset
 
-ans encore -- même si les activités agricoles diminuaient et que les forêts
- autochtones regagnaient quelque peu leurs territoires ancestraux -- ces
- espaces vallonnés étaient largement ouverts, suffisamment entretenus par
- l'homme (cultures, pâtures, extraction de tourbe...).
+ans encore (même si les activités agricoles diminuaient et que les forêts
+ autochtones regagnaient quelque peu leurs territoires ancestraux) ces espaces
+ vallonnés étaient largement ouverts, suffisamment entretenus par l'homme
+ (cultures, pâtures, extraction de tourbe...).
  Il y a 50
 \begin_inset space ~
 \end_inset
@@ -3903,7 +3889,7 @@ Au dessus des blancs moutons, sur le flanc de la colline voisine, un groupe
 \begin_layout Standard
 Quand à cette lande, dites-vous bien que c'est un sanctuaire, une pièce
  à ciel ouvert du musée de la vieille Creuse, que quelques protecteurs continuen
-t de dépoussiérer (le PNR de Millevaches l'entretient, avec nos contributions
+t de dépoussiérer (le PNR de Millevaches l'entretient, aidé de nos contributions
  citoyennes).
  Mais son destin sera celui, probable, de la Creuse : elle mourra ! Peut-être,
  pourtant, qu'un dynamisme positif pourrait s'épanouir de nouveau ici.
@@ -4016,10 +4002,10 @@ protégé
 \end_layout
 
 \begin_layout Standard
-Si, pour vos vacances, vous auriez voulu déambuler -- sans préparation,
- ni carte, ni guide touristique -- dans quelques beaux espaces, à vous et
- à tous à la fois, mieux vaut vous abstenir, emprunter quelques films et
- livres à la médiathèque, et rester à l'aise dans votre cocon douillet.
+Si, pour vos vacances, vous auriez voulu déambuler (sans préparation, ni
+ carte, ni guide touristique) dans quelques beaux espaces, à vous et à tous
+ à la fois, mieux vaut vous abstenir, emprunter quelques films et livres
+ à la médiathèque, et rester à l'aise dans votre cocon douillet.
  Car, de ces beaux espaces, vous ne verrez que leurs panneaux rouges d'interdict
 ion, leurs grillages et leurs barbelés.
  Et vous finirez, probablement, par vous garer sur les bords d'une route
@@ -4076,7 +4062,8 @@ mbox{Propriété privée}
 
 \begin_layout Standard
 Sur ces mêmes bords de Creuse, en vis-à-vis de ces pentes unanimement privées,
- un nombre significatif de barques sont à pourrir.
+ un nombre significatif de bar\SpecialChar \-
+ques sont à pourrir.
  Ces mortes embarcations -- oubliées par leur maître depuis des années sûrement
  -- affichent fièrement le signe de leur allégeance : une chaîne solide
  et imputrescible, cadenassée fermement ! L'objet du loisir, lui, a fini
@@ -4318,8 +4305,9 @@ Jean la plante
 \end_layout
 
 \begin_layout Standard
-Puis, nous avons quitté les hauteurs, rejoignant pour quelques temps un
- autre monde : celui de Super-Besse, de ses immeubles et de ses téléskis.
+Puis nous avons quitté les hauteurs, rejoignant pour quel\SpecialChar \-
+ques temps un autre
+ monde : celui de Super-Besse, de ses immeubles et de ses téléskis.
  Quels contrastes !
 \end_layout
 
@@ -4396,11 +4384,7 @@ Les chamois
 \end_layout
 
 \begin_layout Standard
-Aujourd'hui, nous avons gazé ! 7
-\begin_inset space ~
-\end_inset
-
-heures de marche, 1200
+Aujourd'hui, nous avons gazé ! Sept heures de marche, 1200
 \begin_inset space ~
 \end_inset
 
@@ -4533,11 +4517,8 @@ kilo) et autres victuailles, mais aussi de prendre une bonne bière et de
 
 \begin_layout Standard
 C'est donc bien chargés, dans les sacs et dans les têtes, que nous nous
- sommes lancés dans une ascension de 250
-\begin_inset space ~
-\end_inset
-
-mètres de dénivelé, en pleine forêt de résineux.
+ sommes lancés dans une ascension de 250 mètres de dénivelé, en pleine forêt
+ de résineux.
  Mathieu, fonçant telle une gazelle devant moi et tenant un paquet de pain
  de mie en main gauche, motivait ses troupes.
  Moi, je suivais, le souffle court, ne voyant que mes pieds avec ma tête
@@ -6054,10 +6035,8 @@ Se laver est une préoccupation majeure de l'homme occidental moderne.
  Davantage même ! Il semble obnubilé par l'hygiène à toutes les sauces.
  Convenons qu'un minimum est nécessaire.
  Mais qui pourrait me dire quel est ce minimum ? Chacun doit avoir sa limite.
-\end_layout
-
-\begin_layout Standard
-Durant nos deux périples, nous avons dû revoir à la baisse nos propres limites.
+ Durant nos deux périples, nous avons dû revoir à la baisse nos propres
+ limites.
  Pour tout vous dire, cela ne nous a pas traumatisé ; nous devions avoir
  quelques prédispositions à la crasse...
 \end_layout
@@ -6176,60 +6155,16 @@ précarité hygiénique
 \end_layout
 
 \begin_layout Standard
-Il y eut quelques grandes rivières sillonnant le territoire
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-Essentiellement durant la 1
-\begin_inset script superscript
-
-\begin_layout Plain Layout
-ère
-\end_layout
-
-\end_inset
-
- moitié : de Loire\SpecialChar \nobreakdash-
-Atlantique jusqu'en Creuse.
-\end_layout
-
-\end_inset
-
- : la Loire, la Vienne, l'Indre, la Creuse et le Tarn.
+Il y eut quelques grandes rivières sillonnant le territoire : la Loire,
+ la Vienne, l'Indre, la Creuse et le Tarn.
  Au gré de leurs lits longs, larges et profonds, nous pouvions y nager et
  y délier nos corps, tandis que leurs flots et leurs vaguelettes nous faisaient
  rêvasser.
-\end_layout
-
-\begin_layout Standard
-Nous ont également accueillis : des ruisseaux sans nom et quelques sources
- jaillissant de terre
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-Principalement durant la 2
-\begin_inset script superscript
-
-\begin_layout Plain Layout
-e
-\end_layout
-
-\end_inset
-
- moitié : de Creuse à Nice.
-\end_layout
-
-\end_inset
-
-.
+ Nous ont également accueillis : des ruisseaux sans nom et quelques sources
+ jaillissant de terre.
  Souvent éloignés de toute présence humaine, c'est sans complexe que --
  nus comme des vers -- nous y avons fait nos plus grosses toilettes.
-\end_layout
-
-\begin_layout Standard
-Il y eut aussi -- surtout pour le bien-être du corps -- un grand lac (celui
+ Il y eut aussi -- surtout pour le bien-être du corps -- un grand lac (celui
  de Vassivière) et une jolie mer (la Méditerranée).
 \end_layout
 
@@ -6246,28 +6181,10 @@ passés à la douche
  Accueillis chez des amis, des douches chaudes et formelles nous ont été
  offertes.
  Rien de bien palpitant, cependant, à voir sortir l'eau d'un robinet.
-\end_layout
-
-\begin_layout Standard
-Mais n'oublions pas les fois où la toilette fut sommaire
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-Ces fois là se sont généralisées dans le Sud, qui avait moins de rivières,
- de ruisseaux, de lacs...
- à nous offrir.
-\end_layout
-
-\end_inset
-
-.
+ Mais n'oublions pas les fois où la toilette fut sommaire.
  Grâce à notre outre d'eau de six litres, nous pouvions laver nos goules,
  nos pieds et nos dents bien plus régulièrement.
-\end_layout
-
-\begin_layout Standard
-Un fait 
+ Un fait 
 \begin_inset Quotes fld
 \end_inset
 
@@ -6275,17 +6192,7 @@ amusant
 \begin_inset Quotes frd
 \end_inset
 
- de ce voyage : plus l'eau tombait du ciel, plus notre hygiène était mauvaise
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-Durant presque toute la Creuse, ce fut le cas.
-\end_layout
-
-\end_inset
-
-.
+ de ce voyage : plus l'eau tombait du ciel, plus notre hygiène était mauvaise.
  Aucune envie, en effet, d'ajouter de l'eau froide à la froide humidité
  !
 \begin_inset VSpace bigskip
@@ -6351,7 +6258,7 @@ La Loire, à cet endroit, était large et ouverte.
 \end_layout
 
 \begin_layout Standard
-M'accroupissant précipitamment derrière notre long kayak, je lançai à Mathieu
+M'accroupissant à la hâte derrière notre long kayak, je lançai à Mathieu
  : 
 \begin_inset Quotes fld
 \end_inset
