@@ -8,4 +8,5 @@ Input cul-de-lampe.inc
 
 Preamble
     \usepackage{pdflscape}
+    \usepackage{titlesec}
 EndPreamble
