@@ -25,7 +25,7 @@
 \inputencoding latin9
 \fontencoding global
 \font_roman times
-\font_sans default
+\font_sans lmss
 \font_typewriter default
 \font_default_family rmdefault
 \use_non_tex_fonts false
@@ -732,7 +732,10 @@ Deux semaines déjà.
  plus fleuve.
 \end_layout
 
-\begin_layout Cul-de-lampe
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
 
 \end_layout
 
@@ -805,9 +808,9 @@ Louizanne
  Cette dernière précision est fondamentale ; elle est la raison des plus
  grands de nos stress et préoccupations.
  La voilà faite, nous pouvons alors poursuivre.
-\end_layout
+\begin_inset Newpage newpage
+\end_inset
 
-\begin_layout Cul-de-lampe
 
 \end_layout
 
@@ -1156,7 +1159,7 @@ Aujourd'hui, en ce dimanche premier mai, le voilà parti de bonne heure,
 kilomètres : nous pouvons tout nous permettre.
 \shape smallcaps
 
-\begin_inset VSpace bigskip
+\begin_inset Newpage newpage
 \end_inset
 
 
@@ -1182,12 +1185,6 @@ t égaux.
  Nous la passerons dans l'après-midi -- tranquillement -- savourant cette
  journée de repos.
  Puis dimanche, Orléans la pucelle pointera les faubourgs de son nez.
-\shape smallcaps
-
-\begin_inset VSpace bigskip
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -1226,7 +1223,7 @@ semaines de kayak) nous a mis à rude épreuve : sportivement, mentalement
  Nous l'avons passée ; non sans mal !
 \shape smallcaps
 
-\begin_inset VSpace bigskip
+\begin_inset Newpage newpage
 \end_inset
 
 
@@ -3423,6 +3420,50 @@ ce là
  tandis que les chamois cabriolent.
 \end_layout
 
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+newgeometry{margin=0.5cm, left=1.5cm}
+\backslash
+pagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "Photo book.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\backslash
+restoregeometry
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section*
 La Brenne
 \end_layout
@@ -5196,10 +5237,13 @@ septembre
 \begin_inset space ~
 \end_inset
 
-2011.
-
+2011
 \emph default
- Lubéron.
+
+\begin_inset Newline newline
+\end_inset
+
+Lubéron.
  La chasse au petit gibier est ouverte.
 \begin_inset VSpace medskip
 \end_inset
@@ -7375,6 +7419,88 @@ Une toute dernière précision, d'importance cependant.
 carnet de route
 \emph default
 .
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+newgeometry{margin=0.5cm, left=1.5cm}
+\backslash
+pagestyle{empty}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+titleformat{
+\backslash
+subsection}
+\end_layout
+
+\begin_layout Plain Layout
+
+	{
+\backslash
+sffamily
+\backslash
+bfseries
+\backslash
+fontsize{13}{13}
+\backslash
+selectfont}
+\end_layout
+
+\begin_layout Plain Layout
+
+	{
+\backslash
+thesubsection}{}{}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+footnotesize
+\backslash
+sffamily
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
+filename "Roadbook Loire.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+}
+\backslash
+restoregeometry
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_body

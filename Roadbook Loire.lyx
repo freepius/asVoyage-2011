@@ -11,9 +11,9 @@
 \inputencoding auto
 \fontencoding global
 \font_roman default
-\font_sans default
+\font_sans lmss
 \font_typewriter default
-\font_default_family default
+\font_default_family sfdefault
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
@@ -25,7 +25,7 @@
 \output_sync 0
 \bibtex_command default
 \index_command default
-\paperfontsize default
+\paperfontsize 10
 \spacing onehalf
 \use_hyperref false
 \papersize a5paper
@@ -10001,10 +10001,6 @@ Travaux dans le bras droit menant au centre ville de Tours.
  (en rive droite).
  Les câbles sont alors sous la surface de l'eau.
  Si les câbles sont tendus, portage à priori difficile.
-\begin_inset Newpage clearpage
-\end_inset
-
-
 \end_layout
 
 \begin_layout Labeling
