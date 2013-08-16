@@ -9,13 +9,26 @@
 
 % Styling of \part
 \let\Oldpart\part
-\renewcommand{\part}[1]
+\renewcommand{\part}[2][]
 {
     {
         \newgeometry{margin=1.4cm}
-        \Oldpart{#1}
+        \Oldpart[#1]{#2}
     }
     \restoregeometry
+}
+
+% Redefine the \chapter* macro to remove vertical space.
+% Here, the \chapter* is only used by \tableofcontents.
+\def\@makeschapterhead#1{
+    %\vspace*{50\p@}% Remove the vertical space
+   {
+        \parindent \z@ \raggedright
+        \normalfont
+        \interlinepenalty\@M
+        \Huge \bfseries  #1\par\nobreak
+        \vskip 40\p@
+    }
 }
 \end_preamble
 \use_default_options true
@@ -52,7 +65,7 @@
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
-\suppress_date false
+\suppress_date true
 \use_refstyle 1
 \index Index
 \shortcut idx
@@ -62,8 +75,8 @@
 \topmargin 2cm
 \rightmargin 2.4cm
 \bottommargin 2.4cm
-\secnumdepth 3
-\tocdepth 3
+\secnumdepth -1
+\tocdepth 1
 \paragraph_separation indent
 \paragraph_indentation default
 \quotes_language french
@@ -82,7 +95,407 @@
 
 \begin_body
 
+\begin_layout Standard
+\noindent
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{empty}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+null
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+cleardoublepage
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{center}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\shape smallcaps
+\size large
+Marie Courtel
+\begin_inset Newline newline
+\end_inset
+
+Mathieu Poisbeau
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+vskip 1.5cm
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\series bold
+\size huge
+3000 KILOMÈTRES
+\begin_inset Newline newline
+\end_inset
+
+EN DIAGONALE
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+vskip 3.5cm
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Graphics
+	filename pictures/logo.png
+	lyxscale 50
+	width 5cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+vskip 3.0cm
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\size small
+Publié sous licence CC0
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+vskip 0.2cm
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Graphics
+	filename pictures/CC-Zero-badge.svg
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{center}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+cleardoublepage
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section*
+Avant-propos
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Cet avant-propos est librement inspiré du texte 
+\begin_inset Quotes fld
+\end_inset
+
+Qu'est-ce qu'une licence libre ?
+\begin_inset Quotes frd
+\end_inset
+
+, publié sur le site web 
+\emph on
+vvlibri.org
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+Cet ouvrage est publié sous une 
+\begin_inset Quotes fld
+\end_inset
+
+licence libre
+\begin_inset Quotes frd
+\end_inset
+
+ :
+\begin_inset Newline newline
+\end_inset
+
+la 
+\emph on
+CC0 1.0 universel
+\emph default
+.
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+Les licences libres sont définies comme des licences octroyant certaines
+ libertés fondamentales aux utilisateurs, et s'opposent par définition aux
+ licences propriétaires.
+ En particulier, les licences libres défendent 4 libertés :
+\end_layout
+
+\begin_layout Enumerate
+La liberté d'utilisation (liberté 0) : le propriétaire de l'œuvre garantit
+ la liberté d'utiliser son œuvre pour tous les usages ;
+\end_layout
+
+\begin_layout Enumerate
+La liberté de modification (liberté 1) : le propriétaire de l'œuvre octroie
+ à l'utilisateur le droit de modifier son œuvre sans avoir à demander une
+ autorisation ;
+\end_layout
+
+\begin_layout Enumerate
+La liberté de redistribution (liberté 2) : l'utilisateur a le droit de copier
+ l'œuvre autant qu'il le souhaite et de redistribuer cette œuvre à qui il
+ voudra ;
+\end_layout
+
+\begin_layout Enumerate
+La liberté de publication (liberté 3) : enfin le propriétaire de l'œuvre
+ octroie à l'utilisateur le droit d'améliorer l'œuvre et de redistribuer
+ cette œuvre modifiée.
+ 
+\end_layout
+
+\begin_layout Standard
+La licence 
+\emph on
+CC0
+\emph default
+ offre toutes ces libertés et davantage encore.
+ En effet, elle fait 
+\begin_inset Quotes fld
+\end_inset
+
+tomber
+\begin_inset Quotes frd
+\end_inset
+
+ l'œuvre dans le domaine public, autant que le permet le droit du pays concerné.
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+Les licences libres sont issues d'un mouvement social, celui du 
+\begin_inset Quotes fld
+\end_inset
+
+logiciel libre
+\begin_inset Quotes frd
+\end_inset
+
+, né en réaction à un processus de verrouillage de l'informatique.
+ Apparues à l'origine pour protéger des logiciels, les licences libres se
+ sont ensuite étendues à tout type de création sur le même modèle : l'idée
+ fondamentale, philosophique, d'ouvrir totalement son œuvre afin de travailler
+ en toute transparence, dans un esprit de confiance, de partage et de pérennité.
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+Libre à vous, alors, de partager, diffuser, revendre, adapter, réécrire,
+ traduire...
+ cet ouvrage.
+\begin_inset VSpace medskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+Pour de plus amples informations : allez donc consulter le site web 
+\emph on
+vvlibri.org
+\emph default
+ ou lire, en annexe, la traduction (non officielle) de la licence 
+\emph on
+CC0 1.0 universel
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cleardoublepage
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+null
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+vskip 6cm
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align right
+
+\shape italic
+À Francis, avec toute notre amitié
+\end_layout
+
+\begin_layout Standard
+\align right
+
+\shape italic
+À Monique, avec nos plus sincères remerciements
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+mainmatter
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{plain}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
 Introduction
 \end_layout
 
@@ -232,9 +645,30 @@ descente de Loire
 \begin_layout Standard
 \noindent
 Nous n'en disons pas plus et vous souhaitons bonne lecture.
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align right
+
+\shape italic
+Marie et Mathieu
 \end_layout
 
 \begin_layout Part
+\begin_inset Argument
+status collapsed
+
+\begin_layout Plain Layout
+Descente de Loire
+\end_layout
+
+\end_inset
+
 Descente de Loire
 \begin_inset Newline newline
 \end_inset
@@ -256,7 +690,7 @@ Descente de Loire
 
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 Traversée de l'Ardèche
 \end_layout
 
@@ -503,7 +937,7 @@ Laissant cette blessure au loin, nous rallions Retournac en train, le mercredi
 avril, et rangeons nos godillots au fond du kayak, prêts à pagayer.
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 Vivre dans ce coin d'Ardèche
 \end_layout
 
@@ -555,7 +989,7 @@ Cette dynamique touristique contribue largement à l'augmentation du prix
  par les vaches des départements voisins.
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 Le mont Gerbier-de-Jonc
 \end_layout
 
@@ -636,7 +1070,7 @@ Gerbier
  Et même si je n'y retournerais probablement jamais, c'est sans regret !
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 Baptême ligérien
 \end_layout
 
@@ -1033,7 +1467,7 @@ avril, puis de la ville de Roanne le lendemain, à des étendues infinies,
  Maintenant, la suite.
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 Deux mondes
 \end_layout
 
@@ -1098,7 +1532,7 @@ Qu'il est dommage, alors, de devoir partir en pleine nature pour retrouver
  ce naturel perdu.
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 Contrastes de Loire
 \end_layout
 
@@ -1414,7 +1848,7 @@ mai, un jeudi.
 13 : rien à espérer, nous sommes heureux et maîtres de nos destins.
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 Filent l'eau, le sable, la vie
 \end_layout
 
@@ -1490,7 +1924,7 @@ diem
 .
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 Le phoque et le pont
 \end_layout
 
@@ -1686,7 +2120,7 @@ Le tête-à-tête dura dix secondes, un peu plus, un peu moins.
  Et hop, la voilà repartie, plongeant dans les étincelles du soleil couchant.
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 Sable, digue, océan et plénitude
 \end_layout
 
@@ -2119,6 +2553,15 @@ Ainsi se termina notre descente de Loire du printemps 2011.
 \end_layout
 
 \begin_layout Part
+\begin_inset Argument
+status collapsed
+
+\begin_layout Plain Layout
+Grande marche
+\end_layout
+
+\end_inset
+
 Grande marche
 \begin_inset Newline newline
 \end_inset
@@ -2140,7 +2583,7 @@ Grande marche
 
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 Cap à l'est !
 \end_layout
 
@@ -2590,7 +3033,7 @@ sentier jacquaire officiel
  C'est tout de même un comble, pour deux apprentis libertaires !
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 Rêveries à Grand-Lieu
 \end_layout
 
@@ -2720,7 +3163,7 @@ Il y aurait eu tant d'autres observations à faire en ce lieu.
  écosystème, son lot de nouveaux occupants.
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 Le concombre nous maudit
 \end_layout
 
@@ -2869,7 +3312,7 @@ www.reseau-amap.org
  potager ou un potager collectif.
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 Le lièvre et l'orage
 \end_layout
 
@@ -3051,7 +3494,7 @@ h
  Et la légende dit que même les lièvres ne s'en sont pas remis.
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 Rencontres sauvages
 \end_layout
 
@@ -3154,7 +3597,7 @@ Tous font partie de cette faune sauvage que nous essayons d'observer, en
  comme fond une glace au soleil.
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 Nos chemins de liberté
 \end_layout
 
@@ -3464,7 +3907,7 @@ restoregeometry
 
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 La Brenne
 \end_layout
 
@@ -3610,7 +4053,7 @@ Ceci fut un avant-goût de la Brenne ; nous n'avons pas pu tout y découvrir.
  belle.
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 Photographies de Creuse
 \end_layout
 
@@ -3901,7 +4344,7 @@ L'ambiance, donc, est aux embrassades.
  éclaircies creusoises, qui vont nous gâcher la vie.
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 Désapproprions nous !
 \end_layout
 
@@ -4069,7 +4512,7 @@ Peut-être, alors, que ce couple du
  qu'au bord d'une route communale de Creuse.
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 De riches clochards
 \end_layout
 
@@ -4150,7 +4593,7 @@ maman, repass'moi l'saucisson !
 
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 Anniversaire auvergnat
 \end_layout
 
@@ -4331,7 +4774,7 @@ Mathieu a passé un merveilleux anniversaire ; et, finalement, il n’était
  à lui.
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 Les chamois
 \end_layout
 
@@ -4432,7 +4875,7 @@ mètres en l'air, sur le sommet tout proche, quatre chamois broutaient l'herbe
 Quel heureux moment.
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 La montée d'Albepierre
 \end_layout
 
@@ -4504,7 +4947,7 @@ Me voilà assise à vous écrire ces quelques mots, alors que Mathieu, en caleç
  notre fastueux dîner.
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 Lointaine Lozère
 \end_layout
 
@@ -4855,7 +5298,7 @@ La nuit fut longue et le sommeil rare, malgré le départ de la pluie.
  du mont Aigoual (bouleversante et épuisante) nous purgèrent de ces maux.
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 Lozère, ruisseau et langue de bœuf
 \end_layout
 
@@ -4929,7 +5372,7 @@ Elles finirent pourtant pas se lasser de nous et s'en allèrent paître plus
  Ah ! que notre ruisseau frémissant semblait loin.
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 Portrait d'un Sud
 \end_layout
 
@@ -5172,7 +5615,7 @@ es sur la plage (lisant et écrivant) et nous baignâmes dans la chaude eau
  l'eau et dans les airs, un joli spectacle au coucher du soleil.
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 En état de guerre
 \end_layout
 
@@ -5531,7 +5974,7 @@ Quant à nous, dans notre marche qui perdurera jusqu'au début de l'automne,
  nous sommes désormais plus alertes que jamais.
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 Trois arrières-pays
 \end_layout
 
@@ -5800,7 +6243,7 @@ Mais le voyage va au-delà des kilomètres ; il est aussi et surtout dans
  nos têtes.
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 Les débuts d'un long voyage
 \end_layout
 
@@ -5886,10 +6329,19 @@ La dernière journée à Nice, en haut du parc aux pins parasols, nous observons
 \end_layout
 
 \begin_layout Part
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
 Au-delà du voyage
 \end_layout
 
-\begin_layout Section*
+\end_inset
+
+Au-delà du voyage
+\end_layout
+
+\begin_layout Section
 Je voyage dans les nuages
 \end_layout
 
@@ -6006,7 +6458,7 @@ Pour exister au delà de mon horizon nu.
 En somme, je voyage dans les nuages.
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 Vagabondages hygiéniques
 \end_layout
 
@@ -6303,7 +6755,7 @@ aglagla
  L'eau froide, vous savez...
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 Gastronomie de grands chemins
 \end_layout
 
@@ -6749,7 +7201,7 @@ Et un gros dodo, le ventre plein, emmitouflés dans nos duvets d'amoureux.
 
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 Ça s'randonne la France !
 \end_layout
 
@@ -6898,7 +7350,7 @@ km), celle des Pyrénées (GR
 km)...
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 Perdue en forêt
 \end_layout
 
@@ -7295,10 +7747,19 @@ Après mille câlins, ils s’en vont, main dans la main.
 \end_layout
 
 \begin_layout Part
+\begin_inset Argument
+status open
+
+\begin_layout Plain Layout
 Annexes
 \end_layout
 
-\begin_layout Section*
+\end_inset
+
+Annexes
+\end_layout
+
+\begin_layout Section
 Carnet de route
 \end_layout
 
@@ -7494,9 +7955,234 @@ status open
 \begin_layout Plain Layout
 
 }
+\end_layout
+
+\begin_layout Plain Layout
+
+
 \backslash
 restoregeometry
 \end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+CC0 1.0 universel
+\end_layout
+
+\begin_layout Standard
+CREATIVE COMMONS N’EST PAS UN CABINET D’AVOCATS ET NE FOURNIT PAS DE SERVICES
+ DE CONSEIL JURIDIQUE.
+ LA PUBLICATION DE CE DOCUMENT NE CRÉE AUCUNE RELATION JURIDIQUE ENTRE LES
+ PARTIES ET CREATIVE COMMONS.
+ CREATIVE COMMONS MET À DISPOSITION CETTE LICENCE EN l’ÉTAT, À SEULE FIN
+ D’INFORMATION.
+ CREATIVE COMMONS NE FOURNIT AUCUNE GARANTIE CONCERNANT L’UTILISATION DE
+ CE DOCUMENT OU DES INFORMATIONS OU TRAVAUX FOURNIS CI-APRÈS, ET DÉCLINE
+ TOUTE RESPONSABILITÉ POUR LES DOMMAGES RÉSULTANT DE L’UTILISATION DE CE
+ DOCUMENT OU DES INFORMATIONS OU TRAVAUX FOURNIS CI-APRÈS.
+\end_layout
+
+\begin_layout Subsubsection*
+Déclaration d’Intention
+\end_layout
+
+\begin_layout Standard
+Les lois de la plupart des législations des états du monde accordent automatique
+ment des Droits d’Auteur et Droits Voisins (définis ci-dessous) au créateur
+ et au(x) titulaire(s) de droits ultérieur(s) (ci-après, le « titulaire
+ ») d’une œuvre originale protégeable par le droit de la propriété littéraire
+ et artistique et/ou une base de données (ci-après, une « Œuvre »).
+\end_layout
+
+\begin_layout Standard
+Certains titulaires souhaitent renoncer de façon définitive à ces droits
+ sur une Œuvre dans le but de contribuer à un fonds commun de travaux créatifs,
+ culturels et scientifiques (les « Biens Communs ») que le public, de façon
+ certaine et sans craindre d’actions ultérieures pour contrefaçon peut utiliser
+ comme base de travail, de modifier, d’incorporer dans d’autres travaux,
+ de réutiliser et de redistribuer aussi librement que possible sous quelque
+ forme que ce soit et à quelque fin que ce soit, y compris, et sans réserves,
+ à des fins commerciales.
+ Ces titulaires peuvent contribuer aux Biens Communs dans le but de promouvoir
+ les idéaux de la culture libre et la production de travaux créatifs, culturels
+ et scientifiques, ou pour acquérir une notoriété ou une plus grande diffusion
+ de leur Œuvre, notamment grâce à l’utilisation qui en sera faite par d’autres.
+ Quelque soit les raisons, et sans attendre aucune rémunération ou compensation,
+ la personne associant la CC0 à une Œuvre (le « Déclarant »), dans la mesure
+ où il ou elle est titulaire des Droits d’Auteur et des Droits Voisins de
+ l’Œuvre, fait volontairement le choix d’appliquer la CC0 à l’Œuvre et de
+ distribuer publiquement l’Œuvre sous les termes de cette licence, en toute
+ connaissance de l’étendue de ses Droits d’Auteur et Droits Voisins sur
+ l’Œuvre, ainsi que de la portée et des effets juridiques de la CC0 sur
+ ces droits.
+\end_layout
+
+\begin_layout Subsubsection*
+Droit d’Auteur et Droits Voisins
+\end_layout
+
+\begin_layout Standard
+Une Œuvre mise à disposition sous la CC0 peut être protégée par les droits
+ d’auteur et les droits voisins ou connexes (le « Droit d’Auteur et les
+ Droits Voisins »).
+ Le Droit d’Auteur et les Droits Voisins comportent, notamment, les prérogatives
+ suivantes :
+\end_layout
+
+\begin_layout Enumerate
+Le droit de reproduire, adapter, distribuer, interpréter, diffuser, communiquer,
+ et traduire une Œuvre ;
+\end_layout
+
+\begin_layout Enumerate
+Les droits moraux conservés par le ou les auteur(s) ou interprète(s) originaux
+ ;
+\end_layout
+
+\begin_layout Enumerate
+Les droits relatifs à la diffusion et à la vie privée rattachés à l’image
+ ou au portrait d’une personne représentée dans une Œuvre ;
+\end_layout
+
+\begin_layout Enumerate
+Les droits protégeant contre la concurrence déloyale à l’égard de l’Œuvre,
+ sujets aux limitations prévues dans le paragraphe 4(a) ci-dessous ;
+\end_layout
+
+\begin_layout Enumerate
+Les droits protégeant l’extraction, la dissémination, l’utilisation et la
+ réutilisation des données contenues dans une Œuvre ;
+\end_layout
+
+\begin_layout Enumerate
+Les droits relatifs aux bases de données (tels que ceux découlant de la
+ Directive 96/9/CE du Parlement Européen et du Conseil du 11 mars 1996 concernan
+t la protection juridique des bases de données, et de toute transposition
+ au niveau national, y compris de toute version amendée ou révisée de cette
+ directive) ;
+\end_layout
+
+\begin_layout Enumerate
+Tous autres droits similaires, équivalents ou correspondants partout dans
+ le monde, basés sur des lois ou traités applicables, et toutes les transpositio
+ns nationales de ceux-ci.
+\end_layout
+
+\begin_layout Subsubsection*
+Renonciation
+\end_layout
+
+\begin_layout Standard
+Dans toute la mesure permise par la loi, mais sans l’enfreindre, le Déclarant
+ annonce par la présente abandonner, céder et renoncer ouvertement, complètement
+, définitivement et irrévocablement, à tous ses Droits d’Auteur et Droits
+ Voisins sur l’Œuvre ainsi qu’aux prétentions et intérêts à agir associés,
+ qu’ils soient à cet instant connus ou inconnus (y compris les prétentions
+ et intérêts à agir associés nés ou à naître), (i) partout dans le monde,
+ (ii) pour la durée maximale prévue par les lois ou traités applicables
+ (y compris les prolongations futures de cette durée), (iii) sur n’importe
+ quel support actuel ou futur et quel que soit le nombre de copies, et (iv)
+ pour toutes fins, y compris, et sans réserves, les fins commerciales, publicita
+ires ou promotionnelles (la « Renonciation »).
+ Le Déclarant procède à la Renonciation au bénéfice de chacun des membres
+ du public le plus large et au détriment des héritiers et successeurs du
+ Déclarant, avec la ferme volonté que cette Renonciation ne puisse faire
+ l’objet d’aucune révocation, rescision, résiliation, annulation, conclusion,
+ ou de toute autre action en justice ou injonction susceptible d’interrompre
+ la jouissance paisible de cette Œuvre par le public telle que prévue par
+ la Déclaration d’Intention du Déclarant.
+\end_layout
+
+\begin_layout Subsubsection*
+Licence Publique Supplétive
+\end_layout
+
+\begin_layout Standard
+Dans le cas où une partie quelconque de la Renonciation et pour quelque
+ raison que ce soit est jugée juridiquement nulle ou sans effet en vertu
+ de la loi applicable, la Renonciation doit être préservée de la manière
+ permettant la prise en compte la plus large de la Déclaration d’Intention
+ du Déclarant.
+ De plus, dans la mesure où la Renonciation est ainsi jugée, le Déclarant
+ concède par la présente à chaque personne concernée une licence pour l’exercice
+ des Droits d’Auteur et Droits Voisins du Déclarant sur l’Œuvre, gratuite,
+ non transférable, non sous-licenciable, non exclusive, irrévocable et inconditi
+onnelle (i) partout dans le monde, (ii) pour la durée maximale prévue par
+ les lois ou traités applicables (y compris les prolongations futures de
+ cette durée), (iii) sur n’importe quel support actuel ou futur et quel
+ que soit le nombre de copies, et (iv) pour toutes fins, y compris, et sans
+ réserves, les fins commerciales, publicitaires ou promotionnelles (la «
+ Licence »).
+ La licence sera réputée effective à la date à laquelle le Déclarant a appliqué
+ CC0 à l’Œuvre.
+ Dans le cas où une partie quelconque de la Licence, et pour quelque raison
+ que ce soit, est jugée juridiquement nulle ou sans effet en vertu de la
+ loi applicable, une telle invalidité partielle ou ineffectivité n’invalidera
+ pas le reste de la Licence, et dans un tel cas le Déclarant déclare par
+ la présente qu’il ou elle (i) n’exercera aucun de ses Droits d’Auteur ou
+ Droits Voisins subsistant sur l’Œuvre et (ii) ne fera valoir aucune prétention
+ ni intérêt à agir associés relatifs à l’Œuvre, ce qui serait opposé à la
+ Déclaration d’Intention du Déclarant.
+\end_layout
+
+\begin_layout Subsubsection*
+Limitations et exonérations de responsabilité
+\end_layout
+
+\begin_layout Enumerate
+Aucun droit sur une marque déposée ou un brevet détenu par le Déclarant
+ n’est abandonné, cédé, licencié ou affecté d’une quelconque manière par
+ le présent document;
+\end_layout
+
+\begin_layout Enumerate
+Le Déclarant propose la mise à disposition de l’Œuvre en l’état, sans déclaratio
+n ou garantie d’aucune sorte, expresse, implicite, légale ou autre, y compris
+ les garanties concernant la commercialité, ou la conformité, les vices
+ cachés et les vices apparents, dans toute la mesure permise par la loi
+ applicable;
+\end_layout
+
+\begin_layout Enumerate
+Le Déclarant décline toute responsabilité dans la compensation des droits
+ d’autres personnes qui peuvent s’appliquer à l’Œuvre ou à toute utilisation
+ de celle-ci, y compris, et notamment, mais pas exclusivement, les Droits
+ d’Auteur et Droits Voisins de toute personne sur l’Œuvre.
+ En outre, le Déclarant décline toute responsabilité quant à l’obtention
+ des consentements, autorisations et autres droits requis quelle que soit
+ l’utilisation de l’Œuvre;
+\end_layout
+
+\begin_layout Enumerate
+Le Déclarant comprend et reconnaît que Creative Commons n’est pas partie
+ prenante de ce document et n’a aucune responsabilité ni obligation à l’égard
+ de la CC0 ou de l’utilisation de l’Œuvre.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+backmatter
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
 
 \end_inset
 
