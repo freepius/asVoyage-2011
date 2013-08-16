@@ -55,6 +55,17 @@
 \paperfontsize 12
 \spacing onehalf
 \use_hyperref false
+\pdf_title "3000 kilomètres en diagonale"
+\pdf_author "Marie Courtel et Mathieu Poisbeau"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder false
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
 \papersize a5paper
 \use_geometry true
 \use_amsmath 1
@@ -73,7 +84,7 @@
 \end_index
 \leftmargin 2.4cm
 \topmargin 2cm
-\rightmargin 2.4cm
+\rightmargin 2cm
 \bottommargin 2.4cm
 \secnumdepth -1
 \tocdepth 1
@@ -1167,7 +1178,7 @@ Deux semaines déjà.
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace bigskip
+\begin_inset VSpace 1cm
 \end_inset
 
 
@@ -1394,7 +1405,7 @@ Mais non ! La Loire n'est pas un fleuve sauvage.
 \begin_layout Standard
 La croyance individuelle, que ce périple a largement lessivée, est la suivante.
  De la Loire, nous ne connaissions que l'estuaire et l'embouchure, près
- desquels nous avons fait pousser nos vingts premières années.
+ desquels nous avons fait pousser nos vingt premières années.
  Tout au plus, nous l'avions aperçue en quelques autres endroits -- de villes
  ou de châteaux -- où elle était, probablement, déjà bien large.
  Bien entendu, nous avions préparé ce voyage et savions, tout de même, dans
@@ -1417,7 +1428,7 @@ courage, bientôt nous aurions la Loire navigable, la vraie Loire
 Mais elle s'est montrée à nous, franche.
  Et force a été de la découvrir -- après quelques jours -- le cul dans l'eau,
  une main agrippée à un kayak sévèrement endommagé, prenant pleinement conscienc
-e que, oui, c'était aussi cette Loire là que nous étions venu chercher.
+e que, oui, c'était aussi cette Loire là que nous étions venus chercher.
  Nous nous sommes détendus, nous avons porté une plus forte et une plus
  sereine attention à notre embarcation.
  Et alors, doucement, nous avons pris avec plaisir tous les emmerdes que
@@ -1444,7 +1455,7 @@ Autant ne pas vous dire que ces quinze jours auront été remplis, à en débord
 Tout le reste, il faut aussi en parler et l'écrire.
  Ce sont les longues journées à tirer un kayak, dans les cinq centimètres
  d'eau du plus long fleuve de France ! C'est l'unique orage, le seul jour
- de pluie, d'un mois de baroude d'avril.
+ de pluie, d'un mois de baroud d'avril.
  C'est la multitude de piafs majestueux que nous avons observés et écoutés,
  avec un énorme plaisir.
  C'est la flore, aussi, que nous avons étudiée, avec un sérieux scientifique.
@@ -1501,8 +1512,8 @@ t ; un chic, où les petits plats sont mis dans les grands.
  établissement, où les serveurs et serveuses sont vêtus d'ensembles noirs
  et blancs immaculés.
  Je me suis régalée, mais ne me suis pas sentie à l'aise.
- Pour moi, le repas est un moment convivial qui se transforme, ici, en un
- moment protocolaire : seul le 
+ Pour moi, le repas est un moment convivial qui se transforme, ici, en une
+ cérémonie protocolaire : seul le 
 \begin_inset Quotes fld
 \end_inset
 
@@ -1770,18 +1781,25 @@ Nègre.
 
 \shape italic
 Dévale, dévale, Loire...
- Passe le Puy\SpecialChar \nobreakdash-
-en\SpecialChar \nobreakdash-
-Velay, prends tes chemins et descends les contreforts de
+\begin_inset Newline newline
+\end_inset
+
+Passe le Puy-en-Velay, prends tes chemins et descends les contreforts de
  ce Massif central.
- Passe, Loire, avec dédain, ces maudits barrages dont les hommes t'ont déguisée.
- Passe Roanne et nourris son fade canal.
+\begin_inset Newline newline
+\end_inset
+
+Passe, Loire, avec dédain, ces maudits barrages dont les hommes t'ont déguisée.
+\begin_inset Newline newline
+\end_inset
+
+Passe Roanne et nourris son fade canal.
 \end_layout
 
 \begin_layout Quote
 
 \shape italic
-Enfin, repose toi, Loire, sur ces immensités de sable et de cailloux fins.
+Enfin, repose-toi, Loire, sur ces immensités de sable et de cailloux fins.
  Et va à la rêverie, chatouillée par mille oiseaux.
  
 \end_layout
@@ -2202,7 +2220,7 @@ Vu d'une carte ou vu du ciel : après Amboise, il y a Tours ; après Tours,
 \begin_layout Standard
 D'Amboise à Lavau\SpecialChar \nobreakdash-
 sur\SpecialChar \nobreakdash-
-Loire (notre point de chute), la règle mesure quelques
+Loire (notre point de chute), la règle mesure quelque
  250
 \begin_inset space ~
 \end_inset
@@ -2273,7 +2291,7 @@ Nazaire, où habitent
  Car, à la fin des fins, tout dans nos corps a fini pas être grippé, crispé
  ; il nous fallait alors ce repos.
  Cette dernière ligne droite n'était pas propice à l'écriture.
- Maintenant reposé, laissez moi reprendre notre aventure...
+ Maintenant reposé, laissez-moi reprendre notre aventure...
 \end_layout
 
 \begin_layout Standard
@@ -2316,7 +2334,7 @@ Jusqu'à Nantes, les paysages ne se sont pas bouleversés et étaient formés
  Ces méandres, ce labyrinthe et ces digues forment des paysages si tranquilles
  et si beaux.
  Ils sont en France, à notre porte.
- Et qui les connait ? Qui les a vus, avant de s'envoler jusqu'en des contrées
+ Et qui les connaît ? Qui les a vus, avant de s'envoler jusqu'en des contrées
  lointaines ?
 \end_layout
 
@@ -2429,7 +2447,7 @@ La compagnie des machines de l'île
 status collapsed
 
 \begin_layout Plain Layout
-Ce jour là, la compagnie 
+Ce jour-là, la compagnie 
 \begin_inset Quotes fld
 \end_inset
 
@@ -2514,10 +2532,10 @@ Un paysage bouleversant s'anima alors tous azimuts.
 
 \begin_layout Standard
 Le fleuve s'était amplement élargi, doublant ou triplant sa corpulence.
- Et les rives -- extravagante composition de roseaux, de gravas et de prés
+ Et les rives -- extravagante composition de roseaux, de gravats et de prés
  humides -- formaient deux haies d'honneur, comme pour nous accueillir.
  Alors, entre ces rives et au cœur de cette Loire large et agitée, trempés
- par un rideau d'une fine pluie, ballotés par les vagues et leurs creux
+ par un rideau d'une fine pluie, ballottés par les vagues et leurs creux
  d'un mètre parfois, dans une exaltation, une transe, une panique et une
  peur, nous jouîmes tout notre soûl de bonheur.
  Que la Loire fût belle alors ; et qu'elle fût dure.
@@ -2659,7 +2677,7 @@ Olivier le kayakiste
 \end_inset
 
 .
- Faire faire un ultra-régime à nos sacs.
+ Faire faire un ultra régime à nos sacs.
  Leur liposucer un maximum de kilos, pour avoir une chance d'arriver au
  bout de notre aventure.
 \end_layout
@@ -2846,9 +2864,9 @@ Ainsi, nous avons pu : admirer les hérons cendrés, pourprés et garde-bœufs
  en étangs et marais ; bougonner contre les élevages intensifs de poulets,
  de pommes et d'humains (dans leurs lotissements maussades) ; accompagner,
  à contre courant, la Loire et nombre de ses veines, nous y plongeant parfois
- ; nous étonner du nombre de demeures bourgeoises angevines, admirant quelques
- unes majestueuses ; et subir les caprices d'une météo ci-douce, là-lourde,
- ci-pluvieuse et là-torride.
+ ; nous étonner du nombre de demeures bourgeoises angevines, admirant quelques-u
+nes majestueuses ; et subir les caprices d'une météo ci douce, là lourde,
+ ci pluvieuse et là torride.
 \end_layout
 
 \begin_layout Standard
@@ -2936,7 +2954,7 @@ Le premier démon qui se montra à nous -- petit et éphémère -- fut l'outil
 \begin_layout Standard
 Le second à apparaître -- global et immuable -- fut le genre humain dans
  toute sa bêtise, son avidité, sa domination, son orgueil.
- Ce démon là semble omniprésent et se tient à de solides fondations.
+ Ce démon-là semble omniprésent et se tient à de solides fondations.
  Nous avons pourtant convenu de ne jamais le laisser nous abattre mais,
  au contraire, d'en faire le combat militant d'une vie.
 \end_layout
@@ -2944,7 +2962,7 @@ Le second à apparaître -- global et immuable -- fut le genre humain dans
 \begin_layout Standard
 Le troisième et dernier démon s'avança en souriant, vêtu de très beaux apparats
  ; il avait pourtant quelques airs pourris.
- Ce démon là n'était pas agressif ; au contraire, il se montrait accueillant.
+ Ce démon-là n'était pas agressif ; au contraire, il se montrait accueillant.
  On l'appelait 
 \begin_inset Quotes fld
 \end_inset
@@ -2969,7 +2987,7 @@ chemins de Saint-Jacques
  par notre frilosité plutôt que par leurs attraits historiques, culturels
  et humains (même si ceux-ci sont indéniables).
  Timides et peureux, il nous fallait au moins la facilité de ces chemins
- ultra-empruntés, pour partir, à deux.
+ ultra empruntés, pour partir, à deux.
 \end_layout
 
 \begin_layout Standard
@@ -2992,7 +3010,7 @@ Compostelle
 
 Combien de kilomètres par jour ? Au total ? De temps pour le faire ? Quel
  poids font vos sacs ? Vous dormez en gîtes ? En camping ? Mais le chemin
- ne passe pas pas là ? Et...
+ ne passe pas par là ? Et...
  ? Et...
  ?
 \begin_inset Quotes frd
@@ -3094,7 +3112,7 @@ es : un héron cendré qui s'envole ; une aigrette garzette en recherche de
 Malheureusement, à Grand\SpecialChar \nobreakdash-
 Lieu se joue aussi une tragédie, dont les acteurs
  principaux sont l'homme et sa bêtise.
- S'y trouvent de nombreuses espèces invasives (c'est à dire : des espèces
+ S'y trouvent de nombreuses espèces invasives (c'est-à-dire : des espèces
  exotiques à un milieu, introduites par l'homme
 \begin_inset Foot
 status open
@@ -3261,7 +3279,7 @@ oracle
 
 .
  Nous avons abandonné un légume -- produit simple et non transformé -- alors
- que la plupart d'entre nous malbouffons des mets hypertransformés, gras,
+ que la plupart d'entre nous malbouffons des mets hyper transformés, gras,
  saturés en sel...
  faisant confiance à l'industrie agroalimentaire, où se créent et se conditionne
 nt de vastes supercheries.
@@ -3375,7 +3393,7 @@ h
  coupé et emballé, aux environs d'Azay\SpecialChar \nobreakdash-
 le\SpecialChar \nobreakdash-
 Rideau.
- Comme voisins de pension campagnarde, nous avions, ce soir là, un couple
+ Comme voisins de pension campagnarde, nous avions, ce soir-là, un couple
  de faisans et une famille de gros lièvres (gambadeurs et à peine farouches).
  Les salutations faites, la tente plantée et le plat de nouilles mollement
  avalé, nous nous mîmes au lit, à la faveur d'une douce fraîcheur de fin
@@ -3458,7 +3476,7 @@ Alors, tout preux prince et princesse qu'ils étaient, ils prirent peur,
 \begin_layout Standard
 Une minute passa, puis deux, puis trois.
  Et, dans l'appréhension du premier coup de tonnerre, se demandant s'ils
- auraient du mettre des pommes de terre sur les sardines de leur tente (mais
+ auraient dû mettre des pommes de terre sur les sardines de leur tente (mais
  ils n'avaient pas de pommes de terre), espérant qu'ils ne risquaient rien
  sur ce champ de blé coupé un peu en hauteur, ils s'endormirent.
  
@@ -3717,10 +3735,10 @@ De nos jours, au pèlerin passionné s'est ajouté un millier d'autres zigues
  peureux, etc.
  Et tous se suivent, se passent et se dépassent, se mêlent et se démêlent,
  discutant, échangeant, riant et formant -- en somme -- un joyeux ballet.
- D'aucun reconnaitrait que ces chemins là ont le vent en poupe, qu'ils constitue
+ D'aucun reconnaîtrait que ces chemins-là ont le vent en poupe, qu'ils constitue
 nt un creuset formidable de rencontres simples et chaleureuses, et qu'une
  odeur d'humanisme y règne.
- Mais, immergez-vous y un tant soit peu, écoutez ses riverains et ses commerçant
+ Mais, immergez-vous-y un tant soit peu, écoutez ses riverains et ses commerçant
 s, regardez les processions de ces néo-pèlerins et, peut-être, sentirez-vous
  comme un air de pourri y flotter.
  Peut-être, jugerez-vous que le néo-pèlerin, sa muse et son exploit ont
@@ -3777,7 +3795,7 @@ Je crois que mon tableau est clair : ce petit homme nous a fait rire et
 \begin_layout Standard
 Sur les routes de Creuse, la morosité gangrenait nos cœurs et quelques coquilles
  nous cassaient les noix de Saint-Jacques.
- D'un côté, il y avait ce foutu jugement : que ces chemins là n'étaient
+ D'un côté, il y avait ce foutu jugement : que ces chemins-là n'étaient
  pas pour nous.
  De l'autre, il y avait notre programme, préparé longuement et consciencieusemen
 t par Marie : arrivée à Saint\SpecialChar \nobreakdash-
@@ -3825,7 +3843,7 @@ Celle qui chemine dans les verts, oranges et gris des gorges de la Creuse.
 \end_layout
 
 \begin_layout Standard
-Celle qui traine sur les grandeurs vertes et piquantes de la Creuse, et
+Celle qui traîne sur les grandeurs vertes et piquantes de la Creuse, et
  qui empreinte ses escarpements terreux.
  Au cœur des résineux, les marcheurs s'asseyent sur le bois pourrissant
  ; et ils méditent, éclairés par une faible lumière orangée.
@@ -3866,6 +3884,13 @@ ce là
 \begin_layout Standard
 \begin_inset ERT
 status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cleardoublepage
+\end_layout
 
 \begin_layout Plain Layout
 
@@ -4188,7 +4213,7 @@ Laissons maintenant cette nature, ses tons et ses couleurs, et braquons
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace bigskip
+\begin_inset VSpace 1cm
 \end_inset
 
 
@@ -4202,7 +4227,10 @@ Clic-clac
 
 \begin_layout Standard
 Voici un deuxième cliché.
- 
+\begin_inset Newline newline
+\end_inset
+
+
 \begin_inset Quotes fld
 \end_inset
 
@@ -4219,15 +4247,7 @@ mètres d'altitude ; 15
 \end_inset
 
 kilomètres au sud de Bourganeuf ; sud de la Creuse ; nord du plateau de
- Millevaches ; 27
-\begin_inset space ~
-\end_inset
-
-juillet
-\begin_inset space ~
-\end_inset
-
-2011 -- 15
+ Millevaches ; 27 juillet 2011 -- 15
 \begin_inset space \thinspace{}
 \end_inset
 
@@ -4283,7 +4303,7 @@ ans alors, de grands propriétaires terriens y semèrent en masse des résineux
 \end_layout
 
 \begin_layout Standard
-Au dessus des blancs moutons, sur le flanc de la colline voisine, un groupe
+Au-dessus des blancs moutons, sur le flanc de la colline voisine, un groupe
  de tâches blanches se distingue, contrastant avec le vert sombre de la
  forêt.
  C'est une ville moyenne creusoise -- toute petite ville française -- gardienne
@@ -4294,7 +4314,7 @@ Au dessus des blancs moutons, sur le flanc de la colline voisine, un groupe
 \end_layout
 
 \begin_layout Standard
-Quand à cette lande, dites-vous bien que c'est un sanctuaire, une pièce
+Quant à cette lande, dites-vous bien que c'est un sanctuaire, une pièce
  à ciel ouvert du musée de la vieille Creuse, que quelques protecteurs continuen
 t de dépoussiérer (le PNR de Millevaches l'entretient, aidé de nos contributions
  citoyennes).
@@ -4304,7 +4324,7 @@ t de dépoussiérer (le PNR de Millevaches l'entretient, aidé de nos contributi
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace bigskip
+\begin_inset VSpace 1cm
 \end_inset
 
 
@@ -4564,7 +4584,7 @@ Nous nous installons, solitaires, au bord d'une petite plage, sous un grand
 \begin_layout Standard
 Nos culs sont posés sur une bâche, sur laquelle nous pique-niquons rudimentairem
 ent.
- Marie a le pantalon rentré dans des chaussettes roses, elles mêmes enfoncées
+ Marie a le pantalon rentré dans des chaussettes roses, elles-mêmes enfoncées
  dans deux sandales blanches.
 \end_layout
 
@@ -4720,7 +4740,7 @@ Jean la plante
 
 \begin_layout Standard
 Puis nous avons quitté les hauteurs, rejoignant pour quel\SpecialChar \-
-ques temps un autre
+que temps un autre
  monde : celui de Super-Besse, de ses immeubles et de ses téléskis.
  Quels contrastes !
 \end_layout
@@ -4793,20 +4813,10 @@ Les chamois
 \end_layout
 
 \begin_layout Standard
-Aujourd'hui, nous avons gazé ! Sept heures de marche, 1200
-\begin_inset space ~
-\end_inset
-
-mètres de dénivelé positif et 20
-\begin_inset space ~
-\end_inset
-
-kilomètres parcourus.
- Alors, que nous nous sentons sportifs, ce soir, campant à 1700
-\begin_inset space ~
-\end_inset
-
-mètres d'altitude.
+Aujourd'hui, nous avons gazé ! Sept heures de marche, 1200 mètres de dénivelé
+ positif et 20 kilomètres parcourus.
+ Alors, que nous nous sentons sportifs, ce soir, campant à 1700 mètres d'altitud
+e.
 \end_layout
 
 \begin_layout Standard
@@ -5038,7 +5048,7 @@ marches
 
 \begin_layout Standard
 Oui, notre Sud a commencé là, pour un petit mois, mystique et quasi-nouveau
- pour les gens-jeunes du Nord-Ouest que nous sommes.
+ pour les gens jeunes du Nord-ouest que nous sommes.
  Un bout dans l'industrie, un dans les marais et un, plus long et plus grand,
  dans des montagnes encore.
  Sud poussiéreux, généreux en humanité et en raisin, étouffant d'hommes
@@ -5219,7 +5229,7 @@ Le premier soir, au creux d'un champ quelconque, la météo se prit à vouloir
 Le deuxième soir, les cœurs totalement pris à la solitude lozérienne, nous
  contemplions quelques milliards d'étoiles, dans un ciel qu'aucun excrément
  lumineux humain ne venait polluer.
- Nous voyageâmes, ce soir là, bien au delà des frontières que jamais nos
+ Nous voyageâmes, ce soir-là, bien au-delà des frontières que jamais nos
  corps ne pourraient franchir.
 \begin_inset VSpace bigskip
 \end_inset
@@ -5260,12 +5270,12 @@ Nous venions tout juste de dépasser le lieu-dit de l'Hospitalet, et d'arriver
  Depuis l'Auvergne, nous avions une assurance folle, nos physiques allaient
  au mieux et nos morales tenaient fermes.
  Nous foulions la terre de ce cœur cévenol avec réel plaisir.
- Son relief semblait un chaos de griffes et de déchirures qu'un jeune dieu
+ Son relief semblait un chaos de griffes et de déchirures qu'un jeune Dieu
  un peu foufou aurait semé.
 \end_layout
 
 \begin_layout Standard
-Et ce jour là, il ne nous laissa aucun répit.
+Et ce jour-là, il ne nous laissa aucun répit.
  Depuis la mi-matinée, nous entendions gronder l'orage, au loin.
  Mais, grisés par les joies du voyage, trop confiants, nous n'y portions
  aucun intérêt.
@@ -5281,10 +5291,10 @@ Et ce jour là, il ne nous laissa aucun répit.
 Ce fut très long...
  D'autant que la pluie, mauvaise solitaire, invita deux grands amis : l'orage
  et le vent.
- Le vent surtout fut violent ce soir là, soufflant en rafales de tous côtés,
+ Le vent surtout fut violent ce soir-là, soufflant en rafales de tous côtés,
  dansant la gigue, tournant encore et encore.
  Persévérant dans la désorganisation d'alors, nous plantâmes la tente en
- plein centre de cette lande hyperexposée.
+ plein centre de cette lande hyper exposée.
 \end_layout
 
 \begin_layout Standard
@@ -5343,8 +5353,8 @@ s.
 Après nos corps, à nos guenilles.
  Tout passa à la machine de maman Nature.
  Nos chaussettes, surtout, en avaient grand besoin.
- Alors, elle furent frottées plus que de raison sur les pierres polies du
- ruisseau.
+ Alors, elles furent frottées plus que de raison sur les pierres polies
+ du ruisseau.
  Puis, en plein cagnard, nous couvrîmes de nos vêtements le petit champ
  tout entier.
  Tout sécha très vite ; nous n'étions pourtant pas pressés de repartir piétiner
@@ -5352,7 +5362,7 @@ Après nos corps, à nos guenilles.
 \end_layout
 
 \begin_layout Standard
-C'était sans compter les voisines vaches -- deux belles aubrac --, qui en
+C'était sans compter les voisines vaches -- deux belles aubrac -- qui en
  quelques pas de trot franchirent le ruisseau, squattant notre station balnéaire
  improvisée.
  Mais nous ne les intéressions qu'à moitié ; notre panneau solaire, en revanche,
@@ -5401,7 +5411,7 @@ km
 \begin_layout Standard
 Un mois et demi de marche à travers des territoires peu peuplés se terminait.
  En descendant le mont Aigoual, au cœur des Cévennes, nous rentrions de
- plein pied dans 
+ plain-pied dans 
 \begin_inset Quotes fld
 \end_inset
 
@@ -5457,7 +5467,8 @@ km.
 \end_inset
 
 août), était grouillante de vie.
- Quelques personnes âgées, toutes pimpantes, papotaient devant l'église
+ Quel\SpecialChar \-
+ques personnes âgées, toutes pimpantes, papotaient devant l'église
  réformée, avant la messe.
  D'autres emplissaient des paniers de fruits, légumes, viandes et pains
  frais.
@@ -5511,11 +5522,11 @@ dortoir
  que des villas -- avec piscine, clôture et chien -- ont fait pousser.
  Malgré l'humanité grouillante, la vie ici ne suinte pas à grosses gouttes.
  L'agriculture y est intensive et les vignes, immenses et aux odeurs parfois
- pestilentielles, ne donnent point trop envie.
+ pestilentielles, ne donnent point trop d'envies.
 \end_layout
 
 \begin_layout Standard
-Le mercredi soir 31 août, au milieu de ces vignes là, nous dûmes planter
+Le mercredi soir 31 août, au milieu de ces vignes-là, nous dûmes planter
  notre tente, faute de mieux.
  À 21
 \begin_inset space ~
@@ -5539,7 +5550,7 @@ heures, le repas à peine entamé, un orage éclata sur une vaste zone au-dessus
 Encore deux jours d'une marche morose, à soulever la poussière d'un sol
  sec, à suer sous une chaleur étouffante, avant de quitter -- enfin -- l'oppress
 ante périphérie de Nîmes.
- Le bucolique s'épanouit de nouveau, sous l'égide de cultures maraichères
+ Le bucolique s'épanouit de nouveau, sous l'égide de cultures maraîchères
  bien sympathiques : tomates, melons, vignes accompagnées d'herbes folles...
  Comme pour nous accueillir, un quinquagénaire à l'allure débonnaire et
  au bon et large sourire s'avança, torse nu, la bedaine sortant d'un short
@@ -5913,13 +5924,17 @@ Quant à moi, je suis un anti-rien, ouvert à tout, aimant entendre la diversit�
  la sentir, la palper, la goûter, la connaître, la comprendre.
  Je suis prompt, ainsi, à me faire l'avocat des diables ou à m'opposer à
  l'arbitraire qui s'impose ! Et j'entends bien continuer à croire que la
- connerie est universelle et pas l'affaire de quelques uns, ni de quelques
+ connerie est universelle et pas l'affaire de quelques-uns, ni de quelques
  pratiques bornées.
 \end_layout
 
 \begin_layout Standard
 Alors, aucune raison d'écrire, ici, que les chasseurs sont des cons.
  Cependant...
+\begin_inset Newpage newpage
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -6067,7 +6082,7 @@ Après une dernière journée, d'une marche tranquille passée en rêverie, nous
  Et déjà, le Lubéron pointe le bout de son nez.
  Mais, malgré l'énergie de petits déjeuners gargantuesques (faits de muesli,
  fromage blanc, charcuterie, fruits, chocolat...), la marche a bien du mal
- à nous entrainer.
+ à nous entraîner.
  La lecture, l'écriture et la sieste semblent, au contraire, plus attrayantes.
  Pourtant, il nous faut avancer : Nice est encore loin ! Un peu de courage
  pour démarrer, puis le corps -- mécaniquement -- avance, grimpe, crapahute.
@@ -6250,19 +6265,7 @@ Les débuts d'un long voyage
 \begin_layout Standard
 En descendant de la montagne, nous arrivons à Entreveaux, une vieille cité
  fortifiée.
- Durant trois beaux jours, du 23
-\begin_inset space ~
-\end_inset
-
-au
-\begin_inset space ~
-\end_inset
-
-26
-\begin_inset space ~
-\end_inset
-
-septembre, nous foulons ses pavés.
+ Durant trois beaux jours, du 23 au 26 septembre, nous foulons ses pavés.
  Pourquoi si longtemps ? Parce que le hasard des rencontres crée aisément
  de mini bouleversements.
 \end_layout
@@ -6319,7 +6322,7 @@ Le lendemain, Francis nous retrouve à quatre pas de chez lui, à la fois
 \end_layout
 
 \begin_layout Standard
-La dernière journée à Nice, en haut du parc aux pins parasols, nous observons
+L'ultime journée à Nice, en haut du parc aux pins parasols, nous observons
  une dernière fois la Méditerranée.
  Là, en scrutant le va-et-vient des ferries, nos corps et nos âmes se séparent.
  Nos corps, eux, retournent en pays nantais par un long train de nuit, dans
@@ -6368,7 +6371,7 @@ Je lève les yeux, qu'ils embrassent le ciel.
 
 \begin_layout Standard
 \noindent
-Alors, si quelques nuages voguent au dessus,
+Alors, si quelques nuages voguent au-dessus,
 \begin_inset Newline newline
 \end_inset
 
@@ -6438,7 +6441,7 @@ Et qu'ils croisent les habitants,
 \begin_inset Newline newline
 \end_inset
 
-Blancs ou gris, du monde d'au dessus,
+Blancs ou gris, du monde d'au-dessus,
 \begin_inset Newline newline
 \end_inset
 
@@ -6446,7 +6449,7 @@ Par jeu de miroir, celui du bas se dessine
 \begin_inset Newline newline
 \end_inset
 
-Pour exister au delà de mon horizon nu.
+Pour exister au-delà de mon horizon nu.
 \begin_inset VSpace medskip
 \end_inset
 
@@ -6474,7 +6477,7 @@ Se laver est une préoccupation majeure de l'homme occidental moderne.
 \end_layout
 
 \begin_layout Standard
-Quelques soient ces limites, comment font deux baroudeurs de pleine nature,
+Quelles que soient ces limites, comment font deux baroudeurs de pleine nature,
  sans eau à volonté sortant d'un robinet, pour se laver ? Selon les lieux
  et les météos, nos manières ont été bien différentes.
  Du bain complètement nu dans l'eau tiède d'une rivière, au décrassage complet
@@ -6493,7 +6496,7 @@ En kayak, sur la Loire, nous passions nos journées les pieds dans l'eau.
 \end_layout
 
 \begin_layout Standard
-À son commencement, le fleuve était bien agité ; il nous ballotait et nous
+À son commencement, le fleuve était bien agité ; il nous ballottait et nous
  trempait jusqu'aux os.
  Le soir était alors synonyme de séchage plus que de lavage.
  Par la suite, lorsque la navigation est devenue calme, le soleil ami et
@@ -6510,7 +6513,7 @@ plouffais
  et barbotais dans l'eau, tandis que Mathieu y plongeait et y nageait.
  Notre toilette était alors complète, avec comme seuls accessoires : savon
  de Marseille et gant.
- Bien sûr, nous avons du passer outre quelques aprioris sur la propreté
+ Bien sûr, nous avons dû passer outre quelques aprioris sur la propreté
  de l'eau.
  Il est possible, en effet, qu'elle était polluée de quelques éléments peu
  ragoutants.
@@ -6547,7 +6550,7 @@ grande marche
 \end_inset
 
 .
- Secondo, la météo ne fut pas aussi clémente.
+ Secundo, la météo ne fut pas aussi clémente.
 \end_layout
 
 \begin_layout Standard
@@ -6601,7 +6604,7 @@ Il y eut quelques grandes rivières sillonnant le territoire : la Loire,
 \end_layout
 
 \begin_layout Standard
-Pour finir, à cinq reprises, nous sommes 
+Pour finir, nous sommes 
 \begin_inset Quotes fld
 \end_inset
 
@@ -6609,7 +6612,7 @@ passés à la douche
 \begin_inset Quotes frd
 \end_inset
 
-.
+ à cinq reprises.
  Accueillis chez des amis, des douches chaudes et formelles nous ont été
  offertes.
  Rien de bien palpitant, cependant, à voir sortir l'eau d'un robinet.
@@ -6699,7 +6702,7 @@ Y'a des gens !
 \end_inset
 
  Ni une ni deux, il s'accroupit avec autant de célérité, cachant son mètre
- quasi quatre-vingt dix dans...
+ quasi quatre-vingt-dix dans...
  30
 \begin_inset space ~
 \end_inset
@@ -6830,7 +6833,10 @@ Réponse D :
 
 \begin_layout Standard
 À vos télécommandes...
- La bonne réponse est la 
+\begin_inset Newline newline
+\end_inset
+
+La bonne réponse est la 
 \begin_inset Quotes fld
 \end_inset
 
@@ -6912,7 +6918,7 @@ La chasse ? Très peu pour nous.
 \begin_layout Standard
 Une fois, nous nous sommes essayés à la mycologie, croquant de belles coulemelle
 s crues, non lavées.
- Nous les avons dégusté ; notre flore intestinale aussi...
+ Nous les avons dégustées ; notre flore intestinale aussi...
 \begin_inset VSpace bigskip
 \end_inset
 
@@ -6991,7 +6997,7 @@ Nous nous sommes alors tournés vers de grosses boîtes de taboulé.
  Ce n'était, ni plus ni moins, que de la semoule huileuse avec quelques
  morceaux colorés.
  Plus rebutant encore, ces préparations sont le summum de l'alimentation
- hyper-transformée que, sédentaires, nous préférons éviter.
+ hyper transformée que, sédentaires, nous préférons éviter.
  Il ne fallait pas que cela devienne notre norme.
 \end_layout
 
@@ -7019,7 +7025,7 @@ passer à table
 \begin_inset Quotes frd
 \end_inset
 
- ! Car au delà du réconfort physique, ces 
+ ! Car au-delà du réconfort physique, ces 
 \begin_inset Quotes fld
 \end_inset
 
@@ -7512,7 +7518,8 @@ Ni une ni deux, Kim se relève, époussetant sa jolie robe-tablier d’un revers
  derrière les oreilles, elle écoute attentivement les bruits alentours.
  Et elle fait 
 \emph on
-Tchioum Tchioum
+Tchioum\SpecialChar \-
+Tchioum
 \emph default
  pour appeler, tandis que l’inconnu, siffleur des bois, lui répond 
 \emph on
@@ -7705,10 +7712,8 @@ Tandis qu’elle se baisse pour la ramasser, un sifflement appelle à l’orée
  de la forêt : 
 \emph on
 Kim Pîiik ? Pîiik Kim ?
-\end_layout
-
-\begin_layout Standard
-Ça ne peut être le siffleur des bois ! Il a détalé au large, comme un fuyard
+\emph default
+ Ça ne peut être le siffleur des bois ! Il a détalé au large, tel un fuyard
  apeuré.
 \end_layout
 
@@ -7721,10 +7726,7 @@ Pour surprendre ce nouvel inconnu, Kim passe la tête entre ses deux petites
  jambes, en direction du sifflement.
  Et là, stupéfaite par ce qu’elle voit à l’envers, Kim tombe étourdie dans
  une superbe galipette avant.
-\end_layout
-
-\begin_layout Standard
-À la lisière des pins, se tient ce qu’elle cherche depuis si longtemps,
+ À la lisière des pins, se tient ce qu’elle cherche depuis si longtemps,
  depuis le cœur de la forêt.
  Son papa !
 \end_layout
@@ -7734,8 +7736,8 @@ Sans gamberger, Kim se relève, fait trois tours sur elle-même, puis s’élanc
  vers lui les bras grands ouverts.
  Au bout de sa course, elle enlace avec force les jambes de ce papa, qui
  se baisse, la soulève et la fait tournoyer.
- La robe-tablier de Kim virevolte et de petites larmes coulent le long de
- ses joues rougies.
+ La robe-tablier de Kim virevolte et de petites larmes coulent sur ses joues
+ rougies.
 \end_layout
 
 \begin_layout Standard
@@ -7788,7 +7790,7 @@ descente de Loire
 \end_layout
 
 \begin_layout Standard
-Découpez-le, adaptez-le et servez-vous en pour descendre ce beau fleuve,
+Découpez-le, adaptez-le et servez-vous-en pour descendre ce beau fleuve,
  de sa source jusqu'à son estuaire, ou simplement quelques-uns de ses mille
  kilomètres.
 \end_layout
@@ -7864,6 +7866,10 @@ e
 Vous saurez donc les lieux pratiques et/ou sympas où vous arrêter, les difficult
 és auxquelles vous serez confrontés et comment les franchir.
  Pour le reste, nous vous encourageons à improviser et vous laisser aller...
+\begin_inset Newpage newpage
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -7974,6 +7980,7 @@ CC0 1.0 universel
 \end_layout
 
 \begin_layout Standard
+\noindent
 CREATIVE COMMONS N’EST PAS UN CABINET D’AVOCATS ET NE FOURNIT PAS DE SERVICES
  DE CONSEIL JURIDIQUE.
  LA PUBLICATION DE CE DOCUMENT NE CRÉE AUCUNE RELATION JURIDIQUE ENTRE LES
@@ -7993,32 +8000,61 @@ Déclaration d’Intention
 \begin_layout Standard
 Les lois de la plupart des législations des états du monde accordent automatique
 ment des Droits d’Auteur et Droits Voisins (définis ci-dessous) au créateur
- et au(x) titulaire(s) de droits ultérieur(s) (ci-après, le « titulaire
- ») d’une œuvre originale protégeable par le droit de la propriété littéraire
- et artistique et/ou une base de données (ci-après, une « Œuvre »).
+ et au(x) titulaire(s) de droits ultérieur(s) (ci-après, le 
+\begin_inset Quotes fld
+\end_inset
+
+titulaire
+\begin_inset Quotes frd
+\end_inset
+
+) d’une œuvre originale protégeable par le droit de la propriété littéraire
+ et artistique et/ou une base de données (ci-après, une 
+\begin_inset Quotes fld
+\end_inset
+
+Œuvre
+\begin_inset Quotes frd
+\end_inset
+
+).
 \end_layout
 
 \begin_layout Standard
 Certains titulaires souhaitent renoncer de façon définitive à ces droits
  sur une Œuvre dans le but de contribuer à un fonds commun de travaux créatifs,
- culturels et scientifiques (les « Biens Communs ») que le public, de façon
- certaine et sans craindre d’actions ultérieures pour contrefaçon peut utiliser
- comme base de travail, de modifier, d’incorporer dans d’autres travaux,
- de réutiliser et de redistribuer aussi librement que possible sous quelque
- forme que ce soit et à quelque fin que ce soit, y compris, et sans réserves,
- à des fins commerciales.
+ culturels et scientifiques (les 
+\begin_inset Quotes fld
+\end_inset
+
+Biens Communs
+\begin_inset Quotes frd
+\end_inset
+
+) que le public, de façon certaine et sans craindre d’actions ultérieures
+ pour contrefaçon peut utiliser comme base de travail, de modifier, d’incorporer
+ dans d’autres travaux, de réutiliser et de redistribuer aussi librement
+ que possible sous quelque forme que ce soit et à quelque fin que ce soit,
+ y compris, et sans réserves, à des fins commerciales.
  Ces titulaires peuvent contribuer aux Biens Communs dans le but de promouvoir
  les idéaux de la culture libre et la production de travaux créatifs, culturels
  et scientifiques, ou pour acquérir une notoriété ou une plus grande diffusion
  de leur Œuvre, notamment grâce à l’utilisation qui en sera faite par d’autres.
- Quelque soit les raisons, et sans attendre aucune rémunération ou compensation,
- la personne associant la CC0 à une Œuvre (le « Déclarant »), dans la mesure
- où il ou elle est titulaire des Droits d’Auteur et des Droits Voisins de
- l’Œuvre, fait volontairement le choix d’appliquer la CC0 à l’Œuvre et de
- distribuer publiquement l’Œuvre sous les termes de cette licence, en toute
- connaissance de l’étendue de ses Droits d’Auteur et Droits Voisins sur
- l’Œuvre, ainsi que de la portée et des effets juridiques de la CC0 sur
- ces droits.
+ Quelles que soient les raisons, et sans attendre aucune rémunération ou
+ compensation, la personne associant la CC0 à une Œuvre (le 
+\begin_inset Quotes fld
+\end_inset
+
+Déclarant
+\begin_inset Quotes frd
+\end_inset
+
+), dans la mesure où il ou elle est titulaire des Droits d’Auteur et des
+ Droits Voisins de l’Œuvre, fait volontairement le choix d’appliquer la
+ CC0 à l’Œuvre et de distribuer publiquement l’Œuvre sous les termes de
+ cette licence, en toute connaissance de l’étendue de ses Droits d’Auteur
+ et Droits Voisins sur l’Œuvre, ainsi que de la portée et des effets juridiques
+ de la CC0 sur ces droits.
 \end_layout
 
 \begin_layout Subsubsection*
@@ -8027,8 +8063,15 @@ Droit d’Auteur et Droits Voisins
 
 \begin_layout Standard
 Une Œuvre mise à disposition sous la CC0 peut être protégée par les droits
- d’auteur et les droits voisins ou connexes (le « Droit d’Auteur et les
- Droits Voisins »).
+ d’auteur et les droits voisins ou connexes (le 
+\begin_inset Quotes fld
+\end_inset
+
+Droit d’Auteur et les Droits Voisins
+\begin_inset Quotes frd
+\end_inset
+
+).
  Le Droit d’Auteur et les Droits Voisins comportent, notamment, les prérogatives
  suivantes :
 \end_layout
@@ -8087,8 +8130,19 @@ Dans toute la mesure permise par la loi, mais sans l’enfreindre, le Déclarant
  (y compris les prolongations futures de cette durée), (iii) sur n’importe
  quel support actuel ou futur et quel que soit le nombre de copies, et (iv)
  pour toutes fins, y compris, et sans réserves, les fins commerciales, publicita
-ires ou promotionnelles (la « Renonciation »).
- Le Déclarant procède à la Renonciation au bénéfice de chacun des membres
+ires ou promotionnelles (la 
+\begin_inset Quotes fld
+\end_inset
+
+Renonciation
+\begin_inset Quotes frd
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Standard
+Le Déclarant procède à la Renonciation au bénéfice de chacun des membres
  du public le plus large et au détriment des héritiers et successeurs du
  Déclarant, avec la ferme volonté que cette Renonciation ne puisse faire
  l’objet d’aucune révocation, rescision, résiliation, annulation, conclusion,
@@ -8115,8 +8169,15 @@ onnelle (i) partout dans le monde, (ii) pour la durée maximale prévue par
  les lois ou traités applicables (y compris les prolongations futures de
  cette durée), (iii) sur n’importe quel support actuel ou futur et quel
  que soit le nombre de copies, et (iv) pour toutes fins, y compris, et sans
- réserves, les fins commerciales, publicitaires ou promotionnelles (la «
- Licence »).
+ réserves, les fins commerciales, publicitaires ou promotionnelles (la 
+\begin_inset Quotes fld
+\end_inset
+
+Licence
+\begin_inset Quotes frd
+\end_inset
+
+).
  La licence sera réputée effective à la date à laquelle le Déclarant a appliqué
  CC0 à l’Œuvre.
  Dans le cas où une partie quelconque de la Licence, et pour quelque raison
