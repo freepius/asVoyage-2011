@@ -302,7 +302,7 @@ Crépuscules ligériens
 
 
 \begin_inset Graphics
-	filename pictures/down-loire/big/IMG_2490.jpg
+	filename pictures/down-loire/big/IMG_2556.jpg
 	lyxscale 10
 	width 12.5cm
 
@@ -335,7 +335,7 @@ Crépuscules ligériens
 
 
 \begin_inset Graphics
-	filename pictures/down-loire/big/IMG_2673.jpg
+	filename pictures/down-loire/big/IMG_2489.jpg
 	lyxscale 5
 	width 6cm
 	rotateAngle -90
@@ -349,7 +349,7 @@ Crépuscules ligériens
 
 
 \begin_inset Graphics
-	filename pictures/down-loire/big/IMG_2556.jpg
+	filename pictures/down-loire/big/IMG_2735.jpg
 	lyxscale 5
 	width 6cm
 	rotateAngle -90
@@ -438,11 +438,11 @@ Sel sur mes lèvres et vagues m'aspergeant : bel avant-goût de l'océan
 
 \shape slanted
 \begin_inset Graphics
-	filename pictures/long-walk/big/IMG_3036.jpg
+	filename pictures/long-walk/big/IMG_2831.jpg
 	lyxscale 5
 	width 6cm
-	rotateAngle -90
-	rotateOrigin leftTop
+	rotateAngle 90
+	rotateOrigin leftBottom
 
 \end_inset
 
@@ -453,11 +453,11 @@ Sel sur mes lèvres et vagues m'aspergeant : bel avant-goût de l'océan
 
 
 \begin_inset Graphics
-	filename pictures/long-walk/big/IMG_2831.jpg
+	filename pictures/long-walk/big/IMG_3036.jpg
 	lyxscale 5
 	width 6cm
-	rotateAngle -90
-	rotateOrigin leftTop
+	rotateAngle 90
+	rotateOrigin leftBottom
 
 \end_inset
 
@@ -467,11 +467,11 @@ Sel sur mes lèvres et vagues m'aspergeant : bel avant-goût de l'océan
 
 
 \begin_inset Graphics
-	filename pictures/long-walk/big/IMG_3086.jpg
+	filename pictures/long-walk/big/IMG_2994.jpg
 	lyxscale 5
 	width 6cm
-	rotateAngle -90
-	rotateOrigin leftTop
+	rotateAngle 90
+	rotateOrigin leftBottom
 
 \end_inset
 
@@ -482,11 +482,11 @@ Sel sur mes lèvres et vagues m'aspergeant : bel avant-goût de l'océan
 
 
 \begin_inset Graphics
-	filename pictures/long-walk/big/IMG_2994.jpg
+	filename pictures/long-walk/big/IMG_3086.jpg
 	lyxscale 5
 	width 6cm
-	rotateAngle -90
-	rotateOrigin leftTop
+	rotateAngle 90
+	rotateOrigin leftBottom
 
 \end_inset
 
@@ -522,7 +522,7 @@ Des paysages et l'ami Francis !
 
 \shape slanted
 \begin_inset Graphics
-	filename pictures/long-walk/big/IMG_3200.jpg
+	filename pictures/long-walk/big/IMG_3294.jpg
 	lyxscale 5
 	width 6cm
 	rotateAngle 90
@@ -537,7 +537,7 @@ Des paysages et l'ami Francis !
 
 
 \begin_inset Graphics
-	filename pictures/long-walk/big/IMG_3328.jpg
+	filename pictures/long-walk/big/IMG_3361.jpg
 	lyxscale 5
 	width 6cm
 	rotateAngle 90

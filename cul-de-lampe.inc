@@ -11,13 +11,15 @@ Style Cul-de-lampe
 	Margin           Static
 	LatexType        Environment
 	LatexName        culdelampe
-	HTMLTag          hr
+	HTMLTag          p
+	HTMLAttr         "culdelampe"
+	HTMLStyle        ".culdelampe { margin: 2cm 0.5cm };"
 	TopSep           0.5
 	BottomSep        0.5
 	Align            Center
 	AlignPossible    Center
 	LabelType        Static
-	LabelString      "*** Cul de lampe ***"
+	LabelString      "* * *"
 	LabelFont
 		Family         Roman
 		Series         Medium
