@@ -27,7 +27,7 @@ h2.author {
 }
 
 body {
-    font: 90% sans-serif;
+    font-family: DejaVu Serif, serif;
     line-height: 1.5em;
 }
 
@@ -35,7 +35,6 @@ p {
     text-align: justify;
 }
 
-/* Basic styles */
 a {
     text-decoration: none;
     background: none;
@@ -57,9 +56,6 @@ h1 {
     line-height: 1.5em;
 }
 h1.Part {
-    text-align: center;
-}
-h1.Part- {
     text-align: center;
 }
 sup {
@@ -109,21 +105,4 @@ div.EndFoot {
 div.Cul-de-lampe {
     margin: 1em 0;
     text-align: center;
-}
-
-/*
-* CSS section for print.
-*/
-@media print {
-body {
-    font: 90% serif;
-    background: #ffffff;
-    color: black;
-    margin: 0;
-    padding: 0;
-}
-a:visited {
-    color: #0030c0;
-}
-/* end of print CSS */
 }
